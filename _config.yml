@@ -21,7 +21,7 @@
 title: Keenan J. Britt
 email: kjbritt91@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Portfolio website for Keenan J. Britt, Alaska based science writer, web manager and travel marketing expert. Feel free to reach out to me!
+  Portfolio website for Keenan J. Britt, Alaska based science writer, web manager and destination marketing specialist. Feel free to reach out to me!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kjbritt.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
