@@ -11,6 +11,8 @@ I'm an Alaska-based science writer, web manager and destination marketing specia
 
 As a writer, I cover travel and events in Alaska, science, wildlife biology, paleontology, archaeology, ancient history and technology. My writing portfolio is available on [MuckRack](https://muckrack.com/keenan-britt-1).
 
+I chose to pursue science journalism because of my lifelong passion for science, inspired by my childhood fascination with dinosaurs. I'm currently a board member for the Alaska Museum of Science and Nature. 
+
 I earned a bachelor's degree in anthropology from the University of Michigan and have training in labratory and field methods in both archaeology and paleontology. I participated in archaeological excavations in Belize, Jordan and Alaska. Recently, I visited and [reported on the ongoing excavations at the Carpenter Site](https://www.uaa.alaska.edu/news/archive/2025/07/archaeology-carpenter-site-old-can-artifact.cshtml) near Delta Junction, Alaska. 
 
 ## Skills
@@ -19,3 +21,5 @@ I earned a bachelor's degree in anthropology from the University of Michigan and
 - HTML/CSS
 - Python
 - SQL
+- Salesforce Marketing Cloud
+- WordPress
