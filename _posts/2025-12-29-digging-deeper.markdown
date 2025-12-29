@@ -12,3 +12,9 @@ A co-worker and I spent two days as guests at the site, and I was able to interv
 1. [Why is an old can an artifact?](https://www.uaa.alaska.edu/news/archive/2025/07/archaeology-carpenter-site-old-can-artifact.cshtml)
 1. [A left-handed stone tool?](https://www.uaa.alaska.edu/news/archive/2025/07/left-handed-stone-tool.cshtml)
 1. [Ice Age cooking?](https://www.uaa.alaska.edu/news/archive/2025/09/ice-age-cooking-carpenter-site.cshtml)
+
+## About the Carpenter Site
+
+The Carpenter Site is located on a bluff near the mouth of the Shaw Creek, about a half-hour drive from the small community of Delta Junction, Alaska. The site is also known as “Naayii'ęę'” — a traditional place name for the area in the Middle Tanana Dene language, meaning “it is visible across.”  
+
+For those interested in learning more about the pre-colonial history and archeaology of the region, I highly recommend reading [The Gift of the Middle Tanana](https://www.amazon.com/Gift-Middle-Tanana-Pre-Colonial-Interior/dp/179365476X) by Gerad Smith. 
