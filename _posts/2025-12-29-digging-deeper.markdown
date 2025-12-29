@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Launching a portfolio site"
+title:  "Digging deeper into the story"
 date:   2025-12-29 01:06:33 +0000
 categories: jekyll update
 ---
