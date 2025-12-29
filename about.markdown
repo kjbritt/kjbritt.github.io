@@ -23,3 +23,8 @@ I earned a bachelor's degree in anthropology from the University of Michigan and
 - SQL
 - Salesforce Marketing Cloud
 - WordPress
+
+### Soft Skills
+- Associate Press styling
+- Copy editing
+- Marketing strategy
