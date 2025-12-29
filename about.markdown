@@ -3,9 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
-# Hello
+## Hello
 
 I'm an Alaska-based science writer, web manager and destination marketing specialist. 
+
+### Science Writer
 
 As a writer I cover travel and events in Alaska, science, wildlife, paleontology, archaeology, ancient history and technology. My writing portfolio is available on [MuckRack](https://muckrack.com/keenan-britt-1).
 
