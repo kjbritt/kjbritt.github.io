@@ -13,6 +13,8 @@ A co-worker and I spent two days as guests at the site, and I was able to interv
 1. [A left-handed stone tool?](https://www.uaa.alaska.edu/news/archive/2025/07/left-handed-stone-tool.cshtml)
 1. [Ice Age cooking?](https://www.uaa.alaska.edu/news/archive/2025/09/ice-age-cooking-carpenter-site.cshtml)
 
+Observing the dig held special significance for me, not just because of my background in archaeology. A decade earlier, in 2016, I attended a field school at [the Mead Site](https://sites.google.com/a/alaska.edu/dr-ben-a-potter/site-mead-site) which is within walking distance of the Carpenter Site. I was honored to meet the next generation of Alaskan archaeologists.
+
 ## Structuring the series
 
 With notes, a dozen recorded interviews and hundreds of photographs, I was faced with the happy problem of deciding how to organize all of hte information into a coherent narrative.
