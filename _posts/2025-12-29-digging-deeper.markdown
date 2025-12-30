@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Digging deeper into the story"
+title:  "Digging deeper into the story? Archaeology at the Carpenter Site"
 date:   2025-12-29 01:06:33 +0000
 categories: jekyll update
 ---
