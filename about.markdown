@@ -23,7 +23,7 @@ I have a robust background in Alaska's travel industry. I lead national level ma
 
  I represented Valdez, Alaska at professional conferences and events in the Lower 48, including the Alaska Media Roadshow, the Pacific Northwest Sportsmen's Show and the American Bus Association.
 
-## Skills
+## Top Skills
 
 ### Technical Skills
 - HTML/CSS
@@ -36,3 +36,12 @@ I have a robust background in Alaska's travel industry. I lead national level ma
 - Associated Press styling
 - Copy editing
 - Marketing strategy
+- Search engine optimization (SEO)
+
+## Education and Certifications
+
+### Education
+- BA in Anthropology (concentration in archaeology), University of Michigan
+- BA in Arabic & Islamic Studies, University of Michigan
+- Academic minor in Paleontology, University of Michigan
+- Graduate program in Anthropology, University of Alaska Fairbanks
