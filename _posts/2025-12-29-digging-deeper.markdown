@@ -4,6 +4,8 @@ title:  "Digging deeper into the story? Archaeology at the Carpenter Site"
 date:   2025-12-29 01:06:33 +0000
 categories: jekyll update
 ---
+![The Tanana River Valley seen from atop a bluff](/docs/assets/images/carpenter_site_views.jpg)
+_The Tanana River Valley seen from the Carpenter Site, June 2025_
 
 Back in June I had the opportunity to cover an active archaeological excavation at the Carpenter Site near Delta Junction, Alaska as part of my work with the University of Alaska Anchorage (UAA). The dig was part of a field school for undergraduate and graduate students led by UAA's Professor Gerad Smith. 
 
