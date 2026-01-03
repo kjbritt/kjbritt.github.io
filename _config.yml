@@ -33,9 +33,9 @@ plugins:
   - jekyll-feed
 
 #Nav bar
-header_pages:
-  - index.md
-  - about.md
+#header_pages:
+#  - index.md
+#  - about.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
