@@ -2,7 +2,7 @@
 layout: post
 title:  "Digging deeper into the story? Archaeology at the Carpenter Site"
 date:   2025-12-29 01:06:33 +0000
-categories: jekyll update
+category: archaeology
 ---
 ![The Tanana River Valley seen from atop a bluff](/docs/assets/images/carpenter_site_views.jpg)
 _The Tanana River Valley seen from the Carpenter Site, June 2025_
