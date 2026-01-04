@@ -33,9 +33,9 @@ plugins:
   - jekyll-feed
 
 #Nav bar based on https://github.com/jekyll/minima/blob/master/README.md
-minima:
-  nav_pages:
-    - about.markdown
+
+nav_pages:
+  - about.markdown
     
 
 # Exclude from processing.
