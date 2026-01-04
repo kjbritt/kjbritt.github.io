@@ -3,6 +3,7 @@ layout: post
 title:  "Digging deeper into the story? Archaeology at the Carpenter Site"
 author: "Keenan J. Britt"
 description: "Back in June I had the opportunity to cover an active archaeological excavation at the Carpenter Site near Delta Junction, Alaska."
+image: /docs/assets/images/carpenter_site_views.jpg
 date:   2025-12-29 01:06:33 +0000
 category: archaeology
 ---
