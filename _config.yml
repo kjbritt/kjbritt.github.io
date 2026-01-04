@@ -32,10 +32,11 @@ theme: minima
 plugins:
   - jekyll-feed
 
-#Nav bar
-#header_pages:
-#  - index.md
-#  - about.md
+#Nav bar based on https://github.com/jekyll/minima/blob/master/README.md
+minima:
+  nav_pages:
+    - about.md
+    
 
 # Exclude from processing.
 # The following items will not be processed, by default.
