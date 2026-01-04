@@ -34,7 +34,7 @@ plugins:
 
 #Nav bar based on https://github.com/jekyll/minima/blob/master/README.md
 
-nav_pages:
+header_pages:
   - about.markdown
     
 
