@@ -6,7 +6,7 @@ description: "Writing quality meta descriptions for your web pages is a key feat
 image: /docs/assets/images/petra_pfp.jpg
 date:   2026-01-04 01:06:33 +0000
 category: seo
-published: false
+published: true
 ---
 Writing quality meta descriptions for your web pages is a key feature of search engine optimization (SEO). 
 
@@ -32,4 +32,12 @@ SEO efforts should always, ultimately, be aimed at humans, not bots. You'll want
 
 ## How to automatically pull meta descriptions from every page on your website
 
-If you've taken over management of a website with a significant number of pages, navigating through a CMS to manually review the meta description for each page can take a significant amount of time. 
+If you've taken over management of a website with a significant number of pages, navigating through a content management system (CMS) to manually review the meta description for each page can take a significant amount of time. 
+
+Thankfully, there's a quick solution to easily pull a complete list of all the meta descriptions across your website as a spreadsheet. Once all the meta descriptions are compiled in a sheet, you can quickly and easily read over each one, and identify those that will need to be updated.
+
+You can pull all the meta descriptions from your website using my new [Meta Description Scraper](https://github.com/kjbritt/Meta-Description-Scraper) to automate your SEO efforts and save time.
+
+You will need to have Python installed on your machine. From there, you can download the simple Python script and run it from the command line to receive a CSV file in seconds. 
+
+The script will prompt you to enter the name of a TXT file containing all the URLs from your website. If you don't have those handy, you can easily extract them using the [SEOwl Sitemap Extractor](https://www.seowl.co/sitemap-extractor/). 
