@@ -42,4 +42,4 @@ You will need to have Python installed on your machine for the program to work. 
 
 The script will prompt you to enter the name of a TXT file containing all the URLs from your website. You can easily extract a list of all web page URLs contained in your website's sitemap using the [SEOwl Sitemap Extractor](https://www.seowl.co/sitemap-extractor/). 
 
-_The meta image used on this webpage is courtesy of Martin Vorel, under a Creative Commons ASA 4.0 license, [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Programming_code.jpg).
+_The meta image used on this webpage is courtesy of Martin Vorel, under a Creative Commons ASA 4.0 license, [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Programming_code.jpg)._
