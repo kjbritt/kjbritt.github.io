@@ -2,6 +2,7 @@
 layout: post
 title:  "Automate your SEO by scraping meta descriptions"
 description: "Learn how to automate your SEO efforts by extracting meta descriptions from every page on your website."
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Programming_code.jpg/640px-Programming_code.jpg
 author: "Keenan J. Britt
 date:   2026-01-05 00:22:33 +0000
 category: technology
