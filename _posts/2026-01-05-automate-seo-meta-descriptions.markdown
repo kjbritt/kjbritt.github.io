@@ -34,9 +34,9 @@ SEO efforts should always, ultimately, be aimed at humans, not bots. You'll want
 
 If you've taken over management of a website with a significant number of pages, navigating through a content management system (CMS) to manually review the meta description for each page can take a significant amount of time. 
 
-Thankfully, there's a quick solution to easily pull a complete list of all the meta descriptions across your website as a spreadsheet. Once all the meta descriptions are compiled in a sheet, you can quickly and easily read over each one, and identify those that will need to be updated.
+Thankfully, there's a quick solution to easily pull a complete list of all the meta descriptions across your website as a spreadsheet to quickly and easily identify those that need to be updated.
 
-You can pull all the meta descriptions from your website using my new [Meta Description Scraper](https://github.com/kjbritt/Meta-Description-Scraper) to automate your SEO efforts and save time.
+You can scrape all the meta descriptions from your website using my new [Meta Description Scraper](https://github.com/kjbritt/Meta-Description-Scraper). Using this scraper will automate your SEO efforts and save valuable time.
 
 You will need to have Python installed on your machine for the program to work. If you don't have Python installed, you can easily [download the latest version](https://www.python.org/downloads/) for free. From there, you can download my Meta Description Scraper and run it from your computer's command line (Command Prompt on Windows) to receive a CSV file in seconds. 
 
