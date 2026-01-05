@@ -6,6 +6,7 @@ description: "Back in June I had the opportunity to cover an active archaeologic
 image: /docs/assets/images/carpenter_site_views.jpg
 date:   2026-01-04 01:06:33 +0000
 category: technology
+published: false
 ---
 Writing quality meta descriptions for your web pages is a key feature of search engine optimization. 
 
