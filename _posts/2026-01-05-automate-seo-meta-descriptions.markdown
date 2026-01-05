@@ -3,7 +3,7 @@ layout: post
 title:  "Automate your SEO efforts by scraping meta descriptions"
 author: "Keenan J. Britt"
 description: "Writing quality meta descriptions for your web pages is a key feature of search engine optimization."
-image: /docs/assets/images/petra_pfp.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Programming_code.jpg/960px-Programming_code.jpg
 date:   2026-01-04 01:06:33 +0000
 category: seo
 published: true
