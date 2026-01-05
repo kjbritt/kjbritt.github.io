@@ -38,6 +38,6 @@ Thankfully, there's a quick solution to easily pull a complete list of all the m
 
 You can pull all the meta descriptions from your website using my new [Meta Description Scraper](https://github.com/kjbritt/Meta-Description-Scraper) to automate your SEO efforts and save time.
 
-You will need to have Python installed on your machine. From there, you can download the simple Python script and run it from the command line to receive a CSV file in seconds. 
+You will need to have Python installed on your machine for the program to work. If you don't have Python installed, you can easily [download the latest version](https://www.python.org/downloads/) for free. From there, you can download my Meta Description Scraper and run it from your computer's command line (Command Prompt on Windows) to receive a CSV file in seconds. 
 
 The script will prompt you to enter the name of a TXT file containing all the URLs from your website. If you don't have those handy, you can easily extract them using the [SEOwl Sitemap Extractor](https://www.seowl.co/sitemap-extractor/). 
