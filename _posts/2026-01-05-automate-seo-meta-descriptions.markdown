@@ -8,7 +8,7 @@ date:   2026-01-04 01:06:33 +0000
 category: seo
 published: false
 ---
-Writing quality meta descriptions for your web pages is a key feature of search engine optimization. 
+Writing quality meta descriptions for your web pages is a key feature of search engine optimization (SEO). 
 
 ## What are meta descriptions?
 
@@ -28,6 +28,8 @@ As [Yoast explains](https://yoast.com/meta-descriptions/):
 
 >Google uses click-through rate (CTR) to determine whether you’re a good result. If more people click on your result, Google considers you to be a good result and will, based on your position, move you up the rankings. 
 
+SEO efforts should always, ultimately, be aimed at humans, not bots. You'll want to periodically review your web pages' meta descriptions to ensure they are accurate and up-to-date. Overtime, meta descriptions may become dated, containing references to products or services your organization no longer offers. They may also use old branding language that no longer reflects your brand identity. As you edit or rewrite your meta descriptions, make sure to follow Google's guidelines on "[best practices for creating quality meta descriptions](https://developers.google.com/search/docs/appearance/snippet#meta-descriptions)".
+
 ## How to automatically pull meta descriptions from every page on your website
 
-Hello
+If you've taken over management of a website with a significant number of pages, navigating through a CMS to manually review the meta description for each page can take a significant amount of time. 
