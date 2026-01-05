@@ -40,4 +40,4 @@ You can scrape all the meta descriptions from your website using my new [Meta De
 
 You will need to have Python installed on your machine for the program to work. If you don't have Python installed, you can easily [download the latest version](https://www.python.org/downloads/) for free. From there, you can download my Meta Description Scraper and run it from your computer's command line (Command Prompt on Windows) to receive a CSV file in seconds. 
 
-The script will prompt you to enter the name of a TXT file containing all the URLs from your website. If you don't have those handy, you can easily extract them using the [SEOwl Sitemap Extractor](https://www.seowl.co/sitemap-extractor/). 
+The script will prompt you to enter the name of a TXT file containing all the URLs from your website. You can easily extract a list of all web page URLs contained in your website's sitemap using the [SEOwl Sitemap Extractor](https://www.seowl.co/sitemap-extractor/). 
