@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Automate SEO: Scraping Meta Descriptions"
+title:  "Automate your SEO by scraping meta descriptions"
 description: "Learn how to automate your SEO efforts by extracting meta descriptions from every page on your website."
 author: "Keenan J. Britt
 date:   2026-01-05 00:22:33 +0000
