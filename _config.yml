@@ -31,12 +31,13 @@ github_username:  kjbritt
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 #Nav bar based on https://github.com/jekyll/minima/blob/master/README.md
 
 header_pages:
   - about.markdown
-  - jekyll-sitemap
+  
 
 # Exclude from processing.
 # The following items will not be processed, by default.
