@@ -6,7 +6,7 @@ description: "Are you using AI to automate your SEO efforts? Beware these three 
 image: https://upload.wikimedia.org/wikipedia/commons/c/ce/Cartucho_de_Atari_2600_del_juego_Pitfall.jpg
 date:   2026-01-11 08:06:33 +0000
 category: seo
-published: false
+published: true
 ---
 I'm a big advocate of automating efforts for search engine optimization (SEO) to save time and sanity. In a recent post, I explained the SEO importance of well-written meta descriptions and how you can [Automate your SEO efforts by scraping meta descriptions](https://kjbritt.github.io/seo/2026/01/04/automate-seo-meta-descriptions.html) with my Python script. 
 
@@ -25,7 +25,7 @@ For example, I gave Gemini the link to the homepage of the [Musk Ox Farm](https:
 
 Gemini correctly indicated that the Musk Ox Farm offers guided tours and a qiviut gift shop, but it hallucinated the details about the tours invovling "Ice Age history". Although musk oxen are sometimes described as "Ice Age survivors", the term "Ice Age" does not even appear on the Farm's homepage.
 
-## LLMs can't count
+## Pitfall #2: LLMs can't count
 
 LLMs are infamously bad at counting, often failing to accurately count the number of words in a text or the number of letters in a word. LLMs don't process text character-by-character like traditional computer programs might, but rather in "tokens" which can be whole words or pieces of words. 
 
@@ -41,10 +41,12 @@ The problem is that the text Gemini provided is actually 184 characters. I then 
 
 If you're ever worried about AI stealing your job, remember that you still advantage over the current major LLMs if you happen to know how to count. 
 
-## You may be wasting your time
+## Pitfall #3: You may be wasting your time
 
-text
+No matter how well-written your meta descriptions are, there's no guarantee that search engines will display them in a search results page. Search engines often ignore meta descriptions to create their own snippets. As Google explained in the article [“Control your snippet in search results”](https://developers.google.com/search/docs/appearance/snippet):
 
-As Google explained in the article [“Control your snippet in search results”](https://developers.google.com/search/docs/appearance/snippet):
+>Snippets are automatically created from page content. Snippets are designed to emphasize and preview the page content that best relates to a user's specific search. This means that Google Search might show different snippets for different searches. Snippets are primarily created from the page content itself. However, Google sometimes uses the meta description HTML element if it might give users a more accurate description of the page than content taken directly from the page.
 
->Google will sometimes use the <meta name="description"> tag from a page to generate a snippet in search results, if we think it gives users a more accurate description than would be possible purely from the on-page content. A meta description tag generally informs and interests users with a short, relevant summary of what a particular page is about. They are like a pitch that convince the user that the page is exactly what they’re looking for.
+You'll still want to optimize your meta descriptions for the important pages on your website, but it may not be worth your time to write something special for each page on a large website, especially if many of those pages don't contain content you're trying to rank for as part of your SEO strategy. 
+
+Having an LLM analyze those less important pages to produce meta descriptions that you have to then fact-check, edit and shorten would become a significant time burden. If a particular web page isn't part of your SEO strategy, feel free to let the search engines write their own snippets and focus your time on more productive SEO efforts. 
