@@ -12,7 +12,7 @@ Writing quality meta descriptions for your web pages is a key feature of search 
 
 ## AI hallucination
 
-text
+The first pitfall
 
 ## LLMs can't count
 
@@ -21,3 +21,7 @@ text
 ## You may be wasting your time
 
 text
+
+As Google explained in the article [“Control your snippet in search results”](https://developers.google.com/search/docs/appearance/snippet):
+
+Google will sometimes use the <meta name="description"> tag from a page to generate a snippet in search results, if we think it gives users a more accurate description than would be possible purely from the on-page content. A meta description tag generally informs and interests users with a short, relevant summary of what a particular page is about. They are like a pitch that convince the user that the page is exactly what they’re looking for.
