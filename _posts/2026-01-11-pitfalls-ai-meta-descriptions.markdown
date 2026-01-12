@@ -8,7 +8,9 @@ date:   2026-01-11 08:06:33 +0000
 category: seo
 published: false
 ---
-I'm a big advocate of automating efforts for search engine optimization (SEO) to save time and sanity. In a recent post, I explained how you can [Automate your SEO efforts by scraping meta descriptions](https://kjbritt.github.io/seo/2026/01/04/automate-seo-meta-descriptions.html) with my Python meta description scraper. 
+I'm a big advocate of automating efforts for search engine optimization (SEO) to save time and sanity. In a recent post, I explained the SEO importance of well-written meta descriptions and how you can [Automate your SEO efforts by scraping meta descriptions](https://kjbritt.github.io/seo/2026/01/04/automate-seo-meta-descriptions.html) with my Python script. 
+
+However, some automation techniques should be approached with caution. I recently experimented with using AI large language models (LLMs) like Google Gemini to automatically generate optimized meta descriptions. Needless to say, the results were mixed. 
  
 
 ## Pitfall #1: AI hallucination
