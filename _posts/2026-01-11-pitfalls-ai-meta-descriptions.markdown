@@ -19,7 +19,9 @@ The first pitfall
 
 ## LLMs can't count
 
-The inability of LLMs to count words in a text or 
+LLMs are infamously bad at counting, often failing to accurately count the number of words in a text or the number of letters in a word. LLMs don't process text character-by-character like traditional computer programs might, but rather in "tokens" which can be whole words or pieces of words. 
+
+This common pitfall can mean that AI generated meta descriptions may be too long and end up being "truncated" (shortened) or ignored by search engines and replaced with something else in a search results page. To avoid being truncated, meta descriptions should ideally be no longer than 160 characters. 
 
 I provided Google Gemini with the title of this blog post ("The pitfalls of using AI to write SEO meta descriptions") and asked it to return an ideal meta description between 150 and 160 characters in length. Gemini instantly returned a blurb:
 
