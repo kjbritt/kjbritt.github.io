@@ -8,7 +8,8 @@ date:   2026-01-11 08:06:33 +0000
 category: seo
 published: false
 ---
-Writing quality meta descriptions for your web pages is a key feature of search engine optimization (SEO). 
+I'm a big advocate of automating efforts for search engine optimization (SEO) to save time and sanity. In a recent post, I explained how you can [Automate your SEO efforts by scraping meta descriptions](https://kjbritt.github.io/seo/2026/01/04/automate-seo-meta-descriptions.html) with my Python meta description scraper. 
+ 
 
 ## Pitfall #1: AI hallucination
 
