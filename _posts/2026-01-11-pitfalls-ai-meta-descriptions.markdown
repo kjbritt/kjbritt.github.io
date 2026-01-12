@@ -23,7 +23,7 @@ For example, I gave Gemini the link to the homepage of the [Musk Ox Farm](https:
 
 >Visit our historic farm for a close-up look at the majestic musk ox. Take a guided tour, learn about Ice Age history, and shop for rare, hand-combed qiviut fiber.
 
-Gemini correctly indicated that the Musk Ox Farm offers guided tours and a qiviut gift shop, but it hallucinated the details about the tours invovling "Ice Age history". 
+Gemini correctly indicated that the Musk Ox Farm offers guided tours and a qiviut gift shop, but it hallucinated the details about the tours invovling "Ice Age history". Although musk oxen are sometimes described as "Ice Age survivors", the term "Ice Age" does not even appear on the Farm's homepage.
 
 ## LLMs can't count
 
