@@ -15,7 +15,15 @@ However, some automation techniques should be approached with caution. I recentl
 
 ## Pitfall #1: AI hallucination
 
-The first pitfall
+The first pitfall is one you might guess: [hallucination](https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence)). Within AI, "hallucination" refers to the habit of LLMs and other AI tools to fabricate details that are inaccurate. LLMs are notorious for not just hallucinating, but confidently asserting that their hallucinations are correct.
+
+If you're using an LLM to write meta descriptions for your web pages, you will need to carefully edit and fact-check the descriptions it provides. I experimented with this by providing Google Gemini with the URLs to websites from a number of local businesses and asked it to provide optimized meta descriptions that would drive click-through-rate. I found that Gemini would often hallucinate and keyword-stuff the descriptions with services that weren't actually provided by those businesses.
+
+For example, I gave Gemini the link to the homepage of the [Musk Ox Farm](https://www.muskoxfarm.org/). It provided this as a suggested meta description:
+
+>Visit our historic farm for a close-up look at the majestic musk ox. Take a guided tour, learn about Ice Age history, and shop for rare, hand-combed qiviut fiber.
+
+Gemini correctly indicated that the Musk Ox Farm offers guided tours and a qiviut gift shop, but it hallucinated the details about the tours invovling "Ice Age history". 
 
 ## LLMs can't count
 
