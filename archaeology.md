@@ -31,3 +31,4 @@ I hold a bachelor's degree in anthropology from the University of Michigan. Whil
 - Arcaheology of Hunter-Gatherers 
 - Advanced Zooarchaeology
 
+[This is a broken link](https://kjbritt.github.io/doesnotexist)
