@@ -16,6 +16,12 @@ With a few simple Python scripts that you can run from your own computer, you to
 
 ## Are 404 links bad for SEO?
 
+There's been some confusion on the internet about whether or not 404 errors are actually bad for SEO. If a user enters an incorrect URL into their browser to a page that doesn't actually exist (something like [https://kjbritt.github.io/doesNotExist](https://kjbritt.github.io/)), you'll want a 404 error landing page to appear to help them find what they're looking for. 
+
+However, 404 errors can be bad for your SEO if they are a result of broken links existing on your web pages. As [Adrian Cojocariu](https://cognitiveseo.com/blog/author/coadr93/) explained on [CognitiveSEO](https://cognitiveseo.com/blog/19933/do-404-errors-affect-seo/): 
+
+>The only type of 404 links that really hurt your website are the ones that are on it. When you add a link from your website to another website, you have to make sure that URL actually exists or that you don’t misspell it. You might also have internal links that are broken...Broken links create bad user experience and we all know that Google (and probably other search engines as well) cares about user experience.
+
 ## Extract all links from a single page
 
 ## Find all broken links across your site
