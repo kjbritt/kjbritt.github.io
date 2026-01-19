@@ -30,4 +30,9 @@ If you have [Python installed on your machine](https://www.python.org/downloads/
 
 My 404-Broken-Link-Finder is a simple script that you can run from the command line on your machine. It will ask you to provide a TXT file containing the web page URLs you want to scan and then check each and every https/http link on each and every one of the provided URLs. Any links that return a 404 status code will be included on a CSV spreadsheet titled 'link_status_codes.csv' that you can view after the program finishes running.
 
+## Related Posts
+
+- [The pitfalls of using AI to write SEO meta descriptions](https://kjbritt.github.io/seo/2026/01/11/pitfalls-ai-meta-descriptions.html)
+- [Automate your SEO efforts by scraping meta descriptions](https://kjbritt.github.io/seo/2026/01/04/automate-seo-meta-descriptions.html)
+
 _The meta image used on this webpage is courtesy of Yorqulov Husan, under a Creative Commons Attribution 4.0 International license, [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:404_Not_Found.jpg)._
