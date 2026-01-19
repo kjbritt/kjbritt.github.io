@@ -20,3 +20,4 @@ With a few simple Python scripts that you can run from your own computer, you to
 
 ## Find all broken links across your site
 
+_The meta image used on this webpage is courtesy of Yorqulov Husan, under a Creative Commons Attribution 4.0 International license, [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:404_Not_Found.jpg)._
