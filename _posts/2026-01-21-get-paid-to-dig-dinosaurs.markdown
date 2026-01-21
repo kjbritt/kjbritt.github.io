@@ -10,6 +10,8 @@ published: false
 ---
 Writing quality meta descriptions for your web pages is a key feature of search 
 
+<button onclick="window.location.href='https://tmdinosaurcenter.org/get-involved/employment/field-internship/';" style="background-color: #7f7053; color: white; padding: 15px 32px; border: none; border-radius: 8px; cursor: pointer; font-size: 16px;">Apply Online</button>
+
 ## About the Montana Dinosaur Center
 
 Text
