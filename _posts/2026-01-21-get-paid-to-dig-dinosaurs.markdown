@@ -17,8 +17,6 @@ Writing quality meta descriptions for your web pages is a key feature of search
 
 ## About the Montana Dinosaur Center
 
-Text
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Kuw6q30CrQs?si=JiazuohFRukSb4WZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Text
+The Montana Dinosaur Center, formerly known as Two Medicine Dinosaur Center, is a 501(c)(3) nonprofit located in Bynum, Montana. 
