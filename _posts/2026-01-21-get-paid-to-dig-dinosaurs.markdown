@@ -2,7 +2,7 @@
 layout: post
 title:  "Get paid to dig for dinosaurs in Montana this summer!"
 author: "Keenan J. Britt"
-description: "Writing quality meta descriptions for your web pages is a key feature of search engine optimization."
+description: "Have you always dreamed about digging up dinosaurs? What about getting paid for it? Your golden opportunity is here! Apply for a summer internship in Montana."
 image: https://upload.wikimedia.org/wikipedia/commons/6/60/Two_Medicine.jpg
 date:   2026-01-21 01:06:33 +0000
 category: paleontology
