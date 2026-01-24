@@ -11,24 +11,37 @@ I hold a bachelor's degree in anthropology from the University of Michigan. Whil
 - Khirbet Iskander Expedition, Madaba, Jordan, 2013
 - Field School in Athabaskan Prehistory, Delta Junction, Alaska, 2016
 
-## Coursework
+## News Test
 
-### University of Michigan
+<div id="news-container">
+    <p>Loading the latest stories...</p>
+</div>
 
-- Aztec, Inca, Maya
-- Frauds and Fantastic Claims in Archaeology
-- Prehistory of Europe
-- Archaeology of South Asia
-- Archaeology of Nubia
-- Near Eastern Prehistory
-- North American Archaeology
+<script>
+async function loadRecentNews() {
+    try {
+        // 1. Fetch the data from your JSON file
+        const response = await fetch('news.json');
+        const data = await response.json();
 
-### University of Alaska Fairbanks
+        // 2. Take only the first 5 items
+        const recentStories = data.slice(0, 5);
 
-- Lithics
-- Zooarchaeology
-- GIS in Archaeology
-- Arcaheology of Hunter-Gatherers 
-- Advanced Zooarchaeology
+        // 3. Find the container on your page
+        const container = document.getElementById('news-container');
 
-[This is a broken link](https://kjbritt.github.io/doesnotexist)
+        // 4. Map through the data and create HTML
+        container.innerHTML = recentStories.map(story => `
+            <div class="news-item">
+                <a href="${story.url}" target="_blank">${story.title}</a>
+            </div>
+        `).join('');
+
+    } catch (error) {
+        console.error('Error loading the news:', error);
+    }
+}
+
+// Call the function when the page loads
+loadRecentNews();
+</script>
