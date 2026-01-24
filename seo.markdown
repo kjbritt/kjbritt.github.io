@@ -7,8 +7,16 @@ Welcome to my new SEO blog!
 
 ## Recent posts
 
-[Automate your SEO by finding broken links with Python](https://kjbritt.github.io/seo/2026/01/17/find-broken-links-with-python.html)
-
-[The pitfalls of using AI to write SEO meta descriptions](https://kjbritt.github.io/seo/2026/01/11/pitfalls-ai-meta-descriptions.html)
-
-[Automate your SEO efforts by scraping meta descriptions](https://kjbritt.github.io/seo/2026/01/04/automate-seo-meta-descriptions.html)
+<ul class="post-list">
+  {% assign stories = site.data.seo | slice: 0, 5 %}
+  {% for story in stories %}
+    <li style="margin-bottom: 20px;">
+      <span class="post-meta">{{ story.date | date: "%B %e, %Y" }}</span>
+      <h3>
+        <a class="post-link" href="{{ story.url }}">
+          {{ story.title }}
+        </a>
+      </h3>
+    </li>
+  {% endfor %}
+</ul>
