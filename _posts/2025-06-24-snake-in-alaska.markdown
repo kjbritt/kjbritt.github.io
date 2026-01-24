@@ -12,4 +12,9 @@ In April, a deceased snake was discovered in a hay bale that had been shipped fr
 
 Full story available online via UAA Green & Gold News. 
 
-<button onclick="window.location.href='https://www.uaa.alaska.edu/news/archive/2025/06/have-you-seen-a-snake-in-alaska.cshtml';" style="background-color: #7f7053; color: white; padding: 15px 32px; border: none; border-radius: 8px; cursor: pointer; font-size: 16px;">Full story</button>
+<button onclick="newTab()" style="background-color: #7f7053; color: white; padding: 15px 32px; border: none; border-radius: 8px; cursor: pointer; font-size: 16px;">Full story</button>
+<script>
+function newTab() {
+  window.open("https://www.uaa.alaska.edu/news/archive/2025/06/have-you-seen-a-snake-in-alaska.cshtml");
+}
+</script>
