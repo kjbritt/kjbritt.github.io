@@ -13,7 +13,12 @@ _Exposure of the Two Medicine Formation near "Egg Mountain" in northern Montana.
 
 Have you always dreamed about digging for dinosaurs? I know I sure did. The [Montana Dinosaur Center](https://tmdinosaurcenter.org/) is currently hiring for two field intern positions to help with dig expeditions and museum operations this summer (May-September). The internship includes a stipend and on-site housing. This is a great summer opportunity for college students studying geology or biology. The [full job description](https://tmdinosaurcenter.org/get-involved/employment/field-internship/) is available online. 
 
-<button onclick="window.location.href='https://tmdinosaurcenter.org/get-involved/employment/field-internship/';" style="background-color: #7f7053; color: white; padding: 15px 32px; border: none; border-radius: 8px; cursor: pointer; font-size: 16px;">Apply Online</button>
+<button onclick="newTab()" style="background-color: #7f7053; color: white; padding: 15px 32px; border: none; border-radius: 8px; cursor: pointer; font-size: 16px;">Apply Online</button>
+<script>
+function newTab() {
+  window.open("https://tmdinosaurcenter.org/get-involved/employment/field-internship/");
+}
+</script>
 
 ## About the Montana Dinosaur Center
 
