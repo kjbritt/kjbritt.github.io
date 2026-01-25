@@ -22,7 +22,18 @@ Welcome to my wildlife blog! From wolves to whales, moose to musk oxen, I've bee
 </ul>
 
 <details>
-  <summary>Older posts</summary>
+  <summary style="
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: sans-serif;
+    font-weight: bold;
+    list-style: none;
+    user-select: none;
+    transition: background 0.3s ease;">Older posts</summary>
 <ul class="post-list">
   {% assign stories = site.data.wildlife | slice: 5, 10 %}
   {% for story in stories %}
