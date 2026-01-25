@@ -21,6 +21,8 @@ Welcome to my wildlife blog! From wolves to whales, moose to musk oxen, I've bee
   {% endfor %}
 </ul>
 
+## Older posts
+
 <details>
   <summary style="
     display: inline-block;
