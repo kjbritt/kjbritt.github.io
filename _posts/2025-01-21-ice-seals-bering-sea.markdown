@@ -8,7 +8,7 @@ date:   2025-01-21 01:06:33 +0000
 category: wildlife
 ---
 
-This summer, Memphis Hill, Ph.D., led a team to collect sediment and water samples from sites near Grewingk Glacier in the hopes of identifying ‘extreme microbes’ — microbes that can survive in extreme environments, like underneath glaciers.
+Graduate student Kyle Kolda departed Dutch Harbor with the NOAA Fisheries team aboard the R/V Norseman II in April 2024, aiming to gather data on the health and ecology of ribbon and spotted seals in the Bering Sea.
 
 Full story available online via UAA Green & Gold News. 
 
