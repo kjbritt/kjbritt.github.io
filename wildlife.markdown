@@ -2,12 +2,13 @@
 layout: page
 title: Wildlife
 permalink: /wildlife/
+description: "Welcome to my wildlife blog! From wolves to whales, moose to musk oxen, I've been honored to have had encounters with many of Alaska's iconic wildlife species."
 image: /docs/assets/images/eider_web.jpg
 ---
 ![An adult female musk ox named Eider](/docs/assets/images/eider_web.jpg)
 _Eider, the world's prettiest musk ox, March 2025_
 
-Welcome to my wildlife blog! From wolves to whales, moose to musk oxen, I've been honored to have (safe) encounters with many of Alaska's iconic wildlife species. 
+Welcome to my wildlife blog! From wolves to whales, moose to musk oxen, I've been honored to have had encounters with many of Alaska's iconic wildlife species. 
 
 ## Recent posts
 
