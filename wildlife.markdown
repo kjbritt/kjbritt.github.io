@@ -25,7 +25,7 @@ Welcome to my wildlife blog! From wolves to whales, moose to musk oxen, I've bee
   <summary style="
     display: inline-block;
     padding: 10px 20px;
-    background-color: #007BFF;
+    background-color: #7f7053;
     color: white;
     border-radius: 5px;
     cursor: pointer;
@@ -33,7 +33,7 @@ Welcome to my wildlife blog! From wolves to whales, moose to musk oxen, I've bee
     font-weight: bold;
     list-style: none;
     user-select: none;
-    transition: background 0.3s ease;">Older posts</summary>
+    transition: background 0.3s ease;">Display older posts</summary>
 <ul class="post-list">
   {% assign stories = site.data.wildlife | slice: 5, 10 %}
   {% for story in stories %}
