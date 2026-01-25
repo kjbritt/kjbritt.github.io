@@ -24,7 +24,8 @@ Welcome to my wildlife blog! From wolves to whales, moose to musk oxen, I've bee
 ## Older posts
 
 <details>
-  <summary style="
+  <summary onclick="this.innerText = this.parentElement.open ? 'Display older posts' : 'Hide older posts'"
+  style="
     display: inline-block;
     padding: 10px 20px;
     background-color: #7f7053;
