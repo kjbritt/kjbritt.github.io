@@ -2,6 +2,7 @@
 layout: page
 title: Wildlife
 permalink: /wildlife/
+image: /docs/assets/images/eider_web.jpg
 ---
 ![An adult female musk ox named Eider](/docs/assets/images/eider_web.jpg)
 _Eider, the world's prettiest musk ox, March 2025_
