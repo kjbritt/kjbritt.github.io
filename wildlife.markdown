@@ -3,7 +3,7 @@ layout: page
 title: Wildlife
 permalink: /wildlife/
 ---
-Welcome to my new wildlife blog!
+Welcome to my wildlife blog!
 
 ## Recent posts
 
