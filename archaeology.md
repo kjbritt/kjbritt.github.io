@@ -15,11 +15,16 @@ I hold a bachelor's degree in anthropology from the University of Michigan. Whil
 
 Latest news.
 
-<ul>
+<ul class="post-list">
   {% assign stories = site.data.news | slice: 0, 5 %}
   {% for story in stories %}
-    <li>
-      <a href="{{ story.url }}">{{ story.title }}</a>
+    <li style="margin-bottom: 20px;">
+      <span class="post-meta">{{ story.date | date: "%B %e, %Y" }}</span>
+      <h3>
+        <a class="post-link" href="{{ story.url }}">
+          {{ story.title }}
+        </a>
+      </h3>
     </li>
   {% endfor %}
 </ul>
