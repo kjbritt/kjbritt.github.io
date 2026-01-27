@@ -47,6 +47,14 @@ The rock layers at the park that contain the footprints date back to the Early C
 
 The consensus is that the tracks are likely from _Sauroposeidon_ (the sauropod) and _Acrocanthosaurus_ (the theropod) which were known to have roamed Texas and the Western United States during the time period.
 
+## How to visit the park
+
+Dinosaur Valley State Park is readily accessible, even for out-of-state visitors. The park is approximately and hour-and-a-half drive (roughly 80 miles) from the Dallas Fort Worth International Airport. 
+
+Texas Parks and Wildlife lists [entrance fees online](https://tpwd.texas.gov/state-parks/dinosaur-valley/fees-facilities/entrance-fees) for the park. Currently admission is $8 for adults, and children 12 and under are free.
+
+The Friends of the Dinosaur Valley State Park maintain a [park store](https://fdvsp.com/park-store) which offers snacks, refreshments, books and souvenirs. 
+
 ## Related Posts
 
 - [Get paid to dig for dinosaurs in Montana this summer!](https://kjbritt.github.io/paleontology/2026/01/21/get-paid-to-dig-dinosaurs.html)
