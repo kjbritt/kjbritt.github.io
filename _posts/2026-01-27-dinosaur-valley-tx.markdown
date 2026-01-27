@@ -10,10 +10,12 @@ published: true
 ---
 ![The fossilized footprint of a three-toed theropod dinosaur](https://upload.wikimedia.org/wikipedia/commons/6/6d/Dinosaur_Valley_State_Park_-_Track2.jpg)
 
-_The main exhibit hall of the Badlands Dinosaur Museum, Dickinson, North Dakota. Photo by Diane Turner and under a Creative Commons Attribution 2.0 Generic license, [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dinosaur_Valley_State_Park_-_Track2.jpg)_
+_A theropod dinosaur footprint at Dinosaur Valley State Park. Photo by Diane Turner and under a Creative Commons Attribution 2.0 Generic license, [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dinosaur_Valley_State_Park_-_Track2.jpg)_
 
-The [Badlands Dinosaur Museum](https://www.dickinsongov.com/museum-center), located on the campus of the Dickinson Museum Center in Dickinson, North Dakota, is hiring for a seasonal paleontology assistant for the summer. 
+The phrase "walking with dinosaurs" may be thrown aroud in paleo-media as a way imagining oneself back in the Mesozoic Era, strolling along with (hopefull herbivorous?) dinosaurs. However, there's a state park in Texas where visitors can literally walk in the footsteps of dinosaurs.
 
+Located in Glen Rose, Texas, [Dinosaur Valley State Park](https://tpwd.texas.gov/state-parks/dinosaur-valley) is home to five trackways containing footprints left behind by sauropod ("long neck") and theropod ("meat eating") dinosaurs more than a hundred-million years ago.
+ 
 ## Which dinosaurs made the footprints?
 
 <div style="max-width: 600px; margin: 0 auto; overflow: hidden;">
