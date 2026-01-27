@@ -8,9 +8,9 @@ date:   2026-01-27 01:06:33 +0000
 category: paleontology
 published: true
 ---
-![The main exhibit hall of the Badlands Dinosaur Museum, Dickinson, ND](https://upload.wikimedia.org/wikipedia/commons/6/6d/Dinosaur_Valley_State_Park_-_Track2.jpg)
+![The fossilized footprint of a three-toed theropod dinosaur](https://upload.wikimedia.org/wikipedia/commons/6/6d/Dinosaur_Valley_State_Park_-_Track2.jpg)
 
-_The main exhibit hall of the Badlands Dinosaur Museum, Dickinson, North Dakota. Photo by Df9465 and under a Creative Commons ASA 4.0 license, [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Badlands_Dinosaur_Museum_hall_2018.jpg)_
+_The main exhibit hall of the Badlands Dinosaur Museum, Dickinson, North Dakota. Photo by Diane Turner and under a Creative Commons Attribution 2.0 Generic license, [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dinosaur_Valley_State_Park_-_Track2.jpg)_
 
 The [Badlands Dinosaur Museum](https://www.dickinsongov.com/museum-center), located on the campus of the Dickinson Museum Center in Dickinson, North Dakota, is hiring for a seasonal paleontology assistant for the summer. 
 
