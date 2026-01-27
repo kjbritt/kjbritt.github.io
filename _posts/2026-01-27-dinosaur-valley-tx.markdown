@@ -14,6 +14,8 @@ _The main exhibit hall of the Badlands Dinosaur Museum, Dickinson, North Dakota.
 
 The [Badlands Dinosaur Museum](https://www.dickinsongov.com/museum-center), located on the campus of the Dickinson Museum Center in Dickinson, North Dakota, is hiring for a seasonal paleontology assistant for the summer. 
 
+## Which dinosaurs made the footprints?
+
 <div style="max-width: 600px; margin: 0 auto; overflow: hidden;">
     
     <div style="display: flex; overflow-x: auto; scroll-snap-type: x mandatory; scroll-behavior: smooth; border-radius: 12px; border: 1px solid #ddd;">
