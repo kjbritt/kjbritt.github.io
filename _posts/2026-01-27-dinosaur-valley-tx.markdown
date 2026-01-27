@@ -32,3 +32,8 @@ The [Badlands Dinosaur Museum](https://www.dickinsongov.com/museum-center), loca
         ← Swipe or scroll to view images →
     </p>
 </div>
+
+## Related Posts
+
+-[Get paid to dig for dinosaurs in Montana this summer!](https://kjbritt.github.io/paleontology/2026/01/21/get-paid-to-dig-dinosaurs.html)
+-[College students - You can work as a seasonal paleontologist in North Dakota this summer!](https://kjbritt.github.io/paleontology/2026/01/25/seasonal-paleontology-nd.html)
