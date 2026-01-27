@@ -36,6 +36,7 @@ Located in Glen Rose, Texas, [Dinosaur Valley State Park](https://tpwd.texas.gov
         ← Swipe or scroll to view images →
     </p>
 </div>
+
 _Dinosaur models at Dinosaur Valley State Park. Photos by [Larry D. Moore](https://en.wikipedia.org/wiki/Dinosaur_Valley_State_Park#/media/File:Apatosaurus_Model_Dinosaur_Valley_State_Park_Texas_2023.jpg) and available under a Creative Commons BY 4.0 license, [via Wikimedia Commons](https://en.wikipedia.org/wiki/Dinosaur_Valley_State_Park#/media/File:Tyrannosaurus_Model_Dinosaur_Valley_State_Park_Texas_2023.jpg)._
 
 Dinosaur Valley State Park is adorned with two gigantic dinosaur sculptures, _Tyrannosaurus_ and "Brontosaurus". The sculptures were created for the 1964 World's Fair by the Sinclair Oil Corporation and later donated to the park. [According to Texas Parks and Wildlife](https://tpwd.texas.gov/state-parks/dinosaur-valley/dvsp-artifacts/from-dinoland-to-dino-valley), the tyrannosaur model once had a moving animatronic jaw that has sadly been removed. 
