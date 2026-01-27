@@ -41,6 +41,8 @@ But were these the dinosaurs that made the footprints at the park? Definitely no
 
 The rock layers at the park that contain the footprints date back to the Early Cretaceous Period, 113 million years ago. This was much too late for Bronto and far too early for T-Rex. 
 
+The consensus is that the tracks are likely from _Sauroposeidon_ (the sauropod) and _Acrocanthosaurus_ (the theropod) which were known to have roamed Texas and the Western United States during the time period.
+
 ## Related Posts
 
 - [Get paid to dig for dinosaurs in Montana this summer!](https://kjbritt.github.io/paleontology/2026/01/21/get-paid-to-dig-dinosaurs.html)
