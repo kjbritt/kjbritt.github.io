@@ -21,11 +21,11 @@ The [Badlands Dinosaur Museum](https://www.dickinsongov.com/museum-center), loca
     <div style="display: flex; overflow-x: auto; scroll-snap-type: x mandatory; scroll-behavior: smooth; border-radius: 12px; border: 1px solid #ddd;">
         
         <div style="flex: 0 0 100%; scroll-snap-align: start;">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tyrannosaurus_Model_Dinosaur_Valley_State_Park_Texas_2023.jpg/960px-Tyrannosaurus_Model_Dinosaur_Valley_State_Park_Texas_2023.jpg" alt="Slide 1" style="width: 100%; display: block; object-fit: cover; aspect-ratio: 3 / 2;">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tyrannosaurus_Model_Dinosaur_Valley_State_Park_Texas_2023.jpg/960px-Tyrannosaurus_Model_Dinosaur_Valley_State_Park_Texas_2023.jpg" alt="A dated model Tyrannosaurus at a state park in Texas" style="width: 100%; display: block; object-fit: cover; aspect-ratio: 3 / 2;">
         </div>
 
         <div style="flex: 0 0 100%; scroll-snap-align: start;">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Apatosaurus_Model_Dinosaur_Valley_State_Park_Texas_2023.jpg/1280px-Apatosaurus_Model_Dinosaur_Valley_State_Park_Texas_2023.jpg" alt="Slide 2" style="width: 100%; display: block; object-fit: cover; aspect-ratio: 3 / 2;">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Apatosaurus_Model_Dinosaur_Valley_State_Park_Texas_2023.jpg/1280px-Apatosaurus_Model_Dinosaur_Valley_State_Park_Texas_2023.jpg" alt="A dated model Brontosaurus at a state park in Texas" style="width: 100%; display: block; object-fit: cover; aspect-ratio: 3 / 2;">
         </div>
 
     </div>
@@ -34,6 +34,12 @@ The [Badlands Dinosaur Museum](https://www.dickinsongov.com/museum-center), loca
         ← Swipe or scroll to view images →
     </p>
 </div>
+
+Dinosaur Valley State Park is adorned with two gigantic dinosaur sculptures, _Tyrannosaurus_ and "Brontosaurus". The sculptures were created for the 1964 World's Fair by the Sinclair Oil Corporation and later donated to the park. [According to Texas Parks and Wildlife](https://tpwd.texas.gov/state-parks/dinosaur-valley/dvsp-artifacts/from-dinoland-to-dino-valley), the tyrannosaur model once had a moving animatronic jaw that has sadly been removed. 
+
+But were these the dinosaurs that made the footprints at the park? Definitely not. 
+
+The rock layers at the park that contain the footprints date back to the Early Cretaceous Period, 113 million years ago. This was much too late for Bronto and far too early for T-Rex. 
 
 ## Related Posts
 
