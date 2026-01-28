@@ -12,4 +12,6 @@ published: false
 
 _A theropod dinosaur footprint at Dinosaur Valley State Park. Photo by Diane Turner and under a Creative Commons Attribution 2.0 Generic license, [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dinosaur_Valley_State_Park_-_Track2.jpg)_
 
-The phrase "walking with dinosaurs" may be thrown aroud in paleo-media as a way imagining oneself back in the Mesozoic Era, strolling along with (hopefull herbivorous?) dinosaurs. However, there's a state park in Texas where visitors can literally walk in the footsteps of dinosaurs.
+The Morrison Formation is a sequence of sedimentary rock layers from the Upper (i.e. late) Jurassic Period, roughly 156 to 146 million years ago, found across much of the Western United States. The formation yielded up the fossilized bones of many iconic dinosaur species, including beloved _Stegosaurus_ and my personal favorite, _Allosaurus_. 
+
+The Morrison Formation is notable for being home to _many_ species of sauropods - the herbivorous "long-neck" dinosaurs. The Morrison sauropods include dinosaur super-stars like _Brachiosaurus_ and _Apatosaurus_ (the artist formerly known as "Brontosaurus"), as well as an ensemble cast of B-list celebs like _Diplodocus_ and _Camarasaurus_. 
