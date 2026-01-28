@@ -16,7 +16,7 @@ I hold a bachelor's degree in anthropology from the University of Michigan. Whil
 Latest news.
 
 <ul class="post-list">
-  {% assign stories = site.data.news | slice: 0, 5 %}
+  {% assign stories = site.data.archaeology | slice: 0, 5 %}
   {% for story in stories %}
     <li style="margin-bottom: 20px;">
       <span class="post-meta">{{ story.date | date: "%B %e, %Y" }}</span>
