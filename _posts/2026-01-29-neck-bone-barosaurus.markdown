@@ -20,6 +20,8 @@ A new discovery published this month is extending the known range of the Morriso
 
 ## A long-neck neckbone
 
+<br>
+
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FElevationScience%2Fposts%2Fpfbid028dTnNrNYtDw7Hqsq4CxUNYi5NoeWvZDQ9NWZzoFDUXf5zAzxYFEDGAR9vKQ58bBal&show_text=false&width=500" width="500" height="497" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe> 
 
 One Morrison Formation sauropod, _Barosaurus lentus_, is known from fossil finds across several states, including Wyoming, Utah, Oklahoma and South Dakota. Until now, _Barosaurus_ was not known to have lived in Montana, at the northern end of the Morrison Formation.
@@ -28,9 +30,9 @@ In an article this month in the 'New Mexico Museum of Natural History and Scienc
 
 The scientists - Cary Woodruff, Ph.D., curator of paleontology at the Frost Science Museum, and Jason Schein, Katie Hunt and Skye Walker of the nonprofit [Elevation Science](https://elevationscience.org/) - provided a detailed analysis of the neckbone, which they identified as belonging to _Barosaurus_. 
 
+## An ecological indicator?
 
-
-
+Paleontologists generally group the sauropod species from the Morrison Formation into two families: the long, sleek, "diplodocines" which include _Diplodocus_, _Apatasaurus_ and _Barosaurus_ and the wide-nostril "macronarians" which include _Camarasaurus_ and _Brachiosaurus_ (you remember the sneezing _Brachiosaurus_ from 1993's _Jurassic Park_, don't you?). The team's discovery of _Barosaurus_ in Montana provides additional evidence for a hypothesis among some paleontologists that the northern end of the Morrison Formation may have been more ecologically favorable to the diplodocines than the macronarians. 
 
 Skye Walker:
 That's a fair interpretation! With the key caveat here being that in the paper, we treat this as a POSSIBLE ecological signal rather than a definitive conclusion.
