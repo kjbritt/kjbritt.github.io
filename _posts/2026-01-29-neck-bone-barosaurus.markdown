@@ -6,7 +6,7 @@ description: "Have you always dreamed about working in a dinosaur museum? What a
 image: https://upload.wikimedia.org/wikipedia/commons/9/92/Barosaurus-sketch2.jpg
 date:   2026-01-29 01:06:33 +0000
 category: paleontology
-published: false
+published: true
 ---
 ![An artist sketch of the long-neck sauropod dinosaur Barosaurus](https://upload.wikimedia.org/wikipedia/commons/9/92/Barosaurus-sketch2.jpg)
 
@@ -20,7 +20,7 @@ One Morrison Formation sauropod, _Barosaurus lentus_, is known from fossil finds
 
 In an article this month in the 'New Mexico Museum of Natural History and Science Bulletin 102', a team of four scientists published the details of a fossilized cervical vertebrae (neckbone) found in the Pryor Mountains of south-central Montana. The full article is [available for free online via ResearchGate](https://www.researchgate.net/publication/400050346_THE_FIRST_SPECIMEN_OF_BAROSAURUS_SAUROPODA_DIPLODOCIDAE_FROM_MONTANA_THE_NORTHERNMOST_OCCURRENCE_OF_THE_GENUS). 
 
-The scientists - Cary Woodruff, Ph.D., curator of paleontology at the Frost Science Museum, and Jason Schein, Katie Hunt and Skye Walker of the nonprofit Elevation Science - provided a detailed analysis of the neckbone, which they identified as belonging to _Barosaurus_. 
+The scientists - Cary Woodruff, Ph.D., curator of paleontology at the Frost Science Museum, and Jason Schein, Katie Hunt and Skye Walker of the nonprofit [Elevation Science](https://elevationscience.org/) - provided a detailed analysis of the neckbone, which they identified as belonging to _Barosaurus_. 
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FElevationScience%2Fposts%2Fpfbid028dTnNrNYtDw7Hqsq4CxUNYi5NoeWvZDQ9NWZzoFDUXf5zAzxYFEDGAR9vKQ58bBal&show_text=false&width=500" width="500" height="497" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
