@@ -12,9 +12,15 @@ published: true
 
 _A sketch of Barosaurus. Artwork by [Debivort](https://en.wikipedia.org/wiki/User:Debivort) and under a Creative Commons ASA 3.0 license, [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Barosaurus-sketch2.jpg)_
 
-The Morrison Formation is a sequence of sedimentary rock layers from the Upper (i.e. late) Jurassic Period, roughly 156 to 146 million years ago, found across much of the Western United States. The formation yielded up the fossilized bones of many iconic dinosaur species, including beloved _Stegosaurus_ and my personal favorite, _Allosaurus_. 
+The Morrison Formation is a sequence of sedimentary rock layers from the Upper (i.e. late) Jurassic Period, roughly 156 to 146 million years ago, found across much of the Western United States. The formation yielded up the fossilized bones of many iconic dinosaur species, including beloved _Stegosaurus_ and the fearsome _Allosaurus_. 
 
-The Morrison Formation is notable for being home to _many_ species of sauropods - the herbivorous "long-neck" dinosaurs. The Morrison sauropods include dinosaur super-stars like _Brachiosaurus_ and _Apatosaurus_ (the artist formerly known as "Brontosaurus"), as well as an ensemble cast of B-list celebs like _Diplodocus_ and _Camarasaurus_. 
+The Morrison Formation is also notable for being home to _many_ species of sauropods - the herbivorous "long-neck" dinosaurs. The Morrison Formation includes sauropod super-stars like _Brachiosaurus_ and _Apatosaurus_ (the artist formerly known as "Brontosaurus"), as well as an ensemble cast of B-list celebs like _Diplodocus_ and _Camarasaurus_.
+
+A new discovery published this month is extending the known range of the Morrison sauropods, while also providing supporting evidence for an intriguing environmental hypothesis. 
+
+## A long-neck neckbone
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FElevationScience%2Fposts%2Fpfbid028dTnNrNYtDw7Hqsq4CxUNYi5NoeWvZDQ9NWZzoFDUXf5zAzxYFEDGAR9vKQ58bBal&show_text=false&width=500" width="500" height="497" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe> 
 
 One Morrison Formation sauropod, _Barosaurus lentus_, is known from fossil finds across several states, including Wyoming, Utah, Oklahoma and South Dakota. Until now, _Barosaurus_ was not known to have lived in Montana, at the northern end of the Morrison Formation.
 
@@ -22,7 +28,7 @@ In an article this month in the 'New Mexico Museum of Natural History and Scienc
 
 The scientists - Cary Woodruff, Ph.D., curator of paleontology at the Frost Science Museum, and Jason Schein, Katie Hunt and Skye Walker of the nonprofit [Elevation Science](https://elevationscience.org/) - provided a detailed analysis of the neckbone, which they identified as belonging to _Barosaurus_. 
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FElevationScience%2Fposts%2Fpfbid028dTnNrNYtDw7Hqsq4CxUNYi5NoeWvZDQ9NWZzoFDUXf5zAzxYFEDGAR9vKQ58bBal&show_text=false&width=500" width="500" height="497" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
 
 
 
