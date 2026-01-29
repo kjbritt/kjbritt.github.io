@@ -32,15 +32,15 @@ The scientists - Cary Woodruff, Ph.D., curator of vertebrate paleontology at the
 
 ## An ecological indicator?
 
-Paleontologists generally group the sauropod species from the Morrison Formation into two families: the long, sleek, "diplodocids" which include _Diplodocus_, _Apatasaurus_ and _Barosaurus_ and the wide-nostril "macronarians" which include _Camarasaurus_ and _Brachiosaurus_ (you remember the sneezing _Brachiosaurus_ from 1993's _Jurassic Park_, don't you?). 
+Paleontologists generally group the sauropod species from the Morrison Formation into two families: the long, sleek, "diplodocids" which include _Diplodocus_, _Apatasaurus_ and _Barosaurus_, and the wide-nostril "macronarians" which include _Camarasaurus_ and _Brachiosaurus_ (you remember the sneezing _Brachiosaurus_ from 1993's _Jurassic Park_, don't you?). 
 
-The team's discovery of _Barosaurus_ in Montana provides additional evidence for a hypothesis among some paleontologists that the northern end of the Morrison Formation may have been more ecologically favorable to the diplodocines than the macronarians. 
+The team's discovery of _Barosaurus_ in Montana provides additional evidence for a hypothesis among some paleontologists that the northern end of the Morrison Formation may have been more ecologically favorable to the diplodocids than the macronarians. The authors stated in their paper that:
 
 >While _Barosaurus_ is known from South Dakota and Wyoming, its absence in Montana has generally been perceived [...] as a sampling bias opposed to a true indication of the lack of this taxon from the regional Morrison ecosystem. However, as noted for the apparent rarity of the macronarian _Camarasaurus_ in Montana, the paucity of such taxa which are otherwise highly abundant elsewhere within the Morrison Formation could alternatively indicate slight ecological differences that were neither favorable nor preferred by certain taxa.
 
 I was curious about this possible ecological distinction that favored the diplodocids. I reached out to Elevation Science, and received a response from Skye Walker, science communication manager for Elevation Science and one of the paper's co-authors.
 
-"In the paper, we treat this as a __possible__ ecological signal rather than a definitive conclusion," Walker said. "The ID of _Barosaurus_ in Montana adds another data point to a broader pattern in the northern Morrison, where diplodocids seem to be more common than macronarians. But we do note that this pattern could reflect a combination of ecological differences, sampling bias or both!"
+"In the paper, we treat this as a __possible__ ecological signal rather than a definitive conclusion," Walker said. "The [identification] of _Barosaurus_ in Montana adds another data point to a broader pattern in the northern Morrison, where diplodocids seem to be more common than macronarians. But we do note that this pattern could reflect a combination of ecological differences, sampling bias or both!"
 
 ## Related Posts
 
