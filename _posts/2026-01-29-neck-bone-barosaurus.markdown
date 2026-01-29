@@ -28,7 +28,7 @@ One Morrison Formation sauropod, _Barosaurus lentus_, is known from fossil finds
 
 In an article this month in the 'New Mexico Museum of Natural History and Science Bulletin 102', a team of four scientists published the details of a fossilized cervical vertebrae (neckbone) found in the Pryor Mountains of south-central Montana. The full article is [available for free online via ResearchGate](https://www.researchgate.net/publication/400050346_THE_FIRST_SPECIMEN_OF_BAROSAURUS_SAUROPODA_DIPLODOCIDAE_FROM_MONTANA_THE_NORTHERNMOST_OCCURRENCE_OF_THE_GENUS). 
 
-The scientists - Cary Woodruff, Ph.D., curator of paleontology at the Frost Science Museum, and Jason Schein, Katie Hunt and Skye Walker of the nonprofit [Elevation Science](https://elevationscience.org/) - provided a detailed analysis of the neckbone, which they identified as belonging to _Barosaurus_. 
+The scientists - Cary Woodruff, Ph.D., curator of vertebrate paleontology at the Frost Science Museum, and Jason Schein, Katie Hunt and Skye Walker of the nonprofit [Elevation Science](https://elevationscience.org/) - provided a detailed analysis of the neckbone, which they identified as belonging to _Barosaurus_. 
 
 ## An ecological indicator?
 
