@@ -16,7 +16,7 @@ The Morrison Formation is a sequence of sedimentary rock layers from the Upper (
 
 The Morrison Formation is also notable for being home to _many_ species of sauropods - the herbivorous "long-neck" dinosaurs. The Morrison Formation includes sauropod super-stars like _Brachiosaurus_ and _Apatosaurus_ (the artist formerly known as "Brontosaurus"), as well as an ensemble cast of B-list celebs like _Diplodocus_ and _Camarasaurus_.
 
-A new discovery published this month is extending the known range of the Morrison sauropods, while also providing supporting evidence for an intriguing environmental hypothesis. 
+A new discovery published this month is extending the known range of one of the Morrison sauropod species, while also providing supporting evidence for an intriguing environmental hypothesis. 
 
 ## A long-neck neckbone
 
