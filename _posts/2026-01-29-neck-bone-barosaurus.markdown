@@ -20,9 +20,9 @@ A new discovery published this month is extending the known range of the Morriso
 
 ## A long-neck neckbone
 
-<br>
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FElevationScience%2Fposts%2Fpfbid028dTnNrNYtDw7Hqsq4CxUNYi5NoeWvZDQ9NWZzoFDUXf5zAzxYFEDGAR9vKQ58bBal&show_text=false&width=500" width="500" height="497" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe> 
+<br>
 
 One Morrison Formation sauropod, _Barosaurus lentus_, is known from fossil finds across several states, including Wyoming, Utah, Oklahoma and South Dakota. Until now, _Barosaurus_ was not known to have lived in Montana, at the northern end of the Morrison Formation.
 
