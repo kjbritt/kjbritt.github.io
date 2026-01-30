@@ -21,3 +21,9 @@ The Morrison Formation is a sequence of sedimentary rock layers from the Upper (
 Sadly, it&#x27;s only know from partial forelimbs, but we document a stego that based on limb dimension is ~38% longer than the average stego. Assuming we could generally scale isometrically (don&#x27;t come at me!), that all equals the largest specimen thus far.<br><br><a href="https://bsky.app/profile/did:plc:c7u2jjcpumcdxcnugft7ubz2/post/3md6bhqfm2c2w?ref_src=embed">[image or embed]</a></p>&mdash; Cary Woodruff (<a href="https://bsky.app/profile/did:plc:c7u2jjcpumcdxcnugft7ubz2?ref_src=embed">@doublebeam.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:c7u2jjcpumcdxcnugft7ubz2/post/3md6bhqfm2c2w?ref_src=embed">January 24, 2026 at 4:00 AM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
 
 text
+
+## Related Posts
+
+- [A single neckbone proves this dinosaur once roamed Montana](https://kjbritt.github.io/paleontology/2026/01/29/neck-bone-barosaurus.html)
+- [Walk in the literal footsteps of dinosaurs at this Texas state park](https://kjbritt.github.io/paleontology/2026/01/27/dinosaur-valley-tx.html)
+- [College students - You can work as a seasonal paleontologist in North Dakota this summer!](https://kjbritt.github.io/paleontology/2026/01/25/seasonal-paleontology-nd.html)
