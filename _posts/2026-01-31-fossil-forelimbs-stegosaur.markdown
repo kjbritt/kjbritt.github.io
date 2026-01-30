@@ -22,8 +22,10 @@ Sadly, it&#x27;s only know from partial forelimbs, but we document a stego that 
 
 text
 
+<aside>
 ## Related Posts
 
 - [A single neckbone proves this dinosaur once roamed Montana](https://kjbritt.github.io/paleontology/2026/01/29/neck-bone-barosaurus.html)
 - [Walk in the literal footsteps of dinosaurs at this Texas state park](https://kjbritt.github.io/paleontology/2026/01/27/dinosaur-valley-tx.html)
 - [College students - You can work as a seasonal paleontologist in North Dakota this summer!](https://kjbritt.github.io/paleontology/2026/01/25/seasonal-paleontology-nd.html)
+</aside>
