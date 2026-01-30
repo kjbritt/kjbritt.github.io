@@ -2,7 +2,7 @@
 layout: post
 title:  "Fossil forelimbs found in 1950 prove to be record-breaking stegosaur"
 author: "Keenan J. Britt"
-description: "A new discovery is extending the known range of one sauropod species, while also providing supporting evidence for an intriguing environmental hypothesis."
+description: "A pair of fossilized forelimbs discovered back in 1950 have turned out to be from a record-breaking stegosaur."
 image: https://upload.wikimedia.org/wikipedia/commons/9/92/Barosaurus-sketch2.jpg
 date:   2026-01-31 01:06:33 +0000
 category: paleontology
