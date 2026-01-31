@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Fossil forelimbs found in 1950 prove to be record-breaking stegosaur"
+title:  "Fossil forelimbs found in Utah prove to be record-breaking stegosaur"
 author: "Keenan J. Britt"
 description: "A pair of fossilized forelimbs discovered back in 1950 have turned out to be from a record-breaking stegosaur."
 image: https://upload.wikimedia.org/wikipedia/commons/9/92/Barosaurus-sketch2.jpg
@@ -12,7 +12,9 @@ published: false
 
 _A sketch of Barosaurus. Artwork by [Debivort](https://en.wikipedia.org/wiki/User:Debivort) and under a Creative Commons ASA 3.0 license, [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Barosaurus-sketch2.jpg)_
 
-The Morrison Formation is a sequence of sedimentary rock layers from the Upper (i.e. late) Jurassic Period, roughly 156 to 146 million years ago, found across much of the Western United States. The formation yielded up the fossilized bones of many iconic dinosaur species, including beloved _Stegosaurus_ and the fearsome _Allosaurus_. 
+The Morrison Formation is a sequence of sedimentary rock layers from the Upper (i.e. late) Jurassic Period, roughly 156 to 146 million years ago. Sections of the Morrison Formation can be found across much of the Western United States. 
+
+Many of the most famous dinosaurs in the popular imagination originated in Morrison Formation. These include the terrifying _Allosaurus_, the majestic _Brachiosaurus_ and immensely long _Barosaurus_, [which romaed as far north as Montana](https://kjbritt.github.io/paleontology/2026/01/29/neck-bone-barosaurus.html). 
 
 ## Fossil forelimbs
 
