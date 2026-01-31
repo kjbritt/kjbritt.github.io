@@ -8,7 +8,7 @@ date:   2026-01-29 01:06:33 +0000
 category: paleontology
 published: true
 ---
-<article>
+
 ![An artist sketch of the long-neck sauropod dinosaur Barosaurus](https://upload.wikimedia.org/wikipedia/commons/9/92/Barosaurus-sketch2.jpg)
 
 _A sketch of Barosaurus. Artwork by [Debivort](https://en.wikipedia.org/wiki/User:Debivort) and under a Creative Commons ASA 3.0 license, [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Barosaurus-sketch2.jpg)_
@@ -24,6 +24,7 @@ A new discovery published this month is extending the known range of one of the 
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FElevationScience%2Fposts%2Fpfbid028dTnNrNYtDw7Hqsq4CxUNYi5NoeWvZDQ9NWZzoFDUXf5zAzxYFEDGAR9vKQ58bBal&show_text=false&width=500" width="500" height="497" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe> 
 <br>
+_A social media post from Elevation Science displaying a sauropod cervical vertebrae_
 
 One Morrison Formation sauropod, _Barosaurus lentus_, is known from fossil finds across several states, including Wyoming, Utah, Oklahoma and South Dakota. Until now, _Barosaurus_ was not known to have lived in Montana, at the northern end of the Morrison Formation.
 
@@ -43,12 +44,11 @@ I was curious about this possible ecological distinction that favored the diplod
 
 "In the paper, we treat this as a __possible__ ecological signal rather than a definitive conclusion," Walker said. "The [identification] of _Barosaurus_ in Montana adds another data point to a broader pattern in the northern Morrison, where diplodocids seem to be more common than macronarians. But we do note that this pattern could reflect a combination of ecological differences, sampling bias or both!"
 
-</article>
-<aside>
+
+
 
 ## Related Posts
 
 - [Walk in the literal footsteps of dinosaurs at this Texas state park](https://kjbritt.github.io/paleontology/2026/01/27/dinosaur-valley-tx.html)
 - [College students - You can work as a seasonal paleontologist in North Dakota this summer!](https://kjbritt.github.io/paleontology/2026/01/25/seasonal-paleontology-nd.html)
 - [Get paid to dig for dinosaurs in Montana this summer!](https://kjbritt.github.io/paleontology/2026/01/21/get-paid-to-dig-dinosaurs.html)
-</aside>
