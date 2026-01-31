@@ -5,7 +5,7 @@ author: "Keenan J. Britt"
 description: "A team from the University of Colorado Boulder published their discovery of a new species of early mammal from Colorado's Cretaceous Period."
 image: /docs/assets/images/carpenter_site_views.jpg
 date:   2025-03-15 01:06:33 +0000
-category: wildlife
+category: paleontology
 ---
 
 In October 2024, a team from the University of Colorado Boulder published their discovery of a new species of early mammal from Colorado's Cretaceous Period that may help add a new page into the history of life on Earth.
