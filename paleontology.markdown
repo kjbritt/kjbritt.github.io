@@ -5,10 +5,10 @@ permalink: /paleontology/
 image: /docs/assets/images/allosaurus.jpg
 ---
 
-![An adult female musk ox named Eider](/docs/assets/images/allosaurus.jpg)
+![An Allosaurus dinosaur skeleton at a museum](/docs/assets/images/allosaurus.jpg)
 _An Allosaurus on display at the University of Michigan, January 2012_
 
-Welcome to my new paleontology blog!
+Welcome to my new paleontology blog! 
 
 ## Recent posts
 
