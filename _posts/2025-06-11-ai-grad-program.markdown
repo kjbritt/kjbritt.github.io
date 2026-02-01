@@ -16,5 +16,5 @@ Full story available online via UAA Green & Gold News.
 <script>
 function newTab() {
   window.open("https://www.uaa.alaska.edu/news/archive/2025/06/new-graduate-program-in-ai.cshtml");
-}
-</script>
+  }
+  </script>
