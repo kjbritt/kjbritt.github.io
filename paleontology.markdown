@@ -6,7 +6,7 @@ image: /docs/assets/images/allosaurus.jpg
 ---
 <figure>
   <img src="/docs/assets/images/allosaurus.jpg" alt="An Allosaurus dinosaur skeleton at a museum" />
-  <figcaption>An Allosaurus on display at the University of Michigan, January 2012</figcaption>
+  <figcaption><em>An Allosaurus on display at the University of Michigan, January 2012</em></figcaption>
 </figure>
 
 
