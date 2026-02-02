@@ -3,13 +3,13 @@ layout: post
 title:  "Fossil forelimbs found in Utah prove to be record-breaking stegosaur"
 author: "Keenan J. Britt"
 description: "A pair of fossilized forelimbs discovered back in 1950 have turned out to be from a record-breaking stegosaur."
-image: https://upload.wikimedia.org/wikipedia/commons/9/92/Barosaurus-sketch2.jpg
+image: /docs/assets/images/Stego_size.png
 date:   2026-02-01 01:06:33 +0000
 category: paleontology
 published: true
 ---
 <figure>
-  <img src="/docs/assets/images/stego_size.png" alt="A size comparison between Stegosaurus and a human." />
+  <img src="/docs/assets/images/Stego_size.png" alt="A size comparison between Stegosaurus and a human." />
   <figcaption><em>A size comparison between two species of Stegosaurus and a modern human. Graphic by <a href="https://www.deviantart.com/randomdinos">Random Dinos</a> and under a Creative Commons ASA 4.0 license, <a href="https://commons.wikimedia.org/wiki/File:Stegosaurus_size_comparison.svg">via Wikimedia Commons</a>.</em></figcaption>
 </figure>
 
