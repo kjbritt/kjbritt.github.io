@@ -6,7 +6,7 @@ description: "A pair of fossilized forelimbs discovered back in 1950 have turned
 image: https://upload.wikimedia.org/wikipedia/commons/9/92/Barosaurus-sketch2.jpg
 date:   2026-02-01 01:06:33 +0000
 category: paleontology
-published: false
+published: true
 ---
 <figure>
   <img src="/docs/assets/images/stego_size.png" alt="A size comparison between Stegosaurus and a human." />
@@ -25,9 +25,15 @@ The Morrison Formation is a sequence of sedimentary rock layers from the Upper (
 
 Sadly, it&#x27;s only know from partial forelimbs, but we document a stego that based on limb dimension is ~38% longer than the average stego. Assuming we could generally scale isometrically (don&#x27;t come at me!), that all equals the largest specimen thus far.<br><br><a href="https://bsky.app/profile/did:plc:c7u2jjcpumcdxcnugft7ubz2/post/3md6bhqfm2c2w?ref_src=embed">[image or embed]</a></p>&mdash; Cary Woodruff (<a href="https://bsky.app/profile/did:plc:c7u2jjcpumcdxcnugft7ubz2?ref_src=embed">@doublebeam.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:c7u2jjcpumcdxcnugft7ubz2/post/3md6bhqfm2c2w?ref_src=embed">January 24, 2026 at 4:00 AM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
 
+The team was able to identify the forelimbs as belonging to a stegosaur, though they were unable to narrow down to a particular species or genus. In addition to the eponymous _Stegosaurus_, other stegosaurs known from the Morrison Formation include the smaller genera _Hesperosaurus_ and _Alcovasaurus_. 
+
+The forelimbs were discoverd in Uintah County, Utah in 1950 and not recognized as being from a stegosaur at the time, likely due to their incredible size. 
+
+The forelimbs measured in at 38% longer than those of other stegosaurs found in the Morrison Formation. As the authors discussed in the paper, the forelimbs appear to be from:
+
 >"a particularly large and robust individual that appears to represent the largest individual stegosaurid in the Morrison Formation in terms of both linear dimensions and estimated body mass."
 
-Co-author Cary Woodruff described the specimen more succinctly [in a post on Bluesky](https://bsky.app/profile/doublebeam.bsky.social/post/3md6bhqfm2c2w): "One big f-ing stego". 
+Cary Woodruff, Ph.D., curator of vertebrate paleontology at the Frost Science Museum and one of the paper's co-authors, described the specimen more succinctly [in a post on Bluesky](https://bsky.app/profile/doublebeam.bsky.social/post/3md6bhqfm2c2w): "One big f-ing stego". 
 
 
 ## Related Posts
