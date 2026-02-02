@@ -3,6 +3,10 @@ layout: page
 title: Technology
 permalink: /technology/
 ---
+|![A portable AM/FM radio on the balcony of a cruise ship cabin](/docs/assets/images/radio.jpg)
+|:--:| 
+| *An AM/FM radio tuned into Cuban radio, Western Caribbean, November 2022* |
+
 Welcome to my new technology blog!
 
 ## Recent posts
