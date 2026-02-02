@@ -8,7 +8,7 @@ date:   2026-02-01 01:06:33 +0000
 category: paleontology
 published: false
 ---
-![An artist sketch of the long-neck sauropod dinosaur Barosaurus](https://upload.wikimedia.org/wikipedia/commons/9/92/Barosaurus-sketch2.jpg)
+![An artist sketch of the long-neck sauropod dinosaur Barosaurus](stego_size.png)
 
 _A sketch of Barosaurus. Artwork by [Debivort](https://en.wikipedia.org/wiki/User:Debivort) and under a Creative Commons ASA 3.0 license, [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Barosaurus-sketch2.jpg)_
 
