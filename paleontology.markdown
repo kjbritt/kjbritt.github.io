@@ -4,9 +4,11 @@ title: Paleontology
 permalink: /paleontology/
 image: /docs/assets/images/allosaurus.jpg
 ---
+<figure>
+  <img src="/docs/assets/images/allosaurus.jpg" alt="An Allosaurus dinosaur skeleton at a museum" />
+  <figcaption>An Allosaurus on display at the University of Michigan, January 2012</figcaption>
+</figure>
 
-![An Allosaurus dinosaur skeleton at a museum](/docs/assets/images/allosaurus.jpg)
-_An Allosaurus on display at the University of Michigan, January 2012_
 
 Welcome to my new paleontology blog! 
 
