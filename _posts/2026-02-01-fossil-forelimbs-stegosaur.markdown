@@ -8,9 +8,12 @@ date:   2026-02-01 01:06:33 +0000
 category: paleontology
 published: false
 ---
-![An artist sketch of the long-neck sauropod dinosaur Barosaurus](stego_size.png)
+<figure>
+  <img src="/docs/assets/images/stego_size.png" alt="A size comparison between Stegosaurus and a human." />
+  <figcaption><em>A size comparison between two species of Stegosaurus and a modern human. Graphic by <a href="https://www.deviantart.com/randomdinos">Random Dinos</a> and under a Creative Commons ASA 4.0 license, <a href="https://commons.wikimedia.org/wiki/File:Stegosaurus_size_comparison.svg">via Wikimedia Commons</a>.</em></figcaption>
+</figure>
 
-_A sketch of Barosaurus. Artwork by [Debivort](https://en.wikipedia.org/wiki/User:Debivort) and under a Creative Commons ASA 3.0 license, [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Barosaurus-sketch2.jpg)_
+Big stego found.
 
 >"a particularly large and robust individual that appears to represent the largest individual stegosaurid in the Morrison Formation in terms of both linear dimensions and estimated body mass."
 
