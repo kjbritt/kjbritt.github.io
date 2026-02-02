@@ -10,7 +10,7 @@ image: /docs/assets/images/allosaurus.jpg
 </figure>
 
 
-Welcome to my new paleontology blog! 
+Welcome to my new paleontology blog! I'm a lifelong paleo-fan. If you would like to submit a news tip, collaborate on something, or just have a bone-to-pick, feel free to [Contact](/contact) me. 
 
 ## Recent posts
 
