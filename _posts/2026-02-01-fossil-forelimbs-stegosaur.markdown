@@ -15,6 +15,8 @@ published: false
 
 Big stego found.
 
+In an article published last month in the ‘New Mexico Museum of Natural History and Science Bulletin 102’,a team of scientists led by [ReBecca Hunt-Foster](https://www.rebeccakhunt.com/), a vertebrate paleontologist with the National Park Service's Dinosaur National Monument in Vernal, Utah, reported on a set of fossil remains that appear to be from the largest stegosaur ever found in the Morrison Formation. The full article is [available for free via ResearchGate](https://www.researchgate.net/publication/400050523_THE_LARGEST_REPORTED_STEGOSAURID_FROM_THE_MORRISON_FORMATION_UPPER_JURASSIC). 
+
 >"a particularly large and robust individual that appears to represent the largest individual stegosaurid in the Morrison Formation in terms of both linear dimensions and estimated body mass."
 
 Co-author Cary Woodruff described the specimen more succinctly [in a post on Bluesky](https://bsky.app/profile/doublebeam.bsky.social/post/3md6bhqfm2c2w): "One big f-ing stego". 
