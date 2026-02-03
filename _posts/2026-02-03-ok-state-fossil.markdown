@@ -9,8 +9,8 @@ category: paleontology
 published: false
 ---
 <figure>
-  <img src="/docs/assets/images/Stego_size.png" alt="A size comparison between Stegosaurus and a human." />
-  <figcaption><em>A size comparison between two species of Stegosaurus and a modern human. Graphic by <a href="https://www.deviantart.com/randomdinos">Random Dinos</a> and under a Creative Commons ASA 4.0 license, <a href="https://commons.wikimedia.org/wiki/File:Stegosaurus_size_comparison.svg">via Wikimedia Commons</a>.</em></figcaption>
+  <img src="/docs/assets/images/Sauroposeidon_TD.png" alt="The long-neck sauropod dinosaur Sauroposeidon." />
+  <figcaption><i>A size comparison between two species of Stegosaurus and a modern human. Graphic by <a href="https://www.totaldino.com/dino/sauroposeidon">Total Dino</a> and under a Creative Commons BY-SA 4.0 license, <a href="https://commons.wikimedia.org/wiki/User:TotalDino#/media/File:Sauroposeidon_TD.png">via Wikimedia Commons</a>.</i></figcaption>
 </figure>
 
 A recent publication on an old fossil find suggests that stegosaurs, the iconic group of spiky dinosaurs may have grown even larger than previously known. 
@@ -21,9 +21,7 @@ The Morrison Formation is a sequence of sedimentary rock layers from the Upper (
 
 ## Fossil forelimbs
 
-<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:c7u2jjcpumcdxcnugft7ubz2/app.bsky.feed.post/3md6bhqfm2c2w" data-bluesky-cid="bafyreiaeaw6cf5ag6hmfeqbfe7ftirtsy2dueluaq7tcrnd7qnuv7seap4" data-bluesky-embed-color-mode="system"><p lang="en">#3) One big f-ing stego
-
-Sadly, it&#x27;s only know from partial forelimbs, but we document a stego that based on limb dimension is ~38% longer than the average stego. Assuming we could generally scale isometrically (don&#x27;t come at me!), that all equals the largest specimen thus far.<br><br><a href="https://bsky.app/profile/did:plc:c7u2jjcpumcdxcnugft7ubz2/post/3md6bhqfm2c2w?ref_src=embed">[image or embed]</a></p>&mdash; Cary Woodruff (<a href="https://bsky.app/profile/did:plc:c7u2jjcpumcdxcnugft7ubz2?ref_src=embed">@doublebeam.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:c7u2jjcpumcdxcnugft7ubz2/post/3md6bhqfm2c2w?ref_src=embed">January 24, 2026 at 4:00 AM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FRosecrantsForHD46%2Fposts%2Fpfbid0A5ZKDYFnCQmN9G2QkacT7Xh6wAxDst4a9eMGiajrFKN7Ms9sFbqNSeiQDbyg64cXl&show_text=false&width=500" width="500" height="497" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 The team was able to identify the forelimbs as belonging to a stegosaur, though they were unable to narrow down to a particular species or genus. In addition to the eponymous _Stegosaurus_, other stegosaurs known from the Morrison Formation include the smaller genera _Hesperosaurus_ and _Alcovasaurus_. 
 
