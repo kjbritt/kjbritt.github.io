@@ -13,6 +13,8 @@ published: false
   <figcaption><i>A size comparison between two species of Stegosaurus and a modern human. Graphic by <a href="https://www.totaldino.com/dino/sauroposeidon">Total Dino</a> and under a Creative Commons BY-SA 4.0 license, <a href="https://commons.wikimedia.org/wiki/User:TotalDino#/media/File:Sauroposeidon_TD.png">via Wikimedia Commons</a>.</i></figcaption>
 </figure>
 
+Oklahoma [Rep. Jacob Rosecrants](https://www.okhouse.gov/representatives/jacob-rosecrants), who represents House District 46 in the Oklahoma House of Representatives, recently proposed making the long-neck sauropod the new state fossil of Oklahoma. 
+
 A recent publication on an old fossil find suggests that stegosaurs, the iconic group of spiky dinosaurs may have grown even larger than previously known. 
 
 In an article published last month in the ‘New Mexico Museum of Natural History and Science Bulletin 102’,a team of scientists led by [ReBecca Hunt-Foster](https://www.rebeccakhunt.com/), a vertebrate paleontologist with the National Park Service's Dinosaur National Monument in Vernal, Utah, reported on a set of fossil remains that appear to be from the largest stegosaur ever found in the Morrison Formation. The full article is [available for free via ResearchGate](https://www.researchgate.net/publication/400050523_THE_LARGEST_REPORTED_STEGOSAURID_FROM_THE_MORRISON_FORMATION_UPPER_JURASSIC). 
