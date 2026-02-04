@@ -30,3 +30,38 @@ Oklahoma has a separate designation for official state dinosaur, currently held 
 - [Fossil forelimbs found in Utah prove to be record-breaking stegosaur](https://kjbritt.github.io/paleontology/2026/02/01/fossil-forelimbs-stegosaur.html)
 - [A single neckbone proves this dinosaur once roamed Montana](https://kjbritt.github.io/paleontology/2026/01/29/neck-bone-barosaurus.html)
 - [Walk in the literal footsteps of dinosaurs at this Texas state park](https://kjbritt.github.io/paleontology/2026/01/27/dinosaur-valley-tx.html)
+
+<script type="application/ld+json">
+  {
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://kjbritt.github.io/paleontology/2026/02/03/ok-state-fossil.html"
+  },
+  "headline": "Oklahoma legislator proposes this long-neck as new state fossil",
+  "description": "Oklahoma Rep. Jacob Rosecrants proposes making the sauropod Sauroposeidon the official state fossil, replacing the currently designated Saurophaganax.",
+  "image": "https://kjbritt.github.io/docs/assets/images/Sauroposeidon_TD.png", 
+  "author": {
+    "@type": "Person",
+    "name": "Keenan J. Britt",
+    "url": "https://kjbritt.github.io/about"
+  },
+  "publisher": {
+    "@type": "Person",
+    "name": "Keenan J. Britt"
+  },
+  "datePublished": "2026-02-03",
+  "articleSection": "Paleontology",
+  "about": [
+    {
+      "@type": "Taxon",
+      "name": "Sauroposeidon"
+    },
+    {
+      "@type": "State",
+      "name": "Oklahoma"
+    }
+  ]
+}
+</script>
