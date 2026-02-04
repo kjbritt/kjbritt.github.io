@@ -3,6 +3,12 @@ layout: page
 title: SEO
 permalink: /seo/
 ---
+<figure>
+  <img src="/docs/assets/images/vegas_strip.jpg" alt="A view of the Las Vegas strip at night with the Bellagio fountains" />
+  <figcaption><i>The Vegas Strip, Las Vegas, Nevada, October 2021</i></figcaption>
+</figure>
+
+
 Welcome to my new SEO blog!
 
 ## Recent posts
