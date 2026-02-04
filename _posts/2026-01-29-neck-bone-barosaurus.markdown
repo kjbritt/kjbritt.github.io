@@ -3,13 +3,13 @@ layout: post
 title:  "A single neckbone proves this dinosaur once roamed Montana"
 author: "Keenan J. Britt"
 description: "A new discovery is extending the known range of one sauropod species, while also providing supporting evidence for an intriguing environmental hypothesis."
-image: https://upload.wikimedia.org/wikipedia/commons/9/92/Barosaurus-sketch2.jpg
+image: /docs/assets/images/Barosaurus-sketch.jpg
 date:   2026-01-29 01:06:33 +0000
 category: paleontology
 published: true
 ---
 
-![An artist sketch of the long-neck sauropod dinosaur Barosaurus](https://upload.wikimedia.org/wikipedia/commons/9/92/Barosaurus-sketch2.jpg)
+![An artist sketch of the long-neck sauropod dinosaur Barosaurus](/docs/assets/images/Barosaurus-sketch.jpg)
 
 _A sketch of Barosaurus. Artwork by [Debivort](https://en.wikipedia.org/wiki/User:Debivort) and under a Creative Commons ASA 3.0 license, [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Barosaurus-sketch2.jpg)_
 
