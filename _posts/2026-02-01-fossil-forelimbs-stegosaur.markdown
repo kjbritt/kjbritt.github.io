@@ -13,7 +13,7 @@ published: true
   <figcaption><em>A size comparison between two species of Stegosaurus and a modern human. Graphic by <a href="https://www.deviantart.com/randomdinos">Random Dinos</a> and under a Creative Commons ASA 4.0 license, <a href="https://commons.wikimedia.org/wiki/File:Stegosaurus_size_comparison.svg">via Wikimedia Commons</a>.</em></figcaption>
 </figure>
 
-A recent publication on an old fossil find suggests that stegosaurs, the iconic group of spiky dinosaurs may have grown even larger than previously known. 
+A recent publication on an old fossil find from 1950 suggests that stegosaurs, the iconic group of spiky dinosaurs, may have grown even larger than previously known. 
 
 In an article published last month in the ‘New Mexico Museum of Natural History and Science Bulletin 102’,a team of scientists led by [ReBecca Hunt-Foster](https://www.rebeccakhunt.com/), a vertebrate paleontologist with the National Park Service's Dinosaur National Monument in Vernal, Utah, reported on a set of fossil remains that appear to be from the largest stegosaur ever found in the Morrison Formation. The full article is [available for free via ResearchGate](https://www.researchgate.net/publication/400050523_THE_LARGEST_REPORTED_STEGOSAURID_FROM_THE_MORRISON_FORMATION_UPPER_JURASSIC). 
 
@@ -41,3 +41,27 @@ Cary Woodruff, Ph.D., curator of vertebrate paleontology at the Frost Science Mu
 - [A single neckbone proves this dinosaur once roamed Montana](https://kjbritt.github.io/paleontology/2026/01/29/neck-bone-barosaurus.html)
 - [Walk in the literal footsteps of dinosaurs at this Texas state park](https://kjbritt.github.io/paleontology/2026/01/27/dinosaur-valley-tx.html)
 - [College students - You can work as a seasonal paleontologist in North Dakota this summer!](https://kjbritt.github.io/paleontology/2026/01/25/seasonal-paleontology-nd.html)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://kjbritt.github.io/paleontology/2026/02/01/fossil-forelimbs-stegosaur.html"
+  },
+  "headline": "Fossil forelimbs found in Utah prove to be record-breaking stegosaur",
+  "description": "A pair of fossilized forelimbs discovered back in 1950 have turned out to be from a record-breaking stegosaur.",
+  "image": "https://kjbritt.github.io/docs/assets/images/Stego_size.png",
+  "datePublished": "2026-02-01",
+  "author": {
+    "@type": "Person",
+    "name": "Keenan J. Britt",
+    "url": "https://kjbritt.github.io/about"
+  },
+  "publisher": {
+    "@type": "Person",
+    "name": "Keenan J. Britt"
+  }
+}
+</script>
