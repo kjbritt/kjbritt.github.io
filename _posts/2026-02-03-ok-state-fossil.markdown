@@ -25,6 +25,8 @@ This proposal may face some controversy, though. Oklahoma already has an officia
 
 Oklahoma has a separate designation for official state dinosaur, currently held by the theropod _Acrocanthosaurus_. Fossil trackways created by _Sauroposeidon_ and _Acrocanthosaurus_ can be [visited at a state park](https://kjbritt.github.io/paleontology/2026/01/27/dinosaur-valley-tx.html) in neighboring Texas.
 
+_Sauroposeidon_ is my favorite dinosaur!
+
 ## Related Posts
 
 - [Fossil forelimbs found in Utah prove to be record-breaking stegosaur](https://kjbritt.github.io/paleontology/2026/02/01/fossil-forelimbs-stegosaur.html)

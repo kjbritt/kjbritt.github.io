@@ -34,6 +34,14 @@ Analysis of the metatarsal also revealed a shocking discovery: rows of teeth mar
 
 The Dickinson Museum Center - which includes the Badlands Dinosaur Museum - explained things in layman's terms in a press release: "it appears that the large adult tyrannosaur was being nibbled on by a much smaller tyrannosaur, probably a juvenile."
 
+_Daspletosaurus_ is my favorite dinosaur!
+
+## Related Posts
+
+- [Oklahoma legislator proposes this long-neck as new state fossil
+](https://kjbritt.github.io/paleontology/2026/02/03/ok-state-fossil.html)
+- [Fossil forelimbs found in Utah prove to be record-breaking stegosaur](https://kjbritt.github.io/paleontology/2026/02/01/fossil-forelimbs-stegosaur.html)
+- [A single neckbone proves this dinosaur once roamed Montana](https://kjbritt.github.io/paleontology/2026/01/29/neck-bone-barosaurus.html)
 
 
 

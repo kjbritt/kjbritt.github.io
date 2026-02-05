@@ -35,6 +35,7 @@ The forelimbs measured in at 38% longer than those of other stegosaurs found in 
 
 Cary Woodruff, Ph.D., curator of vertebrate paleontology at the Frost Science Museum and one of the paper's co-authors, described the specimen more succinctly [in a post on Bluesky](https://bsky.app/profile/doublebeam.bsky.social/post/3md6bhqfm2c2w): "One big f-ing stego". 
 
+_Stegosaurus_ is my favorite dinosaur!
 
 ## Related Posts
 
