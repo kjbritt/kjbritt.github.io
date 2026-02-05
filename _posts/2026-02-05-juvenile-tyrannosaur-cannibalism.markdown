@@ -32,7 +32,7 @@ Analysis of the metatarsal also revealed a shocking discovery: rows of teeth mar
 
 >The tooth marks are interpreted as premaxillary bite marks from a juvenile tyrannosaurid, scavenging on a much larger individual. Location of the postmortem marks supports a scenario of opportunistic feeding during late-stage carcass consumption. 
 
-The Dickinson Museum Center - which includes the Badlands Dinosaur Museum - explained things in layman's terms in a press release: "it appears that the large adult tyrannosaur was being nibbled on by a much smaller tyrannosaur, probably a juvenile."
+The Dickinson Museum Center - which includes the Badlands Dinosaur Museum - explained things in layman's terms [in a press release](https://www.dickinsongov.com/museum-center/page/cannibalism-adult-tyrannosaur-juvenile): "it appears that the large adult tyrannosaur was being nibbled on by a much smaller tyrannosaur, probably a juvenile."
 
 _Daspletosaurus_ is my favorite dinosaur!
 
