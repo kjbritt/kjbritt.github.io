@@ -2,7 +2,7 @@
 layout: post
 title:  "New evidence of tyrannosaur cannibalism revealed in Montana"
 author: "Keenan J. Britt"
-description: "A new discovery is extending the known range of one sauropod species, while also providing supporting evidence for an intriguing environmental hypothesis."
+description: "A fossil foot bone found in Montana is providing new evidence of cannibalism among tyrannosaurs."
 image: /docs/assets/images/Tyrannosaurus_TD.png
 date:   2026-02-05 01:06:33 +0000
 category: paleontology
@@ -20,7 +20,7 @@ A new study, published in _Evolving Earth_ on Jan. 22 reported on new evidence o
 
 The paper was authored by Josephine Nielsen of Aarhus University. Nielsen was joined on the paper by co-authors Devin Fowler, Ph.D., of the Badlands Dinosaur Museum, Taia Wyenberg-Henzler of the University of Alberta and [Christof Pearce](https://www.au.dk/en/christof.pearce@geo.au.dk), Ph.D., also of Aarhus University. 
 
-## A tale of tyrannosaur toe-bones and toothmarks
+## A fossil foot bone and tyrannosaur tooth marks
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fdickinsonmuseumcenter%2Fposts%2Fpfbid0fWd499SH4TRomERhCZeNd1Tu9zbNkbEK3g4KBWTupSHCSQxY8cwQJdhEZWe9HuZ1l&show_text=true&width=500" width="500" height="787" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
