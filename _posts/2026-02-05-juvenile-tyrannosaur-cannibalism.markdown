@@ -18,8 +18,15 @@ Paleontologists have debated for decades about whether tyrannosaurus like _Tyran
 
 A new study, published in _Evolving Earth_ on Jan. 22 reported on new evidence of cannibalism among tyrannosaurus. The full paper is currently [available for free online through Science Direct](https://www.sciencedirect.com/science/article/pii/S2950117226000038). 
 
-The paper was authored by Josephine Nielsen of Aarhus University. Nielsen was joined on the paper by co-authors Devin Fowler, Ph.D., of the Badlands Dinosaur Museum, Taia Wyenberg-Henzler of the University of Alberta and Christof Pearce, Ph.D., also of Aarhus University. 
+The paper was authored by Josephine Nielsen of Aarhus University. Nielsen was joined on the paper by co-authors Devin Fowler, Ph.D., of the Badlands Dinosaur Museum, Taia Wyenberg-Henzler of the University of Alberta and [Christof Pearce](https://www.au.dk/en/christof.pearce@geo.au.dk), Ph.D., also of Aarhus University. 
 
 ## A tale of tyrannosaur toe-bones and toothmarks
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fdickinsonmuseumcenter%2Fposts%2Fpfbid0fWd499SH4TRomERhCZeNd1Tu9zbNkbEK3g4KBWTupSHCSQxY8cwQJdhEZWe9HuZ1l&show_text=true&width=500" width="500" height="787" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+The specimen in question consists of a fragmentar left metatarsal (foot bone) that was found by two field volunteers with the Badlands Dinosaur Museum in central Montana in 2012. The locale was part of the Judith River Formation, a layer of rocks dating back to the Late Cretaceous period, 79-75 million years ago. The metatarsal fragments were donated to the museum in 2023.
+
+The authors identified the metatarsal as belonging to a tyrannosaur, the larger group of related theropod dinosaurs that includes the famous _T. rex_. This particular metatarsal is not likely to be from a _T. rex_, which is believed to have lived from 68-66 million years ago, millions of years after the rocks of the Judith River Formation were laid down. 
+
+
+
