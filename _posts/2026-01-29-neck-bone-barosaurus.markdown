@@ -44,7 +44,7 @@ I was curious about this possible ecological distinction that favored the diplod
 
 "In the paper, we treat this as a __possible__ ecological signal rather than a definitive conclusion," Walker said. "The [identification] of _Barosaurus_ in Montana adds another data point to a broader pattern in the northern Morrison, where diplodocids seem to be more common than macronarians. But we do note that this pattern could reflect a combination of ecological differences, sampling bias or both!"
 
-
+_Barosaurus_ is my favorite dinosaur!
 
 
 ## Related Posts

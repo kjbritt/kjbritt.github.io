@@ -26,7 +26,15 @@ The paper was authored by Josephine Nielsen of Aarhus University. Nielsen was jo
 
 The specimen in question consists of a fragments of a left metatarsal (foot bone) that was found by two field volunteers with the Badlands Dinosaur Museum in central Montana in 2012. The locale was part of the Judith River Formation, a layer of rocks dating back to the Late Cretaceous period, 79-75 million years ago. The metatarsal fragments were donated to the museum in 2023.
 
-The authors identified the metatarsal as belonging to a tyrannosaur, the larger group of related theropod dinosaurs that includes the famous _T. rex_. This particular metatarsal is not likely to be from a _T. rex_, which is believed to have lived from 68-66 million years ago, millions of years after the rocks of the Judith River Formation were laid down. 
+The authors identified the metatarsal as belonging to a tyrannosaur, the larger group of related theropod dinosaurs that includes the famous _T. rex_. This particular metatarsal is not likely to be from a _T. rex_, which is believed to have lived from 68-66 million years ago, millions of years after the rocks of the Judith River Formation were laid down. Based on the region the metatarsal was found in, the authors believe that the fossil was most likely from a related tyrannosaur species, _Daspletosaurus_. 
+
+Analysis of the metatarsal also revealed a shocking discovery: rows of teeth marks, indicating that the bone had been chewed on, likely by a smaller tyrannosaur. The authors propose that a juvenile tyrannosaur, likely a _Daspletosaurus_, left the tooth marks while scavenging on the carcass of a deceased adult. In technical jargon, the authors wrote that:
+
+>The tooth marks are interpreted as premaxillary bite marks from a juvenile tyrannosaurid, scavenging on a much larger individual. Location of the postmortem marks supports a scenario of opportunistic feeding during late-stage carcass consumption. 
+
+The Dickinson Museum Center - which includes the Badlands Dinosaur Museum - explained things in layman's terms in a press release: "it appears that the large adult tyrannosaur was being nibbled on by a much smaller tyrannosaur, probably a juvenile."
+
+
 
 
 
