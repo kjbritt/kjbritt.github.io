@@ -1,12 +1,12 @@
-<div id="breadcrumbs" style="font-family: sans-serif; font-size: 0.9em; color: #666; margin-bottom: 20px;">
-  <a href="/" style="text-decoration: none; color: #593233;">Home</a>
+<div id="breadcrumbs" style="font-family: sans-serif; font-size: 2em; color: #666; margin-bottom: 20px;">
+  <a href="/" style="text-decoration: none; color: #7f7053;">Home</a>
   
   {% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
   
   {% if crumbs.size > 1 %}
     <span style="margin: 0 8px;">/</span>
     {% assign category_slug = crumbs[1] %}
-    <a href="/{{ category_slug }}/" style="text-decoration: none; color: #593233; text-transform: capitalize;">
+    <a href="/{{ category_slug }}/" style="text-decoration: none; color: #7f7053; text-transform: capitalize;">
       {{ category_slug | replace:'-',' ' | replace:'_',' ' }}
     </a>
   {% endif %}
