@@ -2,7 +2,7 @@
 layout: post
 title:  "A completely new type of headbutting dinosaur discovered in Mexico"
 author: "Keenan J. Britt"
-description: "Move over _Pachycephalosaurus_, there's a new headbutting dinosaur from late Cretaceous western North America!"
+description: "Move over Pachycephalosaurus, there's a new headbutting dinosaur from late Cretaceous western North America!"
 image: /docs/assets/images/Xenovenator.png
 date:   2026-02-07 01:06:33 +0000
 category: paleontology
