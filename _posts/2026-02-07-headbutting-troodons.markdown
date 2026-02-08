@@ -8,7 +8,7 @@ date:   2026-02-07 01:06:33 +0000
 category: paleontology
 published: true
 ---
-
+{% include breadcrumbs.html %}
 <figure>
   <img src="/docs/assets/images/Xenovenator.png" alt="The theropod dinosaur Xenovenator." />
   <figcaption><i>The theropod Xenovenator. Graphic by Connor Ashbridge and under a Creative Commons BY 4.0 international license, <a href="https://commons.wikimedia.org/wiki/File:Xenovenator_espinosai.png">via Wikimedia Commons</a>.</i></figcaption>
@@ -30,7 +30,7 @@ The paleontologists also reported on unique adaptations in this particular skull
 
 <iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Fmuskoxfarm.org%2Fvideos%2F2521211561586106%2F&show_text=false&width=267&t=0" width="267" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
-<figcaption>Two headbutting bull musk oxen at the Musk Ox Farm in Palmer, Alaksa</figcaption><br>
+<figcaption><em>Two headbutting bull musk oxen at the <a href="https://www.muskoxfarm.org/">Musk Ox Farm</a> in Palmer, Alaksa</em></figcaption><br>
 
 Headbutting in dinosaurs is generally associated with the thick dome-skull dinosaurs like _Pachycephalosaurus_ and its relatives. However, other dinosaurs are believed to have been capable of headbutting, like _Pachyrinosaurus_, a relative of _Triceratops_. 
 
