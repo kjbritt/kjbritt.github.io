@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post2
 title:  "Hunting for extreme microbes"
 author: "Keenan J. Britt"
 description: "This summer, Memphis Hill, Ph.D., led a team to collect sediment and water samples from sites near Grewingk Glacier in the hopes of identifying ‘extreme microbes’ — microbes that can survive in extreme environments, like underneath glaciers."
