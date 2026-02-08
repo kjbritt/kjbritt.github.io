@@ -8,6 +8,8 @@ date:   2026-01-21 01:06:33 +0000
 category: paleontology
 published: true
 ---
+{% include breadcrumbs.html %}
+
 ![Exposure of the Two Medicine Formation near 'Egg Mountain' in northern Montana.](https://upload.wikimedia.org/wikipedia/commons/6/60/Two_Medicine.jpg)
 _Exposure of the Two Medicine Formation near "Egg Mountain" in northern Montana. Photo by Anky-man and in the public domain, [via Wikimedia Commons](https://en.wikipedia.org/wiki/Two_Medicine_Formation#/media/File:Two_Medicine.jpg)_
 
