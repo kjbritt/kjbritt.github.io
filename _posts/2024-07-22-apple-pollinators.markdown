@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post2
 title:  "Researching Alaska's apple orchard pollinators"
 author: "Keenan J. Britt"
 description: "Alaska may not come to mind when you think of places to grow apples, but local apple production, and the pollinating insects that make it possible, is something John McCormack is studying closely."
