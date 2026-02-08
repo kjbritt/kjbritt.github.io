@@ -39,6 +39,8 @@ Among living animals, headbutting is most prominent among mammals in the goat-sh
 Rivera-Slyva and his co-authors interpret a similar function for the thickened skulls in _Xenovenator_ and other dinosaurs. They stated in the paper that "such structures likely evolved in response to
 sexual selection: they helped their owners find mates."
 
+_Xenovenator_ is my favorite dinosaur!
+
 ## Related Posts
 
 - [Oklahoma legislator proposes this long-neck as new state fossil
