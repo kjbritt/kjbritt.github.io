@@ -15,3 +15,5 @@ published: true
 </figure>
 
 A team of archaeologists recently published on a campsite and mammoth ivory workshop from 14,000 years ago.
+
+The lead author on the paper was [Brian T. Wygal](https://www.adelphi.edu/faculty/profiles/profile.php?PID=0545), Ph.D., professor of anthropology at Adelphi University. Wygal was joined on the paper by co-authors Kathryn E. Krasinski and Lillian Barber, also with Adelphi University, along with Charles E. Holmes and Barbara A. Crass from the Univesity of Alaska Fairbanks.
