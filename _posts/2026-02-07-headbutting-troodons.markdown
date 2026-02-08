@@ -11,7 +11,7 @@ published: true
 
 <figure>
   <img src="/docs/assets/images/Xenovenator.png" alt="The theropod dinosaur Xenovenator." />
-  <figcaption><i>The theropod Tyrannosaurus. Graphic by Connor Ashbridge and under a Creative Commons BY 4.0 international license, <a href="https://commons.wikimedia.org/wiki/File:Xenovenator_espinosai.png">via Wikimedia Commons</a>.</i></figcaption>
+  <figcaption><i>The theropod Xenovenator. Graphic by Connor Ashbridge and under a Creative Commons BY 4.0 international license, <a href="https://commons.wikimedia.org/wiki/File:Xenovenator_espinosai.png">via Wikimedia Commons</a>.</i></figcaption>
 </figure>
 
 Move over _Pachycephalosaurus_, there's a new headbutting dinosaur from late Cretaceous western North America! 
