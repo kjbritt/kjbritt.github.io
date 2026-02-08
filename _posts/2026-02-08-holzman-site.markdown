@@ -6,6 +6,7 @@ description: "Archaeologists revealed a 14,000-year-old mammoth ivory workshop i
 image: /docs/assets/images/carpenter_site_views.jpg
 date:   2026-02-08 01:06:33 +0000
 category: archaeology
+tag: archaeology
 published: true
 ---
 {% include breadcrumbs.html %}
@@ -30,5 +31,5 @@ An older layer, dated from 14,000 to 14,100 years ago, contained more stone tool
 
 The discovery also provides additional context for a hotly-debated issue within archaeology known as the "[Peopling of the Americas](https://en.wikipedia.org/wiki/Peopling_of_the_Americas)" about how the first people arrived in the Americas. The authors believe the evidence from the Holzman Site supports the conservative view that people using a set of tools known as the "Clovis tradition" first entered southern Canada and the Lower 48 around 13,000 years ago after the "Ice Free Corridor" opened allowing passage out of Alaska. The authors conclude:
 
->The process of ivory tool manufacture and ivory rod composite toolsfound at the Holzman site are among the earliest known in the Americas further demonstrating technological similarities with Clovis tradition further south. The Tanana Valley served as a focus for highly mobile megafauna hunters as they explored and settled into new areas of the mammoth steppe. It was their ancestors that eventually dispersed south of the continental ice sheets in the broader context of the peopling of the Americas. 
+>The process of ivory tool manufacture and ivory rod composite tools found at the Holzman site are among the earliest known in the Americas further demonstrating technological similarities with Clovis tradition further south. The Tanana Valley served as a focus for highly mobile megafauna hunters as they explored and settled into new areas of the mammoth steppe. It was their ancestors that eventually dispersed south of the continental ice sheets in the broader context of the peopling of the Americas. 
 
