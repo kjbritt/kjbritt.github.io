@@ -2,8 +2,8 @@
 layout: post
 title:  "A completely new type of headbutting dinosaur discovered in Mexico"
 author: "Keenan J. Britt"
-description: "A fossil foot bone found in Montana is providing new evidence of cannibalism among tyrannosaurs."
-image: /docs/assets/images/Tyrannosaurus_TD.png
+description: "Move over _Pachycephalosaurus_, there's a new headbutting dinosaur from late Cretaceous western North America!"
+image: /docs/assets/images/Xenovenator.png
 date:   2026-02-07 01:06:33 +0000
 category: paleontology
 published: true
@@ -30,7 +30,7 @@ The paleontologists also reported on unique adaptations in this particular skull
 
 <iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Fmuskoxfarm.org%2Fvideos%2F2521211561586106%2F&show_text=false&width=267&t=0" width="267" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
-<figcaption>Two headbutting bull musk oxen at the Musk Ox Farm in Palmer, Alaksa</figcaption>
+<figcaption>Two headbutting bull musk oxen at the Musk Ox Farm in Palmer, Alaksa</figcaption><br>
 
 Headbutting in dinosaurs is generally associated with the thick dome-skull dinosaurs like _Pachycephalosaurus_ and its relatives. However, other dinosaurs are believed to have been capable of headbutting, like _Pachyrinosaurus_, a relative of _Triceratops_. 
 
