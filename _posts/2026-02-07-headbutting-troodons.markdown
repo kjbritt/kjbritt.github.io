@@ -18,7 +18,9 @@ Move over _Pachycephalosaurus_, there's a new headbutting dinosaur from late Cre
 
 In a scientific paper published in January in the journal _Diversity_ a group of paleontologists announced their discovery of a "thick-skulled theropod troodontid" from the late Cretaceous Period in Coahuila, Mexico.
 
-The [full scientific article is currently available for free online](https://www.mdpi.com/1424-2818/18/1/38) via MDPI.
+The paper's lead author is Hector E. Rivera-Sylva from Coahuila's Museo del Desierto. The [full scientific article is currently available for free online](https://www.mdpi.com/1424-2818/18/1/38) via MDPI.
+
+The new species, named _Xenovenator espinosai_, was described after a fossilized skull found in Mexico's Cerro del Pueblo Formation. The Cerro del Pueblo Formation is believed to date back 74-73 million years ago to the Campanian stage of the late Cretaceous Period. 
 
 ## Related Posts
 
