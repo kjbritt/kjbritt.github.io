@@ -42,7 +42,7 @@ You can visit the Montana Dinosaur Center in Bynum, Montana this summer.
 
 
 <div id="alert-container">
-        <h1>Glacier National Park Status</h1>
+        <h2>Glacier National Park Status</h2>
         <p>Loading current alerts...</p>
         </div>
 
