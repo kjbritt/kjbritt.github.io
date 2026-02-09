@@ -11,7 +11,13 @@ published: true
 ---
 {% include breadcrumbs.html %}
 
-You can visit the Montana Dinosaur Center in Bynum, Montana this summer.
+You can visit the [Montana Dinosaur Center](https://tmdinosaurcenter.org/) in Bynum, Montana this summer. The center is located along along US Highway 89, making it an easy stop for travelers jumping from  Yellowstone to Glacier National Park.
+
+## Summer 2026 planning
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftmdinosaurcenter%2Fposts%2Fpfbid06rbPLTGRYUPw2TsCs1mMv4SXXubDmeQwFNUoCY7xLpnPeyZ7gzPBiav2igjSsLjEl&show_text=true&width=500" width="500" height="572" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe><br>
+
+The Montana Dinosaur Center advises visitors to check "the Glacier National Park website for the latest updates as you map out your route". Alerts are available online from [the park's website](https://www.nps.gov/glac/index.htm). You can also view park status updates below which are available here via the [National Park Service API](https://www.nps.gov/subjects/developer/api-documentation.htm#/alerts/getAlerts). 
 
 <style>
         
