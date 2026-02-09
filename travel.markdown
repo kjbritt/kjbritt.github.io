@@ -3,6 +3,7 @@ layout: page
 title: Travel
 permalink: /travel/
 image: /docs/assets/images/coba.jpg
+tag: travel
 ---
 <figure>
   <img src="/docs/assets/images/coba.jpg" alt="A Mayan pyramid at Coba,Mexico" />

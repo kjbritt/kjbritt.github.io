@@ -13,6 +13,33 @@ published: true
 
 You can visit the Montana Dinosaur Center this summer.
 
+<style>
+        body { font-family: sans-serif; line-height: 1.6; padding: 20px; background: #f4f4f4; }
+        #alert-container { max-width: 800px; margin: auto; }
+        .alert-card {
+            background: white;
+            padding: 15px;
+            margin-bottom: 15px;
+            border-left: 10px solid #ccc;
+            border-radius: 4px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        /* Color coding by category */
+        .danger { border-left-color: #d9534f; } /* Red */
+        .closure { border-left-color: #333; }    /* Black */
+        .caution { border-left-color: #f0ad4e; } /* Orange */
+        .info { border-left-color: #5bc0de; }    /* Blue */
+
+        h2 { margin-top: 0; font-size: 1.2rem; }
+        .category-badge {
+            text-transform: uppercase;
+            font-size: 0.7rem;
+            font-weight: bold;
+            display: block;
+            color: #666;
+        }
+    </style>
+
 
 <div id="alert-container">
         <h1>Glacier National Park Status</h1>
