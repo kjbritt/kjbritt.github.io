@@ -11,7 +11,7 @@ published: true
 ---
 {% include breadcrumbs.html %}
 
-You can visit the Montana Dinosaur Center this summer.
+You can visit the Montana Dinosaur Center in Bynum, Montana this summer.
 
 <style>
         
@@ -57,7 +57,7 @@ You can visit the Montana Dinosaur Center this summer.
                 const result = await response.json();
 
                 // Clear the "Loading" text
-                container.innerHTML = `<h1>Glacier National Park Status</h1>`;
+                container.innerHTML = `<h2>Glacier National Park Status</h2>`;
 
                 if (result.data.length === 0) {
                     container.innerHTML += '<p>No active alerts at this time.</p>';
