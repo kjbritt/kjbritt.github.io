@@ -14,7 +14,7 @@ published: true
 You can visit the Montana Dinosaur Center this summer.
 
 <style>
-        body { font-family: sans-serif; line-height: 1.6; padding: 20px; background: #f4f4f4; }
+        
         #alert-container { max-width: 800px; margin: auto; }
         .alert-card {
             background: white;
