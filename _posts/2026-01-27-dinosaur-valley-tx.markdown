@@ -6,8 +6,10 @@ description: "Have you always dreamed about working in a dinosaur museum? What a
 image: https://upload.wikimedia.org/wikipedia/commons/6/6d/Dinosaur_Valley_State_Park_-_Track2.jpg
 date:   2026-01-27 01:06:33 +0000
 category: paleontology
+tags: travel paleontology
 published: true
 ---
+{% include breadcrumbs.html %}
 ![The fossilized footprint of a three-toed theropod dinosaur](https://upload.wikimedia.org/wikipedia/commons/6/6d/Dinosaur_Valley_State_Park_-_Track2.jpg)
 
 _A theropod dinosaur footprint at Dinosaur Valley State Park. Photo by Diane Turner and under a Creative Commons Attribution 2.0 Generic license, [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dinosaur_Valley_State_Park_-_Track2.jpg)_
