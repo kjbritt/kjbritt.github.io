@@ -30,5 +30,7 @@ The Hell Creek Formation was also home to a number of marine reptile species, li
 
 The discover was surprising in that the mosasaur tooth did not appear to have been found in a location that was part of the WIS. It was located directly next to a fossil tooth from _Tyrannosaurus rex_ and within the immediate vicinity of other remains from the "duck-billed" dinosaur _Edmontosaurus_ and the alligatorid _Brachychampsa_. Based on the mosasaur tooth's location next to fossils of land animals, the authors' hypothesized that mosasaurs may have hunted in inland, freshwater rivers. 
 
-## Isotope studies support the claim
+## Isotope analysis supports the claim
+
+The authors conducted an isotope analysis on carbon and oxygen isotopes in the mosasaur tooth and compared them to fossil specimens of known terrestrial and marine species. The conclusions? The authors found that the mosasaur tooth was "consistently closer to terrestrial taxa than to marine, with the δ13C [the ratio of carbon-12 to carbon-13] values exceeding beyond those observed in the terrestrial taxa and, therefore, potentially reflecting diet". 
 
