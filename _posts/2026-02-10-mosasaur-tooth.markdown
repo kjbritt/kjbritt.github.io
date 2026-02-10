@@ -19,6 +19,12 @@ Mosasaurs, long imagined as terrifying ocean predators, may have also hunted in 
 In an article published in December in the academic journal BMC Zoology, titled <a href="https://link.springer.com/article/10.1186/s40850-025-00246-y"><cite>“King of the Riverside”, a multi-proxy approach offers a new perspective on mosasaurs before their extinction</cite></a>, paleontologists Melanie A.D. During and Nathan E. Van Vranken and their co-authors argued that "mosasaurs, traditionally considered marine reptiles, could inhabit freshwater 
 environments". 
 
+This conclusion stemmed from the discovery of a single fossil mosasaur tooth, found in the Hell Creek Formation layers of Morton County, North Dakota. The Hell Creek Formation is a section of geologic layers found in the Western United States that date back to the Late Cretaceous, some 66-68 million years ago. The Hell Creek Formation is produced fossils of iconic Cretaceous dinosaurs like _Tyrannosaurus_ and _Triceratops_. 
+
+The Hell Creek Formation was also home to a number of marine reptile species, like mosasaurs, plesiosaurs and sea turtles, that lived in an ancient inland sea known as the Western Interior Seaway (WIS).
+
+What was surprising about the mosasaur tooth was that it did not appear to have been found in a location that was part of the WIS. It was located directly next to a fossil tooth from _Tyrannosaurus rex_ and within the immediate vicinity of other remains from the "duck-billed" dinosaur _Edmontosaurus_ and the alligatorid _Brachychampsa_. 
+
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBioMedCentral%2Fposts%2Fpfbid02jn6S9pF8C9D7C5VfWbpYyWisp6dRf39GZrfZzPPh9KACbNwycmeTmS8mHBP5HyQ2l&show_text=false&width=500" width="500" height="413" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 <figcaption><em>An illustration showing the mosasaur tooth (left) and the location it was found, next to a Tyrannosaurus tooth (right)</em></figcaption>
 
