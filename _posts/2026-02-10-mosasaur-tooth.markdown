@@ -2,7 +2,7 @@
 layout: post
 title:  "Fossil tooth found in North Dakota suggests mosasaurs hunted in freshwater rivers"
 author: "Keenan J. Britt"
-description: "Archaeologists revealed a 14,000-year-old mammoth ivory workshop in Alaska's Tanana Valley."
+description: "Mosasaurs, long imagined as terrifying ocean predators, may have also hunted in freshwater rivers, according to a recent study."
 image: /docs/assets/images/Knight_Tylosaurus.jpg
 date:   2026-02-10 01:06:33 +0000
 category: paleontology
@@ -32,5 +32,12 @@ The discover was surprising in that the mosasaur tooth did not appear to have be
 
 ## Isotope analysis supports the claim
 
-The authors conducted an isotope analysis on carbon and oxygen isotopes in the mosasaur tooth and compared them to fossil specimens of known terrestrial and marine species. The conclusions? The authors found that the mosasaur tooth was "consistently closer to terrestrial taxa than to marine, with the δ13C [the ratio of carbon-12 to carbon-13] values exceeding beyond those observed in the terrestrial taxa and, therefore, potentially reflecting diet". 
+The authors conducted an isotope analysis on carbon and oxygen isotopes in the mosasaur tooth and compared them to fossil specimens of known terrestrial and marine species. The conclusions? The authors found that the mosasaur tooth was "consistently closer to terrestrial taxa than to marine, with the δ13C [the ratio of carbon-12 to carbon-13] values exceeding beyond those observed in the terrestrial taxa and, therefore, potentially reflecting diet". The authors also extracted small samples of calcium carbonate from the tooth for a strontium isotope analysis which also supported "a freshwater origin" for the tooth. 
 
+During and Van Vranken concluded from the isotope studies that "the tooth was formed while the mosasaur lived in a freshwater setting" and that the rivers of the Hell Creek Formation were capable of supporting large animal species 66 million years ago. They believe that certain mosasaurs moved into rivers as part of their ability to adapt to "various ecological niches during the Late Cretaceous."
+
+## Related Posts
+
+- [A completely new type of headbutting dinosaur discovered in Mexico](https://kjbritt.github.io/paleontology/2026/02/07/headbutting-troodons.html)
+- [New evidence of tyrannosaur cannibalism revealed in Montana](https://kjbritt.github.io/paleontology/2026/02/05/juvenile-tyrannosaur-cannibalism.html)
+- [Oklahoma legislator proposes this long-neck as new state fossil](https://kjbritt.github.io/paleontology/2026/02/03/ok-state-fossil.html)
