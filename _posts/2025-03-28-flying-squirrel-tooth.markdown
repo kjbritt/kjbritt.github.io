@@ -7,6 +7,7 @@ image: /docs/assets/images/carpenter_site_views.jpg
 date:   2025-03-28 01:06:33 +0000
 category: paleontology
 ---
+{% include breadcrumbs.html %}
 
 Five million years ago, strange and amazing creatures lived in East Tennessee. This one glided high over the competition. A fossil squirreled away for millions of years was recently brought to light. 
 

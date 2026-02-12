@@ -7,6 +7,7 @@ image: /docs/assets/images/carpenter_site_views.jpg
 date:   2025-06-24 01:06:33 +0000
 category: wildlife
 ---
+{% include breadcrumbs.html %}
 
 In April, a deceased snake was discovered in a hay bale that had been shipped from Washington state to Southcentral Alaska. The remains of the snake were sent to UAA’s McLaughlin Lab for analysis.
 

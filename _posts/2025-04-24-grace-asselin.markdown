@@ -8,6 +8,7 @@ date:   2025-04-24 01:06:33 +0000
 category: philosophy
 tag: philosophy
 ---
+{% include breadcrumbs.html %}
 
 People from all walks of life can have varying opinions on how animals should be treated. But how does someone develop these opinions? These are the kinds of questions that UAA undergraduate Grace Asselin is trying to answer.
 

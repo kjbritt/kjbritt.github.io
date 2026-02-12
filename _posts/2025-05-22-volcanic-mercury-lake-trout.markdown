@@ -7,6 +7,7 @@ image: /docs/assets/images/carpenter_site_views.jpg
 date:   2025-05-22 01:06:33 +0000
 category: wildlife
 ---
+{% include breadcrumbs.html %}
 
 Residents of Southcentral Alaska have been preparing for the possible eruption of Mt. Spurr over the last few months. Recent UAA alumnus Paul Gabriel is focused on another volcanic public health concern: mercury.
 

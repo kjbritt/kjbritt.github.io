@@ -7,6 +7,7 @@ image: /docs/assets/images/carpenter_site_views.jpg
 date:   2025-06-11 01:06:33 +0000
 category: technology
 ---
+{% include breadcrumbs.html %}
 
 A new graduate program will be available at the UAA College of Engineering (CoEng) in the fall 2025 semester: the Master of Science in artificial intelligence, data science and engineering.
 

@@ -7,6 +7,7 @@ image: /docs/assets/images/carpenter_site_views.jpg
 date:   2025-03-18 01:06:33 +0000
 category: wildlife
 ---
+{% include breadcrumbs.html %}
 
 UAA students are used to ‘howling’ for the Seawolves, but last semester a small group of undergraduates had the opportunity to study Southcentral Alaska’s wild wolves thanks to a partnership with the Alaska Department of Fish and Game.
 

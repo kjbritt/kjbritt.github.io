@@ -7,6 +7,7 @@ image: /docs/assets/images/carpenter_site_views.jpg
 date:   2025-04-03 01:06:33 +0000
 category: paleontology
 ---
+{% include breadcrumbs.html %}
 
 What did our ancestors look like 1.4 million years ago? A hidden face from a cave in Spain might hold the answer.
 
