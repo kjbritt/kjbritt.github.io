@@ -8,6 +8,7 @@ date:   2025-07-10 01:06:33 +0000
 category: wildlife
 tag: wildlife
 ---
+{% include breadcrumbs.html %}
 
 In March, a group of nine students in Kenai Peninsula College’s Semester by the Bay program had the opportunity to participate in the necropsy of a fin whale and gain first-hand experience in marine biology.
 
