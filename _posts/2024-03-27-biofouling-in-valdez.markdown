@@ -4,7 +4,7 @@ title:  "Studying biofouling in Port Valdez"
 author: "Keenan J. Britt"
 description: "Hannah Bogdan, a second-year student at Prince William Sound College (PWSC), has been conducting research this academic year in collaboration with the Valdez Native Tribe (VNT), UAF, City of Valdez and Prince William Sound Regional Citizens' Advisory Council."
 image: /docs/assets/images/carpenter_site_views.jpg
-date:   2024-06-01 01:06:33 +0000
+date:   2024-03-27 01:06:33 +0000
 category: wildlife
 tag: wildlife
 ---
