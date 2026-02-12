@@ -7,6 +7,7 @@ image: /docs/assets/images/carpenter_site_views.jpg
 date:   2025-11-24 01:06:33 +0000
 category: wildlife
 ---
+{% include breadcrumbs.html %}
 
 “We are fortunate to know a lot about sea otter behavior, but there’s also a lot that we don’t know,” said Ana Velasquez, a master’s candidate in biological sciences at UAA. For her thesis project, Velasquez used old data to make new discoveries about otters.
 

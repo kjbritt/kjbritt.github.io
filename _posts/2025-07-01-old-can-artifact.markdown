@@ -7,6 +7,7 @@ image: /docs/assets/images/carpenter_site_views.jpg
 date:   2025-07-01 01:06:33 +0000
 category: archaeology
 ---
+{% include breadcrumbs.html %}
 
 Archaeology may conjure images of fantastic treasures, but most artifacts uncovered by archaeologists are more mundane. This is the case with a series of artifacts uncovered this year during the UAA archaeological field school at the Carpenter Site — three tin cans.
 

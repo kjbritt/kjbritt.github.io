@@ -7,6 +7,7 @@ image: /docs/assets/images/carpenter_site_views.jpg
 date:   2025-08-12 01:06:33 +0000
 category: technology
 ---
+{% include breadcrumbs.html %}
 
 Hoyt Thomas aims to locate uncapped and improperly sealed oil and gas wells that can pose risks to the public. In order to identify these hazards and gather the necessary data for future mitigation efforts, Thomas is utilizing cutting-edge technology, including drones and artificial intelligence (AI).
 

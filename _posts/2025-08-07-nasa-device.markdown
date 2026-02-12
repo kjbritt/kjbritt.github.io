@@ -7,6 +7,7 @@ image: /docs/assets/images/carpenter_site_views.jpg
 date:   2025-08-07 01:06:33 +0000
 category: technology
 ---
+{% include breadcrumbs.html %}
 
 On June 26, a team of UAA students and faculty watched as a Terrier-Orion sounding rocket launched into space from NASA’s Wallops Flight Facility in Virginia. The rocket’s payload included a device designed by the team that was used to measure the mass of the Earth.
 

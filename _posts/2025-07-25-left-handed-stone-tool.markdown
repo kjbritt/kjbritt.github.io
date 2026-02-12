@@ -7,6 +7,7 @@ image: /docs/assets/images/carpenter_site_views.jpg
 date:   2025-07-25 01:06:33 +0000
 category: archaeology
 ---
+{% include breadcrumbs.html %}
 
 This summer, a group of UAA students participated in an archaeology dig near Delta Junction. Some of the most exciting finds were complete stone tools, including one that provided a “hands-on” connection to the past — a potential left-handed stone scraper.
 
