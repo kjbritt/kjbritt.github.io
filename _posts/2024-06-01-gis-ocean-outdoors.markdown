@@ -8,6 +8,7 @@ date:   2024-06-01 01:06:33 +0000
 category: technology
 tag: technology
 ---
+{% include breadcrumbs.html %}
 
 For Prince William Sound College (PWSC) outdoor leadership graduate Frank Schweers, a passion to explore the outdoors led to new opportunities to help others visualize the outdoors through the use of geographic information system (GIS) technology.
 

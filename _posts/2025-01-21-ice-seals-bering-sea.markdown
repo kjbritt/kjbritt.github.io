@@ -7,6 +7,7 @@ image: /docs/assets/images/carpenter_site_views.jpg
 date:   2025-01-21 01:06:33 +0000
 category: wildlife
 ---
+{% include breadcrumbs.html %}
 
 Graduate student Kyle Kolda departed Dutch Harbor with the NOAA Fisheries team aboard the R/V Norseman II in April 2024, aiming to gather data on the health and ecology of ribbon and spotted seals in the Bering Sea.
 

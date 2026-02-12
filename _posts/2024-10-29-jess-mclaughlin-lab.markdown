@@ -8,6 +8,7 @@ date:   2024-10-29 01:06:33 +0000
 category: philosophy
 tag: philosophy
 ---
+{% include breadcrumbs.html %}
 
 The McLaughlin Lab launched this semester at UAA, with principal investigator Jess McLaughlin, Ph.D., assistant professor in the Department of Biological Sciences, placing ethics at the forefront. McLaughlin is recruiting graduate students for the 2025-26 academic year and is actively thinking about how to prioritize students and local communities.
 

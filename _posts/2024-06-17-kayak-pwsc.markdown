@@ -8,6 +8,7 @@ date:   2024-06-17 01:06:33 +0000
 category: travel
 tag: travel
 ---
+{% include breadcrumbs.html %}
 
 Six first- and second-year students in Prince William Sound College (PWSC)’s outdoor leadership program, and two instructors, completed a 14-day kayak capstone expedition.
 

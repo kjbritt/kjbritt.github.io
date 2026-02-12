@@ -8,6 +8,7 @@ date:   2024-11-25 01:06:33 +0000
 category: philosophy
 tag: philosophy
 ---
+{% include breadcrumbs.html %}
 
 This August, Raymond Anthony, Ph.D., professor of philosophy, was awarded an Inter-Disciplinary Engagement in Animal Systems (IDEAS) program grant through the USDA National Institute of Food and Agriculture (NIFA).
 

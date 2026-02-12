@@ -7,6 +7,7 @@ image: /docs/assets/images/carpenter_site_views.jpg
 date:   2022-03-10 01:06:33 +0000
 category: technology
 ---
+{% include breadcrumbs.html %}
 
 At a time when high energy costs are a factor for many in Valdez and the Copper Basin, the Valdez City Council heard a presentation on a potential 'micro modular' nuclear reactor (MMR) to be built in the vicinity of Valdez.
 
