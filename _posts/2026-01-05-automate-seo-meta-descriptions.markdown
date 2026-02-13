@@ -8,6 +8,8 @@ date:   2026-01-04 01:06:33 +0000
 category: seo
 published: true
 ---
+{% include breadcrumbs.html %}
+
 Writing quality meta descriptions for your web pages is a key feature of search engine optimization (SEO). 
 
 ## What are meta descriptions?
