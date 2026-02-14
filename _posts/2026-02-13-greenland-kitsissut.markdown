@@ -29,4 +29,6 @@ The calibrated carbon date from the wing bone and the style of the tent rings he
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IPJT4Jf0RVI?si=FYeD1Ij80WtH-4c_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Text
+The Kitsissut Islands are located within a polynya, which is an area of Arctic water that remains open and free from sea ice. This means that it would not have been possible for humans to travel to the islands over an ice-bridge. Early Paleo-Inuit travelers would have had to make the journey across the dangerous Arctic waters in a boat or kayak. 
+
+
