@@ -27,10 +27,15 @@ The survey team discovered a bird humerus (upper arm/wing bone) within one of th
 
 The calibrated carbon date from the wing bone and the style of the tent rings help place the archaeological sites on Isbjorne within the Early Paleo-Inuit period, which archaeologists place at 4,500–2,700 years ago. 
 
-## Inferences on watercraft and subsistence strategies
+## Inferences on ancient watercraft and seafaring
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IPJT4Jf0RVI?si=FYeD1Ij80WtH-4c_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IPJT4Jf0RVI?si=FYeD1Ij80WtH-4c_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
 The Kitsissut Islands are located within a polynya, which is an area of Arctic water that remains open and free from sea ice. This means that it would not have been possible for humans to travel to the islands over an ice-bridge. Early Paleo-Inuit travelers would have had to make the journey across the dangerous Arctic waters in a boat or kayak. 
 
+Crossing the 33 miles (53 kilometers) of water from mainland Greenland to reach the island chain today would be "formidable even for an experienced adventure kayaker, equipped with GPS, current charts and satellite communication/weather reports," the authors wrote. 
+
+Although the team did not find the remains of any boats during their archaeological survey, evidence from other sites indicates that Paleo-Inuit people used "skin-on-frame" watercraft. These vessels were constructed by stretching animal skins out over a wooden frame, similar to later, traditional Inuit watercraft like kayaks and _umiaqs_ (skin boats). 
+
+"We knew that they had watercraft [...] but we didn't know the extent of their seafaring abilities and their navigational skill," Walls told CBS News Alberta. "Evidently they're able to intercept different types of sea mammals and travel out into the environment [in the Kitsissut Islands] where they can access seabirds that nest in these islands."
 
