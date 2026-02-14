@@ -19,7 +19,14 @@ The world saw a number of important innovations 4,500 years ago. In the Nile Val
 
 In a study published on Feb. 9 in the academic journal _Antiquity_, titled <a href="https://www.cambridge.org/core/journals/antiquity/article/voyage-to-kitsissut-a-new-perspective-on-early-paleoinuit-watercraft-and-maritime-lifeways-at-a-high-arctic-polynya/FF3C29CC19A0797123A43718E52D266B"><cite>Voyage to Kitsissut: a new perspective on Early Paleo-Inuit watercraft and maritime lifeways at a High Arctic polynya</cite></a>, lead author <a href="https://profiles.ucalgary.ca/matthew-walls">Matthew Walls</a>, Ph.D., from the University of Calgary reported on an archaeological survey of the remote Kitsissut island cluster. Walls was joined on the paper by co-authors Mari Kleist and Pauline Knudsen, also with Calgary. 
 
-The Kitsissut islands are located between Canada's Ellesmere Island (_Umimmattooq_) and the northwest coast of Greenland (_Kalaallit Nunaat_).
+The Kitsissut Islands are located between Canada's Ellesmere Island (_Umimmattooq_) and the northwest coast of Greenland (_Kalaallit Nunaat_).
+
+During a survey in 2019 to the Kitsissut Islands, 
+
+Isbjørne Island. 
+
+The survey team discovered a bird humerus (upper arm/wing bone) within one of the tent rings. The humerus was identified as belonging to a thick-billed murre (_Uria lomvia_), a species of seabird that nests in colonies on the islands. 
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IPJT4Jf0RVI?si=FYeD1Ij80WtH-4c_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

@@ -10,16 +10,6 @@ Welcome to my new philosophy blog!
 
 ## Recent posts
 
-<ul>
-{% for post in site.tags[page.tag] %}
-  <li>
-    {{ post.date | date: "%B %d, %Y" }}: <a href="{{ post.url }}">{{ post.title }}</a>
-  </li>
-{% endfor %}
-</ul>
-<br>
-Hello
-<br>
 <ul class="post-list">
   {% assign stories = site.tags[page.tag] | slice: 0, 5 %}
   {% for story in stories %}
