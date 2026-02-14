@@ -8,7 +8,7 @@ image: /docs/assets/images/petra_pfp.jpg
 ---
 ## Home
 
-Welcome to my portfolio site. This is an expanded version of my resume/CV. You can read more about my background on the [About page](/about/).
+Welcome! This is an active science/technology news blog as well as my personal portfolio site. I'm an Alaska-based science journalist, web developer and destination marketing professional. 
 
 This site is built in [Jekyll](https://jekyllrb.com/), a static-site generator written in the Ruby programming language. 
 
