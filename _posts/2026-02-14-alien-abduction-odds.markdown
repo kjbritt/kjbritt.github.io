@@ -7,7 +7,7 @@ image: /docs/assets/images/greenland.jpg
 date:   2026-02-14 01:06:33 +0000
 category: space
 tag: space
-published: false
+published: true
 ---
 {% include breadcrumbs.html %}
 <figure>
@@ -15,7 +15,7 @@ published: false
   <figcaption><i>Coastal Greenland from the air, June 2013.</i></figcaption>
 </figure>
 
-The world saw a number of important innovations 4,500 years ago. In the Nile Valley, ancient Egyptians constructed the pyramids at Giza. On the Salisbury Plain, Britons erected Stonehenge. And in the Arctic, Paleo-Inuit people crossed treacherous waters on skin-on-frame boats to access remote islands off the coast of Greenland.
+Alaskans have a 1 in 77 odds of being abducted by aliens according to a new study.
 
 <iframe
   src="https://kjbritt.github.io/space/alien-abduction-odds.html"
