@@ -10,10 +10,6 @@ tag: space
 published: true
 ---
 {% include breadcrumbs.html %}
-<figure>
-  <img src="/docs/assets/images/greenland.jpg" alt="Coastal Greenland seen from the air." />
-  <figcaption><i>Coastal Greenland from the air, June 2013.</i></figcaption>
-</figure>
 
 Three years ago, Alaska made national headlines for the ["Alaska high-altitude object" incident](https://en.wikipedia.org/wiki/2023_Alaska_high-altitude_object). 
 
