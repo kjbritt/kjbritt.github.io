@@ -2,7 +2,7 @@
 layout: post
 title:  "Paleo-Inuit seafarers reached remote Greenlandic islands 4,500 years ago, archaeologists reveal"
 author: "Keenan J. Britt"
-description: "Paleo-Inuit seafarers reached remote Greenlandic islands 4,500 years ago, archaeologists reveal."
+description: "4,500 years ago in the Arctic, Paleo-Inuit people crossed treacherous waters on skin-on-frame boats to access remote islands off the coast of Greenland."
 image: /docs/assets/images/greenland.jpg
 date:   2026-02-13 01:06:33 +0000
 category: archaeology
