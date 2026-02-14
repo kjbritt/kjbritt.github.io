@@ -25,7 +25,7 @@ During a survey in 2019 to the Kitsissut Islands,
 
 Isbjørne Island. 
 
-The survey team discovered a bird humerus (upper arm/wing bone) within one of the tent rings. The humerus was identified as belonging to a thick-billed murre (_Uria lomvia_), a species of seabird that nests in colonies on the islands. 
+The survey team discovered a bird humerus (upper arm/wing bone) within one of the tent rings. The humerus was identified as belonging to a thick-billed murre (_Uria lomvia_), a species of seabird that nests in colonies on the islands. The bone was later radiocarbon dated, resulting in a calibrated age of 4,400–3,938 years. 
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IPJT4Jf0RVI?si=FYeD1Ij80WtH-4c_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
