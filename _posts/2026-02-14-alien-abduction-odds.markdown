@@ -15,7 +15,7 @@ published: true
   <figcaption><i>Coastal Greenland from the air, June 2013.</i></figcaption>
 </figure>
 
-Three years ago, Alaska made national headlines for the []"Alaska high-altitude object" incident](https://en.wikipedia.org/wiki/2023_Alaska_high-altitude_object). 
+Three years ago, Alaska made national headlines for the ["Alaska high-altitude object" incident](https://en.wikipedia.org/wiki/2023_Alaska_high-altitude_object). 
 
 Alaskans have a 1 in 77 odds of being abducted by aliens according to a new study.
 
