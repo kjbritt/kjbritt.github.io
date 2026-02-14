@@ -15,7 +15,7 @@ published: true
   <figcaption><i>Coastal Greenland from the air, June 2013.</i></figcaption>
 </figure>
 
-The world saw a number of important innovations 4,500 years ago. In the Nile Valley, ancient Egpytians constructed the pyramids at Giza. On the Salisbury Plain, Brittons erected Stonehenge. And in the Arctic, Paleo-Inuit people crossed treacherous waters on skin-on-frame boats to access remote islands off the coast of Greenland.
+The world saw a number of important innovations 4,500 years ago. In the Nile Valley, ancient Egyptians constructed the pyramids at Giza. On the Salisbury Plain, Britons erected Stonehenge. And in the Arctic, Paleo-Inuit people crossed treacherous waters on skin-on-frame boats to access remote islands off the coast of Greenland.
 
 In a study published on Feb. 9 in the academic journal _Antiquity_, titled <a href="https://www.cambridge.org/core/journals/antiquity/article/voyage-to-kitsissut-a-new-perspective-on-early-paleoinuit-watercraft-and-maritime-lifeways-at-a-high-arctic-polynya/FF3C29CC19A0797123A43718E52D266B"><cite>Voyage to Kitsissut: a new perspective on Early Paleo-Inuit watercraft and maritime lifeways at a High Arctic polynya</cite></a>, lead author <a href="https://profiles.ucalgary.ca/matthew-walls">Matthew Walls</a>, Ph.D., from the University of Calgary reported on an archaeological survey of the remote Kitsissut island cluster. Walls was joined on the paper by co-authors Mari Kleist and Pauline Knudsen, also with Calgary. 
 
