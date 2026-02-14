@@ -18,7 +18,7 @@ published: true
 Alaskans have a 1 in 77 odds of being abducted by aliens according to a new study.
 
 <iframe
-  src="https://kjbritt.github.io/space/alien-abduction-odds.html"
+  src="https://kjbritt.github.io/space/2026/02/14/alien-abduction-odds.html"
   title="Alien Hotspots — Implied odds of reported alien abductions, by state"
   width="100%" height="900"
   style="border:0;overflow:hidden;display:block;width:100%;"
