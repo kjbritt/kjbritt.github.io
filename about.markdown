@@ -1,9 +1,9 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: about/
 ---
-I'm an Alaska-based science journalist, web developer and destination marketing specialist. 
+I'm an Alaska-based science journalist, web developer and destination marketing specialist. I'm also a current board memberof the [Alaska Museum of Science & Nature](https://www.alaskamuseum.org/).
 
 ## Education and Certifications
 
