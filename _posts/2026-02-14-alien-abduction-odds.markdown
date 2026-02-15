@@ -25,6 +25,8 @@ While things seem to have quieted down over the last two years, [a recent study 
 
 I noticed that there seems to be a correlation in which states that rank highly on the list also border Canada. Seven of the top eight states on the list border Canada: New Hampshire, Idaho, Vermont, Maine, Montana and Wyoming. 
 
+Alaska, at 14th in the list, outpaces 16th place Nevada, home to the infamous "Area 51". 
+
 <iframe
   src="https://aharris-jpg.github.io/aliens/usa.html"
   title="Alien Hotspots — Implied odds of reported alien abductions, by state"
