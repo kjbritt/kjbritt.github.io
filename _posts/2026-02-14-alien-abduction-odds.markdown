@@ -19,6 +19,10 @@ Three years ago, Alaska made national headlines for the ["Alaska high-altitude o
 
 While things seem to have quieted down over the last two years, [a recent study by Canada Sports Betting (CSB)](https://www.canadasportsbetting.ca/news/research/alien-abduction-odds-2026/) suggests that Alaskans have a 1 in 77 odds of being abducted by aliens in 2026. In the their January report, <cite>Alien Abduction Odds Index 2026</cite>, CSB ranked each Canadian provence and US state in terms of reported alien abductions. 
 
+## A fun tool for data exploration
+
+I noticed that there seems to be a correlation in which states that rank highly on the list also border Canada. Seven of the top eight states on the list border Canada: New Hampshire, Idaho, Vermont, Maine, Montana and Wyoming. 
+
 <iframe
   src="https://aharris-jpg.github.io/aliens/usa.html"
   title="Alien Hotspots — Implied odds of reported alien abductions, by state"
