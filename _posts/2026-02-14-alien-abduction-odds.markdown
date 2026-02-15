@@ -10,6 +10,10 @@ tag: space
 published: true
 ---
 {% include breadcrumbs.html %}
+<figure>
+  <img src="/docs/assets/images/alaska_abduction_web.jpg" alt="An AI generated depiction of a man being abducted by aliens while on a musk ox farm in Alaska." />
+  <figcaption><i>An hypothetical depiction of an alien abduction in Palmer, Alaska. Generated with Google Gemini.</i></figcaption>
+</figure>
 
 Three years ago, Alaska made national headlines for the ["Alaska high-altitude object" incident](https://en.wikipedia.org/wiki/2023_Alaska_high-altitude_object). On Feb. 10, 2023, the U.S. Air Force shot down the high-altitutde object over the Arctic Ocean, just off the coast from Deadhorse, Alaska. The downed object evidently disappeared into the Arctic Ocean, and the search for debris ended on Feb. 18. For a time, the media and everyday Alaskans discussed the incident as a potential unidentified flying object (UFO) of potential extraterrestrial origin, though the federal government ruled the object had been a man-made balloon. 
 
