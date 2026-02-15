@@ -17,7 +17,7 @@ published: true
 
 Three years ago, Alaska made national headlines for the ["Alaska high-altitude object" incident](https://en.wikipedia.org/wiki/2023_Alaska_high-altitude_object). On Feb. 10, 2023, the U.S. Air Force shot down the high-altitutde object over the Arctic Ocean, just off the coast from Deadhorse, Alaska. The downed object evidently disappeared into the Arctic Ocean, and the search for debris ended on Feb. 18. For a time, the media and everyday Alaskans discussed the incident as a potential unidentified flying object (UFO) of potential extraterrestrial origin, though the federal government ruled the object had been a man-made balloon. 
 
-While things seem to have quieted down over the last two years, a recent study suggests that Alaskans have a 1 in 77 odds of being abducted by aliens in 2026.
+While things seem to have quieted down over the last two years, [a recent study by Canadian Sports Betting](https://www.canadasportsbetting.ca/news/research/alien-abduction-odds-2026/) suggests that Alaskans have a 1 in 77 odds of being abducted by aliens in 2026.
 
 <iframe
   src="https://aharris-jpg.github.io/aliens/usa.html"
