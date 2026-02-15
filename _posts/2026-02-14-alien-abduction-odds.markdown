@@ -21,6 +21,8 @@ While things seem to have quieted down over the last two years, [a recent study 
 
 ## A fun tool for data exploration
 
+[Ashton Harris](https://www.ashtonharris.me/), a UX software architect, designed a fascinating data visualization. 
+
 I noticed that there seems to be a correlation in which states that rank highly on the list also border Canada. Seven of the top eight states on the list border Canada: New Hampshire, Idaho, Vermont, Maine, Montana and Wyoming. 
 
 <iframe
