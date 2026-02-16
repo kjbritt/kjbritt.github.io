@@ -27,7 +27,7 @@ It's important to note that CSB's analysis is not a peer-reviewed scientific stu
 
 [Ashton Harris](https://www.ashtonharris.me/), a UX software architect, designed a fascinating data visualization for CSB's report. His data visualization provides users a way to scoll over states and provinces to compare areas at a glance.
 
-I explored the data visualization and noticed that there seems to be a correlation in which states that rank highly on the list also border Canada. Six of the top seven states on the list border Canada: New Hampshire, Idaho, Vermont, Maine, Montana and Wyoming. 
+I explored the data visualization and noticed that there seems to be a correlation in which states that rank highly on the list also border Canada. Six of the top seven states on the list border Canada: New Hampshire, Idaho, Vermont, Maine, Washington and Montana. 
 
 Alaska, at 14th in the list, still outpaces 16th place Nevada, home to the infamous "Area 51". And New Mexico, home to the infamous 1947 Roswell UFO "crash site"? Dead last in 50th place. 
 
