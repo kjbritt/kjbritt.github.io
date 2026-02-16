@@ -19,15 +19,17 @@ Three years ago, Alaska made national headlines for the ["Alaska high-altitude o
 
 While things seem to have quieted down over the last two years, [a recent study by Canada Sports Betting (CSB)](https://www.canadasportsbetting.ca/news/research/alien-abduction-odds-2026/) suggests that Alaskans have a 1 in 77 odds of being abducted by aliens in 2026. In the their January report, <cite>Alien Abduction Odds Index 2026</cite>, CSB ranked each Canadian provence and U.S. state in terms of reported alien abductions. Alaska came in at #14 among the states.
 
-It's important to note that CSB's analysis is not a peer-reviewed scientific study. However, CSB did aggregate historical data to reach these conclusions. 
+It's important to note that CSB's analysis is not a peer-reviewed scientific study. However, CSB did aggregate historical data to reach these conclusions - collecting reports of alien-abduction events in each state and province from 2019-2024. 
+
+"Each state and province is given an <dfn>implied probability</dfn>, an odds-style measure that shows how frequently these reports have appeared in one place compared with others," CSB's [Amy Harris](https://www.canadasportsbetting.ca/authors/aharris/) explained. "The implied probability is not a prediction. It doesn’t mean an abduction is likely to happen. It simply shows how often abduction-style reports have appeared in one region compared with others."
 
 ## A fun tool for data exploration
 
-[Ashton Harris](https://www.ashtonharris.me/), a UX software architect, designed a fascinating data visualization. 
+[Ashton Harris](https://www.ashtonharris.me/), a UX software architect, designed a fascinating data visualization for CSB's report. His data visualization provides users a way to scoll over states and provinces to compare areas at a glance.
 
-I noticed that there seems to be a correlation in which states that rank highly on the list also border Canada. Seven of the top eight states on the list border Canada: New Hampshire, Idaho, Vermont, Maine, Montana and Wyoming. 
+I explored the data visualization and noticed that there seems to be a correlation in which states that rank highly on the list also border Canada. Seven of the top eight states on the list border Canada: New Hampshire, Idaho, Vermont, Maine, Montana and Wyoming. 
 
-Alaska, at 14th in the list, outpaces 16th place Nevada, home to the infamous "Area 51". 
+Alaska, at 14th in the list, still outpaces 16th place Nevada, home to the infamous "Area 51". And New Mexico, home to the infamous 1947 Roswell UFO "crash site"? Dead last in 50th place. 
 
 <iframe
   src="https://aharris-jpg.github.io/aliens/usa.html"
