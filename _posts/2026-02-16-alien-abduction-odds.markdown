@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Alaska 14th in nation for alien abduction, study finds"
+title:  "Alaska 14th in nation for alien abductions, study finds"
 author: "Keenan J. Britt"
 description: "A recent study by Canada Sports Betting suggests that Alaskans have a 1 in 77 odds of being abducted by aliens in 2026."
 image: /docs/assets/images/alaska_abduction_web.jpg
