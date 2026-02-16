@@ -2,7 +2,7 @@
 layout: post
 title:  "Alaska 14th in nation for alien abductions, study finds"
 author: "Keenan J. Britt"
-description: "A recent study by Canada Sports Betting suggests that Alaskans have a 1 in 77 odds of being abducted by aliens in 2026."
+description: "A recent study by Canada Sports Betting suggests that Alaskans have a 1 in 77 chance of being abducted by aliens in 2026."
 image: /docs/assets/images/alaska_abduction_web.jpg
 date:   2026-02-16 01:06:33 +0000
 category: space
@@ -12,12 +12,12 @@ published: true
 {% include breadcrumbs.html %}
 <figure>
   <img src="/docs/assets/images/alaska_abduction_web.jpg" alt="An AI generated depiction of a man being abducted by aliens while on a musk ox farm in Alaska." />
-  <figcaption><i>An hypothetical depiction of an alien abduction in Palmer, Alaska. Generated with Google Gemini.</i></figcaption>
+  <figcaption><i>An hypothetical depiction of an alien abduction in Alaska. Generated with Google Gemini.</i></figcaption>
 </figure>
 
 Three years ago, Alaska made national headlines for the ["Alaska high-altitude object" incident](https://en.wikipedia.org/wiki/2023_Alaska_high-altitude_object). On Feb. 10, 2023, the U.S. Air Force shot down the high-altitutde object over the Arctic Ocean, just off the coast from Deadhorse, Alaska. The downed object evidently disappeared into the Arctic Ocean, and the search for debris ended on Feb. 18. For a time, the media and everyday Alaskans discussed the incident as a potential unidentified flying object (UFO) of potential extraterrestrial origin, though the federal government ruled the object had been a man-made balloon. 
 
-While things seem to have quieted down over the last two years, [a recent study by Canada Sports Betting (CSB)](https://www.canadasportsbetting.ca/news/research/alien-abduction-odds-2026/) suggests that Alaskans have a 1 in 77 odds of being abducted by aliens in 2026. In the their January report, <cite>Alien Abduction Odds Index 2026</cite>, CSB ranked each Canadian provence and U.S. state in terms of reported alien abductions. Alaska came in at #14 among the states.
+While things seem to have quieted down over the last two years, [a recent study by Canada Sports Betting (CSB)](https://www.canadasportsbetting.ca/news/research/alien-abduction-odds-2026/) suggests that Alaskans have a 1 in 77 chance of being abducted by aliens in 2026. In the their January report, <cite>Alien Abduction Odds Index 2026</cite>, CSB ranked each Canadian provence and U.S. state in terms of reported alien abductions. Alaska came in at #14 among the states.
 
 It's important to note that CSB's analysis is not a peer-reviewed scientific study. However, CSB did aggregate historical data to reach these conclusions - collecting reports of alien-abduction events in each state and province from 2019-2024. 
 
