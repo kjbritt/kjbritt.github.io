@@ -2,9 +2,9 @@
 layout: post
 title:  "Alaska 14th in nation for alien abduction, study finds"
 author: "Keenan J. Britt"
-description: "4,500 years ago in the Arctic, Paleo-Inuit people crossed treacherous waters on skin-on-frame boats to access remote islands off the coast of Greenland."
-image: /docs/assets/images/greenland.jpg
-date:   2026-02-14 01:06:33 +0000
+description: "A recent study by Canada Sports Betting suggests that Alaskans have a 1 in 77 odds of being abducted by aliens in 2026."
+image: /docs/assets/images/alaska_abduction_web.jpg
+date:   2026-02-16 01:06:33 +0000
 category: space
 tag: space
 published: true
