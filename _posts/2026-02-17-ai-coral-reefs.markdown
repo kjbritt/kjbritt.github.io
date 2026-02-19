@@ -20,4 +20,6 @@ Can AI save Florida's coral reefs? A team of environmental and data scientists t
 
 [Marybeth Carmela Arcodia](https://people.miami.edu/profile/5fc103221a3deb9dce777c4cfafa9523), Ph.D., an assistant professor at the University of Miami, was the lead author on the paper, joined by co-authors [Richard Karp](https://coralreeffutures.earth.miami.edu/people/lab-alumni/rich-karp/index.html), Ph.D., also with the University of Miami, and [Elizabeth A. Barnes](https://www.bu.edu/cds-faculty/profile/elizabeth-a-barnes/), Ph.D., with Boston University. 
 
-"Onsets of moderate heat stress only occurred 11 summers at SandKey,10 summers at Sombrero Reef, and 6 summers at Molasses Reef in the full 40-year dataset"
+The team used a 40 year data set, spanning 1985 to 2024, available online from NOAA's [Coral Reef Watch](https://coralreefwatch.noaa.gov/) website. 
+
+"Onsets of moderate heat stress only occurred 11 summers at SandKey, 10 summers at Sombrero Reef, and 6 summers at Molasses Reef in the full 40-year dataset"
