@@ -6,7 +6,7 @@ description: "In March, a group of nine students in Kenai Peninsula College’s 
 image: /docs/assets/images/carpenter_site_views.jpg
 date:   2025-07-10 01:06:33 +0000
 category: wildlife
-tag: wildlife
+tags: wildlife marinebio
 ---
 {% include breadcrumbs.html %}
 

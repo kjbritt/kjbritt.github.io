@@ -6,6 +6,7 @@ description: "“We are fortunate to know a lot about sea otter behavior, but th
 image: /docs/assets/images/carpenter_site_views.jpg
 date:   2025-11-24 01:06:33 +0000
 category: wildlife
+tags: wildlife marinebio
 ---
 {% include breadcrumbs.html %}
 
