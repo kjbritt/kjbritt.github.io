@@ -26,4 +26,6 @@ Can AI save Florida's coral reefs? A team of environmental and data scientists t
 
 The study focused on three specific parts of the Florida Reef system: Sand Key, Sombrero Reef and Molasses Reef. The team used a 40 year data set, spanning 1985 to 2024, available online from NOAA's [Coral Reef Watch](https://coralreefwatch.noaa.gov/) website. 
 
-"Onsets of moderate heat stress only occurred 11 summers at SandKey, 10 summers at Sombrero Reef, and 6 summers at Molasses Reef in the full 40-year dataset"
+"Onsets of moderate heat stress only occurred 11 summers at SandKey, 10 summers at Sombrero Reef, and 6 summers at Molasses Reef in the full 40-year dataset".
+
+The code used in the project is publicly available on [Arcodia's GitHub repository](https://github.com/mbarcodia/coral_stress_prediction_xgb/tree/main). 
