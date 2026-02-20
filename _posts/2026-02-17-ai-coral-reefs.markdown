@@ -2,7 +2,7 @@
 layout: post
 title:  "Can AI save Florida's coral reef? These scientists think so"
 author: "Keenan J. Britt"
-description: "These scientists believe AI might be able to help forecast coral bleaching weeks in advance, giving human reef managers time to prepare ."
+description: "These scientists believe AI can help forecast coral bleaching weeks in advance, giving human reef managers time to prepare."
 image: /docs/assets/images/Florida_Reef.jpg
 date:   2026-02-17 01:06:33 +0000
 category: technology
