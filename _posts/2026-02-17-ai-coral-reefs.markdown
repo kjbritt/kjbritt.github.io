@@ -6,7 +6,7 @@ description: "These scientists believe AI might be able to help forecast coral b
 image: /docs/assets/images/Florida_Reef.jpg
 date:   2026-02-17 01:06:33 +0000
 category: technology
-tag: technology
+tags: technology marinebio
 published: true
 ---
 {% include breadcrumbs.html %}
@@ -31,6 +31,6 @@ The team trained their machine learning model on a 40 year data set, spanning 19
 
 After training and testing their model, the team found that the model can predict coral heat stress "up to six weeks in advance, with an average error of about one week," outperforming traditional forecasting models. Having an early warning system for when coral reefs will be in danger could provide a key tool for future conservation efforts. The authors explained in the paper that:
 
->"This tool offers insight for managers with information to focus monitoring and response efforst where and when they are needed most. These early warnings can be used to trigger emergency actions, such as increasing monitoring or deploying intervention and supporting more proactive and locally tailored reef conservation."
+>"This tool offers insight for managers with information to focus monitoring and response efforts where and when they are needed most. These early warnings can be used to trigger emergency actions, such as increasing monitoring or deploying intervention and supporting more proactive and locally tailored reef conservation."
 
 The code used in the project is publicly available on [Arcodia's GitHub repository](https://github.com/mbarcodia/coral_stress_prediction_xgb/tree/main). 
