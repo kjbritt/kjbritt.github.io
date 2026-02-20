@@ -5,8 +5,8 @@ permalink: marinebio/
 tag: marinebio
 ---
 <figure>
-  <img src="/docs/assets/images/oregon_spacex.jpg" alt="SpaceX Falcon 9 rocket burning up over Hillsboro, Oregon." />
-  <figcaption><em>SpaceX Falcon 9 rocket burning up over Hillsboro, Oregon. March 2021.</em></figcaption>
+  <img src="/docs/assets/images/jellyfish_web.jpg" alt="A Portuguese man o' war" />
+  <figcaption><em>A Portuguese man o' war, Fort Lauderdale, Florida, November 2022.</em></figcaption>
 </figure>
 
 Welcome to my new marine biology blog!
