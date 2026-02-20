@@ -2,7 +2,7 @@
 layout: post
 title:  "Can AI save Florida's coral reef? These scientists think so"
 author: "Keenan J. Britt"
-description: "A recent study by Canada Sports Betting suggests that Alaskans have a 1 in 77 chance of being abducted by aliens in 2026."
+description: "These scientists believe AI might be able to help forecast coral bleaching weeks in advance, giving human reef managers time to prepare ."
 image: /docs/assets/images/Florida_Reef.jpg
 date:   2026-02-17 01:06:33 +0000
 category: technology
