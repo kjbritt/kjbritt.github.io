@@ -6,7 +6,7 @@ description: "Hannah Bogdan, a second-year student at Prince William Sound Colle
 image: /docs/assets/images/carpenter_site_views.jpg
 date:   2024-03-27 01:06:33 +0000
 category: wildlife
-tag: wildlife
+tags: wildlife marinebio
 ---
 {% include breadcrumbs.html %}
 
