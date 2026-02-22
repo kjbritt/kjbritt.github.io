@@ -16,7 +16,10 @@ Bondeham was the lead author on a scientific paper pubished in _The Anatomical R
 
 Bondeham stated in a LinkedIn post that he named the species _jonesi_ after his former school teacher David Rhys Jones, "in recognition of the inspiration he gave me and many other pupils [...] to pursue our passion for science."
 
+<figure>
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7428063410669477888?collapsed=1" height="556" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<figcaption>A social media post depicting Galahadosuchus</figcaption>
+</figure>
 
 The genus name, _Galahadosuchus_ refers to Sir Galahad, "a knight renowned for his moral uprightness," Bondeham explained in _The Anatomical Record_. Bondeham believes _Galahadosuchus_ walked upright, and the name forms a _double entendre_ as it also "alludes to the upright posture of the taxon". In Arthurian lore, Galahad in famous for finding the Holy Grail in tales like the anonymous _Queste del Saint Graal_ and Sir Thomas Malory's _Le Morte d'Arthur_. Ironically, while many Arthurian heroes like Arthur, Guinevere and Gawan have origins in Welsh folklore, the character of Galahad is likely a creation of medieval French writers.
 
