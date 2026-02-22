@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Paleontology
-permalink: /paleontology/
+permalink: paleontology/
+tag: paleontology
 image: /docs/assets/images/allosaurus.jpg
 ---
 <figure>
