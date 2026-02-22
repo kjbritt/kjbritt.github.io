@@ -6,6 +6,7 @@ description: "A new discovery is extending the known range of one sauropod speci
 image: /docs/assets/images/Barosaurus-sketch.jpg
 date:   2026-01-29 01:06:33 +0000
 category: paleontology
+tags: paleontology jurassic
 published: true
 ---
 

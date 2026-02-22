@@ -6,6 +6,7 @@ description: "A pair of fossilized forelimbs discovered back in 1950 have turned
 image: /docs/assets/images/Stego_size.png
 date:   2026-02-01 01:06:33 +0000
 category: paleontology
+tags: paleontology jurassic
 published: true
 ---
 {% include breadcrumbs.html %}
