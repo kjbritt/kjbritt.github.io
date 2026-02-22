@@ -6,6 +6,7 @@ description: "Are you using AI to automate your SEO efforts? Beware these three 
 image: https://upload.wikimedia.org/wikipedia/commons/a/a3/404_Not_Found.jpg
 date:   2026-01-17 08:06:33 +0000
 category: seo
+tag: seo
 published: true
 ---
 {% include breadcrumbs.html %}

@@ -6,6 +6,7 @@ description: "Writing quality meta descriptions for your web pages is a key feat
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Programming_code.jpg/960px-Programming_code.jpg
 date:   2026-01-04 01:06:33 +0000
 category: seo
+tag: seo
 published: true
 ---
 {% include breadcrumbs.html %}
