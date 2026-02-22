@@ -44,5 +44,8 @@ This site is built in [Jekyll](https://jekyllrb.com/), a static-site generator w
 
     </div>
 </div>
-
+<aside>
+<h2>A note on accessibility</h2>
+<p>The image links for the blog categories above were developed following guidance from the W3C Web Accessibility Initiative <a href="https://www.w3.org/WAI/tutorials/images/functional/">Function Images tutorial</a>. If you have accessibility issues on this website, please <a href="/contact/">contact me</a>.</p>
+</aside>
 
