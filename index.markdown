@@ -44,7 +44,7 @@ This site is built in [Jekyll](https://jekyllrb.com/), a static-site generator w
         </div>
 
         <div style="flex: 1; min-width: 250px; max-width: 300px; text-align: center; border: 1px solid #eee; border-radius: 12px; padding: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-            <a href="/wildlife"><img src="/docs/assets/images/eider_web.jpg" alt="a female adult musk ox named Eider" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 8px; margin-bottom: 15px;"></a>
+            <a href="/wildlife"><img src="/docs/assets/images/Wildlife_meta.jpg" alt="a female adult musk ox named Eider" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 8px; margin-bottom: 15px;"></a>
             <a href="/wildlife" style="display: block; background-color: #7f7053; color: white; padding: 12px 20px; text-decoration: none; border-radius: 25px; font-weight: bold;">Wildlife</a>
         </div>
 
