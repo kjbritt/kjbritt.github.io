@@ -14,7 +14,7 @@ Welcome to my new SEO blog!
 ## Recent posts
 
 <ul class="post-list">
-  {% assign stories = site.data.seo | slice: 0, 5 %}
+  {% assign stories = site.tags[page.tag] | slice: 0, 5 %}
   {% for story in stories %}
     <li style="margin-bottom: 20px;">
       <span class="post-meta">{{ story.date | date: "%B %e, %Y" }}</span>
