@@ -1,7 +1,8 @@
 ---
 layout: page
 title: SEO
-permalink: /seo/
+permalink: seo/
+tag: seo
 ---
 <figure>
   <img src="/docs/assets/images/vegas_strip.jpg" alt="A view of the Las Vegas strip at night with the Bellagio fountains" />
