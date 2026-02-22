@@ -29,7 +29,7 @@ This site is built in [Jekyll](https://jekyllrb.com/), a static-site generator w
         </div>
 
         <div style="flex: 1; min-width: 250px; max-width: 300px; text-align: center; border: 1px solid #eee; border-radius: 12px; padding: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-            <a href="/seo"><img src="/docs/assets/images/vegas_strip.jpg" alt="The Las Vegas strip at night, featuring the Bellagio Fountains" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 8px; margin-bottom: 15px;"></a>
+            <a href="/seo"><img src="/docs/assets/images/SEO_meta.jpg" alt="The Las Vegas strip at night, featuring the Bellagio Fountains" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 8px; margin-bottom: 15px;"></a>
             <a href="/seo" style="display: block; background-color: #6F42C1; color: white; padding: 12px 20px; text-decoration: none; border-radius: 25px; font-weight: bold;">SEO</a>
         </div>
 
