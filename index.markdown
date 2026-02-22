@@ -6,8 +6,6 @@ layout: page
 list_title: "Latest posts"
 image: /docs/assets/images/petra_pfp.jpg
 ---
-## Home
-
 Welcome! This is an active science/technology news blog as well as my personal portfolio site. I'm an Alaska-based science journalist, web developer and destination marketing professional. 
 
 This site is built in [Jekyll](https://jekyllrb.com/), a static-site generator written in the Ruby programming language. 
@@ -26,7 +24,7 @@ This site is built in [Jekyll](https://jekyllrb.com/), a static-site generator w
         </div>
 
         <div style="flex: 1; min-width: 250px; max-width: 300px; text-align: center; border: 1px solid #eee; border-radius: 12px; padding: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-            <a href="/paleontology"><img src="/docs/assets/images/allosaurus.jpg" alt="An Allosaurus skeleton model at a dinosaur museum" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 8px; margin-bottom: 15px;"></a>
+            <a href="/paleontology"><img src="/docs/assets/images/Paleontology_meta.jpg" alt="An Allosaurus skeleton model at a dinosaur museum" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 8px; margin-bottom: 15px;"></a>
             <a href="/paleontology" style="display: block; background-color: #73A16C; color: white; padding: 12px 20px; text-decoration: none; border-radius: 25px; font-weight: bold;">Paleontology</a>
         </div>
 
