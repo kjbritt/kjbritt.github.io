@@ -28,7 +28,7 @@ The genus name, _Galahadosuchus_ refers to Sir Galahad, "a knight renowned for h
 
 <figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zg0r_W18RaU?si=a6QmXc7OuUN6ydZX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<figcaption><i>An illustration of the fossilized vertebrae and hindlimbs of Galahadosuchus</i></figcaption>
+<figcaption><i>An video depiction of Terrestrisuchus, a close relative of Galahadosuchus.</i></figcaption>
 </figure>
 
 The Triassic Period (252-201 million years ago) was very different time. While often considered part of the Mesozoic "Age of Dinosaurs", most of the iconic dinosaur groups that characterized the later Jurassic and Cretaceous periods had yet to evolve. While some dinosaurs roamed the late Triassic, the era also saw the rise of many weird and wonderful crocodile-like species that are relatives - but not direct ancestors - to the crocodiles and alligators of today. 
