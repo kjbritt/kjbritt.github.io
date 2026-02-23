@@ -32,7 +32,9 @@ The genus name, _Galahadosuchus_ refers to Sir Galahad, "a knight renowned for h
 
 The Triassic Period (252-201 million years ago) was very different time. While often considered part of the Mesozoic "Age of Dinosaurs", most of the iconic dinosaur groups that characterized the later Jurassic and Cretaceous periods had yet to evolve. While some dinosaurs roamed the late Triassic, the era also saw the rise of many weird and wonderful crocodile-like species that are relatives - but not direct ancestors - to the crocodiles and alligators of today. 
 
-Bondeham's description of _Galahadosuchus_ is based off of two fossil slabs found in the Cromhall Quarry in southwestern England. The [first fossil slab](https://en.wikipedia.org/wiki/Galahadosuchus#/media/File:Galahadosuchus_holotype_hindlimbs.jpg) contained the remains of the creature's backbone and hindlimbs. The [second fossil slab](https://en.wikipedia.org/wiki/Galahadosuchus#/media/File:Galahadosuchus_forelimb.jpg) contained a forelimb. In order to define _Galahadosuchus_ as a <em>new</em> species, Bondeham had to make the case that the fossil was not the member of a previously known species of Triassic crocodile-relative.
+Bondeham's description of _Galahadosuchus_ is based off of two fossil slabs found in the Cromhall Quarry in southwestern England. The [first fossil slab](https://en.wikipedia.org/wiki/Galahadosuchus#/media/File:Galahadosuchus_holotype_hindlimbs.jpg) contained the remains of the creature's backbone and hindlimbs. The [second fossil slab](https://en.wikipedia.org/wiki/Galahadosuchus#/media/File:Galahadosuchus_forelimb.jpg) contained a forelimb. In order to define _Galahadosuchus_ as a <em>new</em> species, Bondeham had to make the case that the fossil was not the member of a previously known species of Triassic crocodile-relative. 
+
+In many ways, the fossil remains of _Galahadosuchus_ are quite similar to those of <i><a href="https://en.wikipedia.org/wiki/Terrestrisuchus">Terrestrisuchus</a></i>, another crocodylomorph from the Late Triassic of England and Wales. 
 
 
 
