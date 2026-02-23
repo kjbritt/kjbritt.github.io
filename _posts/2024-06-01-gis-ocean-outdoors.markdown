@@ -6,7 +6,7 @@ description: "For Prince William Sound College (PWSC) outdoor leadership graduat
 image: /docs/assets/images/carpenter_site_views.jpg
 date:   2024-06-01 01:06:33 +0000
 category: technology
-tag: technology
+tags: technology oceans
 ---
 {% include breadcrumbs.html %}
 

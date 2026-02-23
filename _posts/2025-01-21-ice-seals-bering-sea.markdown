@@ -6,7 +6,7 @@ description: "Graduate student Kyle Kolda departed Dutch Harbor with the NOAA Fi
 image: /docs/assets/images/carpenter_site_views.jpg
 date:   2025-01-21 01:06:33 +0000
 category: wildlife
-tags: wildlife marinebio
+tags: wildlife oceans
 ---
 {% include breadcrumbs.html %}
 

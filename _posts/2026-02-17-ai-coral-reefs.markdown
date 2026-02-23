@@ -6,7 +6,7 @@ description: "These scientists believe AI can help forecast coral bleaching week
 image: /docs/assets/images/Florida_Reef.jpg
 date:   2026-02-17 01:06:33 +0000
 category: technology
-tags: technology marinebio
+tags: technology oceans
 published: true
 ---
 {% include breadcrumbs.html %}
