@@ -23,7 +23,7 @@ This site is built in [Jekyll](https://jekyllrb.com/), a static-site generator w
         </div>
 
         <div style="flex: 1; min-width: 250px; max-width: 300px; text-align: center; border: 1px solid #eee; border-radius: 12px; padding: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-            <a href="/paleontology"><img src="/docs/assets/images/Oceans_meta.jpg" alt="visit Oceans news" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 8px;"></a>
+            <a href="/oceans"><img src="/docs/assets/images/Oceans_meta.jpg" alt="visit Oceans news" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 8px;"></a>
         </div>
 
         <div style="flex: 1; min-width: 250px; max-width: 300px; text-align: center; border: 1px solid #eee; border-radius: 12px; padding: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
