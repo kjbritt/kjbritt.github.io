@@ -6,7 +6,7 @@ description: "Six first- and second-year students in Prince William Sound Colleg
 image: /docs/assets/images/carpenter_site_views.jpg
 date:   2024-06-17 01:06:33 +0000
 category: travel
-tags: travel oceans
+tag: travel
 ---
 {% include breadcrumbs.html %}
 
