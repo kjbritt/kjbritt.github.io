@@ -2,7 +2,7 @@
 layout: post
 title:  "Triassic cat-sized crocodile named after hero from Arthurian legend"
 author: "Keenan J. Britt"
-description: "Mosasaurs, long imagined as terrifying ocean predators, may have also hunted in freshwater rivers, according to a recent study."
+description: "Ewan Bondeham named the new, cat-sized croc Galahadosuchus jonesi after his former teacher and a mythic hero from Arthurian legend.."
 image: /docs/assets/images/Paleontology_meta.jpg
 date:   2026-02-22 01:06:33 +0000
 category: paleontology
