@@ -3,7 +3,7 @@ layout: post
 title:  "Automate your SEO efforts by scraping meta descriptions"
 author: "Keenan J. Britt"
 description: "Writing quality meta descriptions for your web pages is a key feature of search engine optimization."
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Programming_code.jpg/960px-Programming_code.jpg
+image: /docs/assets/images/Paleontology_meta.jpg
 date:   2026-01-04 01:06:33 +0000
 category: seo
 tag: seo
@@ -46,7 +46,3 @@ You will need to have Python installed on your machine for the program to work. 
 The script will prompt you to enter the name of a TXT file containing all the URLs from your website. Make sure the file you intend to use is saved in the same folder as the Python script. You can easily extract a list of all web page URLs contained in your website's sitemap using the [SEOwl Sitemap Extractor](https://www.seowl.co/sitemap-extractor/). 
 
 After iterating through each of the URLs in the TXT file, the script will produce a report titled meta_descriptions.csv for you to review. 
-
-
-
-_The meta image used on this webpage is courtesy of Martin Vorel, under a Creative Commons ASA 4.0 license, [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Programming_code.jpg)._
