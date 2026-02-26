@@ -34,7 +34,7 @@ Welcome to my new technology blog!
     user-select: none;
     transition: background 0.3s ease;">Display older news</summary>
 <ul class="post-list">
-  {% assign stories = site.data.technology | slice: 5, 10 %}
+  {% assign stories = site.tags[page.tag] | slice: 5, 10 %}
   {% for story in stories %}
     <li style="margin-bottom: 20px;">
       <span class="post-meta">{{ story.date | date: "%B %e, %Y" }}</span>
