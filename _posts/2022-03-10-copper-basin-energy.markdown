@@ -6,6 +6,7 @@ description: "At a time when high energy costs are a factor for many in Valdez a
 image: /docs/assets/images/carpenter_site_views.jpg
 date:   2022-03-10 01:06:33 +0000
 category: technology
+tag: technology
 ---
 {% include breadcrumbs.html %}
 

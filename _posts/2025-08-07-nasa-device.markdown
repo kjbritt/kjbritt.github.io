@@ -6,6 +6,7 @@ description: "On June 26, a team of UAA students and faculty watched as a Terrie
 image: /docs/assets/images/carpenter_site_views.jpg
 date:   2025-08-07 01:06:33 +0000
 category: technology
+tags: technology space
 ---
 {% include breadcrumbs.html %}
 

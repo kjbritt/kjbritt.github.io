@@ -6,6 +6,7 @@ description: "A new graduate program will be available at the UAA College of Eng
 image: /docs/assets/images/carpenter_site_views.jpg
 date:   2025-06-11 01:06:33 +0000
 category: technology
+tag: technology
 ---
 {% include breadcrumbs.html %}
 

@@ -6,6 +6,7 @@ description: "Hoyt Thomas aims to locate uncapped and improperly sealed oil and 
 image: /docs/assets/images/carpenter_site_views.jpg
 date:   2025-08-12 01:06:33 +0000
 category: technology
+tag: technology
 ---
 {% include breadcrumbs.html %}
 
