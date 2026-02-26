@@ -6,6 +6,7 @@ description: "UAA Disability Support Services (DSS) recently announced the intro
 image: /docs/assets/images/Technology_meta.jpg
 date:   2026-02-23 01:06:33 +0000
 category: technology
+tag: technology
 ---
 
 UAA Disability Support Services (DSS) recently announced the introduction of 'talking signage' along a section of UAA’s Anchorage campus, allowing users to access audio directions with their smartphone.
