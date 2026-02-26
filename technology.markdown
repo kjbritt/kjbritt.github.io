@@ -3,6 +3,7 @@ layout: page
 title: Technology
 permalink: technology/
 image: /docs/assets/images/Technology_meta.jpg
+tag: technology
 ---
 <figure>
   <img src="/docs/assets/images/radio.jpg" alt="A portable AM/FM radio on the balcony of a cruise ship cabin" />
