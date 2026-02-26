@@ -6,6 +6,7 @@ description: "Rare-earth elements are vital for modern electronics, but mining t
 image: /docs/assets/images/Technology_meta.jpg
 date:   2026-01-22 01:06:33 +0000
 category: technology
+tag: technology
 ---
 
 Rare-earth elements are vital for modern electronics, but mining them can be expensive and pose environmental concerns. D'Lynn Gleason's research shows that microbes from Alaska's glaciers can be used to extract rare-earth elements from ore without these drawbacks.
