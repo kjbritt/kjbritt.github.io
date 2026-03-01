@@ -6,7 +6,6 @@ description: "Is pollution from space debris endangering our atmosphere?"
 image: /docs/assets/images/oregon_spacex.jpg
 date:   2026-02-28 01:06:33 +0000
 category: space
-tag: space
 published: true
 ---
 {% include breadcrumbs.html %}
@@ -17,3 +16,8 @@ published: true
 </figure>
 
 Is pollution from space debris endangering our atmosphere?
+
+"Lithium was selected as the initial target metal for detecting space
+debris signatures due to its ultra-trace abundance in chondritic meteoroids4
+and its well-documented applications in spacecraft, including lithium-ion
+batteries and lithium-aluminium (Li-Al) alloy hull plating"
