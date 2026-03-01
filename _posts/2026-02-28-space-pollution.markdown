@@ -32,3 +32,8 @@ The reported detection was a "10-fold enhancement of lithium atoms" at an elevat
 The team chose to focus on measuing lithium (as opposed to other elements) due to lithium being relatively rare in most condritic meteoroids but being commonly used in spacecraft for "lithium-ion batteries and lithium-aluminium alloy hull plating."
 
 The scientists believe their study shows it's possible to trace pollution from space debris to a specific source (in this case, the SpaceX rocket), which has "significant implications for monitoring and mitigating space emissions in the atmosphere". The authors also have concerns about the impact on the atmosphere from other elements like aluminum. The believe that further monitoring will be "essential for assessing the long-term consequences of space debris pollution on the Earth’s atmosphere."
+
+## Related news
+
+- [Can AI save Florida's coral reef? These scientists think so](https://kjbritt.github.io/technology/2026/02/17/ai-coral-reefs.html)
+- [Alaska 14th in nation for alien abductions, study finds](https://kjbritt.github.io/space/2026/02/16/alien-abduction-odds.html)
