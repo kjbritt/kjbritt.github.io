@@ -6,7 +6,7 @@ tag: space
 ---
 <figure>
   <img src="/docs/assets/images/oregon_spacex.jpg" alt="SpaceX Falcon 9 rocket burning up over Hillsboro, Oregon." />
-  <figcaption><em>SpaceX Falcon 9 rocket burning up over Hillsboro, Oregon. March 2021.</em></figcaption>
+  <figcaption><i>SpaceX Falcon 9 rocket burning up over Hillsboro, Oregon. March 2021.</i></figcaption>
 </figure>
 
 Welcome to my new space blog!
