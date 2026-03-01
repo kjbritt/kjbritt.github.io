@@ -3,6 +3,7 @@ layout: page
 title: Space
 permalink: space/
 tag: space
+image: /docs/assets/images/Space_meta.jpg
 ---
 <figure>
   <img src="/docs/assets/images/oregon_spacex.jpg" alt="SpaceX Falcon 9 rocket burning up over Hillsboro, Oregon." />
