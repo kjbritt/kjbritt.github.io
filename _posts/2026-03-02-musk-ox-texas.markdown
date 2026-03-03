@@ -22,7 +22,7 @@ Texas is a state famous for fossil-finds, like the dinosaur footprints at [Dinos
 
 Back in March 2020, two scientists, Dale Winkler, Ph.D., from Southern Methodist University and Alisa Winkler, Ph.D., from the University of Texas Southwestern, reported on two amazing fossil finds from Texas in a publication titled <cite><a href="https://rivp-paludicola.org/wp-content/uploads/2022/05/12-4-winkler-winkler-2020.pdf">New records of Late Pleistocene ungulates (Bootherium and Tapirus) from North Central Texas</a></cite>. 
 
-Generally, Pleistocene mammal fossils found in Texas come from mammoths, mastodons and extinct species of bison and horse. The discovery of fossils of _Bootherium bombifrons_ (the extinct "woodland musk ox") and _Tapirus veroensis_ (an extinct species of tapir) show that an exciting diversity of mammalian wildlife existed during the end of the Ice Age. 
+Generally, Pleistocene mammal fossils found in Texas come from mammoths, mastodons and extinct species of bison and horse. The discovery of fossils of _Bootherium bombifrons_ (the extinct "woodland musk ox", a relative of modern _Ovibos_ musk oxen) and _Tapirus veroensis_ (an extinct species of tapir) show that an exciting diversity of mammalian wildlife existed during the end of the Ice Age. 
 
 The Winklers identified the tapir on the basis of a partial left manidble (lower jaw) with teeth that was found in Denton County, Texas (Denton is better known as the home of pop-punk band _Bowling for Soup_). Modern tapirs are found in Central and South America and parts of Asia. 
 
