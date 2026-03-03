@@ -6,6 +6,7 @@ description: "Is pollution from space debris endangering our atmosphere?"
 image: /docs/assets/images/Paleontology_meta.jpg
 date:   2026-03-02 01:06:33 +0000
 category: paleontology
+tag: paleontology texas
 published: true
 ---
 {% include breadcrumbs.html %}
@@ -25,7 +26,19 @@ Generally, Pleistocene mammal fossils found in Texas come from mammoths, mastodo
 
 The Winklers identified the tapir on the basis of a partial left manidble (lower jaw) with teeth that was found in Denton County, Texas (Denton is better known as the home of pop-punk band _Bowling for Soup_). Modern tapirs are found in Central and South America and parts of Asia. 
 
-The _Bootherium_ fossil consists of a mostly complete cranium (skull minus the jaw), including the bony horn cores and maxillary (upper) teeth. The _Bootherium_ skull was found in Lamar County. 
+The _Bootherium_ fossil consists of a mostly complete cranium (skull minus the jaw), including the bony horn cores and maxillary (upper) teeth. The _Bootherium_ skull was found in Lamar County. Detailed photographs of the fossil cranium are [available in the Winklers' publication](https://rivp-paludicola.org/wp-content/uploads/2022/05/12-4-winkler-winkler-2020.pdf). 
+
+The Winklers' dated the fossil to the "Latest Pleistocene" based on other known animal fossils from the same geologic formation, though the Late Pleistocene encompasses a vast period of time from 129,000 to 11,700 years ago. The Winklers estimate their _Bootherium_ fossil to be from "21,000 – 24,000 years BP[before present] or possibly as much as 75,000 years BP." 
+
+Three other _Bootherium_ crania were found in Texas prior to the Winklers' fossil. The rarity of Texan musk ox fossils makes this find all the more important. The Winklers' note that:
+
+>"Although the remains of Bootherium are not uncommon from some parts of North America, for example the midwestern United States, specimens from the south, including Texas, are rare."
+
+Elsewhere in North America, _Bootherium_ is believed to have survived until about 11,000 years ago, corresponding with the enivonmental changes that marked the final end of the Ice Age and the beginning of the Holocene Epoch.
+
+The presence of _Bootherium_ fossils from North Central Texas also opens questions about human-musk ox interaction. Texas has a number of archaeological sites dating back to the late Pleistocene, including the [Aubry Clovis Site](https://neolithicarchitecture.com/aubrey-clovis-site/) in Denton County (dating back 11,500 years ago) and the [Gault Site](https://en.wikipedia.org/wiki/Gault_(archaeological_site) (possibly older than 13,000 years). 
+
+Did Clovis (or pre-Clovis) humans in Texas encounter _Bootherium_? 
 
 
 ## Related news
