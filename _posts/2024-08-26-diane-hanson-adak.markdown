@@ -6,6 +6,7 @@ description: "For Diane Hanson, Ph.D., professor emerita of anthropology, retire
 image: /docs/assets/images/carpenter_site_views.jpg
 date:   2024-08-26 01:06:33 +0000
 category: archaeology
+tag: archaeology
 ---
 {% include breadcrumbs.html %}
 

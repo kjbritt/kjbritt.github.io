@@ -6,6 +6,7 @@ description: "This summer, a group of UAA students participated in an archaeolog
 image: /docs/assets/images/carpenter_site_views.jpg
 date:   2025-07-25 01:06:33 +0000
 category: archaeology
+tag: archaeology
 ---
 {% include breadcrumbs.html %}
 

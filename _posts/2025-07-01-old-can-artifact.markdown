@@ -6,6 +6,7 @@ description: "Archaeology may conjure images of fantastic treasures, but most ar
 image: /docs/assets/images/carpenter_site_views.jpg
 date:   2025-07-01 01:06:33 +0000
 category: archaeology
+tag: archaeology
 ---
 {% include breadcrumbs.html %}
 
