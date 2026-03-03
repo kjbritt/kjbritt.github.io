@@ -25,7 +25,7 @@ Generally, Pleistocene mammal fossils found in Texas come from mammoths, mastodo
 
 The Winklers identified the tapir on the basis of a partial left manidble (lower jaw) with teeth that was found in Denton County, Texas (Denton is better known as the home of pop-punk band _Bowling for Soup_). Modern tapirs are found in Central and South America and parts of Asia. 
 
-
+The _Bootherium_ fossil consists of a mostly complete cranium (skull minus the jaw), including the bony horn cores and maxillary (upper) teeth. The _Bootherium_ skull was found in Lamar County. 
 
 
 ## Related news
