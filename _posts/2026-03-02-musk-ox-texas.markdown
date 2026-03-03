@@ -2,7 +2,7 @@
 layout: post
 title:  "When musk oxen roamed Texas"
 author: "Keenan J. Britt"
-description: "Is pollution from space debris endangering our atmosphere?"
+description: "Today, musk oxen are Arctic animals. But fossil evidence shows that during the Last Ice Age, they roamed across Texas"
 image: /docs/assets/images/Paleontology_meta.jpg
 date:   2026-03-02 01:06:33 +0000
 category: paleontology
