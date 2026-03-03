@@ -6,6 +6,7 @@ description: "A fossil foot bone found in Montana is providing new evidence of c
 image: /docs/assets/images/Tyrannosaurus_TD.png
 date:   2026-02-05 01:06:33 +0000
 category: paleontology
+tag: paleontology
 published: true
 ---
 

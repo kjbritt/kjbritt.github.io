@@ -6,6 +6,7 @@ description: "An Oklahoma state representative is proposing a change in the stat
 image: /docs/assets/images/Sauroposeidon_TD.png
 date:   2026-02-03 01:06:33 +0000
 category: paleontology
+tag: paleontology
 published: true
 ---
 <figure>
