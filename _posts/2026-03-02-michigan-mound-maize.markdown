@@ -4,7 +4,7 @@ title:  "Late Pre-Contact burial mounds in Michigan located near lakes with long
 author: "Keenan J. Britt"
 description: "Today, musk oxen are Arctic animals. But fossil evidence shows that during the Last Ice Age, they roamed across Texas"
 image: /docs/assets/images/lake_huron_web.jpg
-date:   2026-03-04 01:06:33 +0000
+date:   2026-03-02 01:06:33 +0000
 category: archaeology
 published: true
 ---
