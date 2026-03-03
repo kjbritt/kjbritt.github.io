@@ -6,7 +6,7 @@ description: "Is pollution from space debris endangering our atmosphere?"
 image: /docs/assets/images/Paleontology_meta.jpg
 date:   2026-03-02 01:06:33 +0000
 category: paleontology
-tag: paleontology texas
+tags: paleontology texas
 published: true
 ---
 {% include breadcrumbs.html %}
