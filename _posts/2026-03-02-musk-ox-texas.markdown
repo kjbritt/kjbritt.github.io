@@ -36,7 +36,7 @@ Three other _Bootherium_ crania were found in Texas prior to the Winklers' fossi
 
 Elsewhere in North America, _Bootherium_ is believed to have survived until about 11,000 years ago, corresponding with the enivonmental changes that marked the final end of the Ice Age and the beginning of the Holocene Epoch.
 
-The presence of _Bootherium_ fossils from North Central Texas also opens questions about human-musk ox interaction. Texas has a number of archaeological sites dating back to the late Pleistocene, including the [Aubry Clovis Site](https://neolithicarchitecture.com/aubrey-clovis-site/) in Denton County (dating back 11,500 years ago) and the [Gault Site](https://en.wikipedia.org/wiki/Gault_(archaeological_site) (possibly older than 13,000 years). 
+The presence of _Bootherium_ fossils from North Central Texas also opens questions about human-musk ox interaction. Texas has a number of archaeological sites dating back to the late Pleistocene, including the [Aubry Clovis Site](https://neolithicarchitecture.com/aubrey-clovis-site/) in Denton County - dating back 11,500 years ago - and the [Gault Site](https://en.wikipedia.org/wiki/Gault_(archaeological_site)) - possibly older than 13,000 years. 
 
 Did Clovis (or pre-Clovis) humans in Texas encounter _Bootherium_? 
 
