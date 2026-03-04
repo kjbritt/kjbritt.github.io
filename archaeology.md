@@ -12,21 +12,9 @@ tag: archaeology
 
 I hold a bachelor's degree in anthropology from the University of Michigan. While I was trained in four-field anthropology, my area of focus was in archaeology. I have participated in archaeological digs in Belize, Jordan and Alaska. 
 
-## Latest posts
+## Recent news
 
-<ul class="post-list">
-  {% assign stories = site.tags[page.tag] | slice: 0, 5 %}
-  {% for story in stories %}
-    <li style="margin-bottom: 20px;">
-      <span class="post-meta">{{ story.date | date: "%B %e, %Y" }}</span>
-      <h3>
-        <a class="post-link" href="{{ story.url }}">
-          {{ story.title }}
-        </a>
-      </h3>
-    </li>
-  {% endfor %}
-</ul>
+{% include recentposts.html %}
 
 ## Older news
 

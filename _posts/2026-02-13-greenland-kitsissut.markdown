@@ -6,7 +6,7 @@ description: "4,500 years ago in the Arctic, Paleo-Inuit people crossed treacher
 image: /docs/assets/images/greenland.jpg
 date:   2026-02-13 01:06:33 +0000
 category: archaeology
-tag: archaeology
+tags: archaeology oceans
 published: true
 ---
 {% include breadcrumbs.html %}
