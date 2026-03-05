@@ -19,7 +19,7 @@ published: true
 
 Maize was originally domesticated in Mexico, and the plant's ability to succeed in northern states like Michigan is a true marvel of agricultural engineering by the generations of Indigenous Mesoamericans and Native Americans who cultivated the crop long before Europeans arrived on the continent.
 
-A recent study by [Meghan Howey](https://cola.unh.edu/person/meghan-howey), Ph.D. and [Michael Palace](https://ceps.unh.edu/person/michael-palace), Ph.D., both of the University of New Hampshire, indicates that a long growing season was something Michiganders looked for as far back as 800 years ago. 
+A recent study by [Meghan Howey](https://cola.unh.edu/person/meghan-howey), Ph.D. and [Michael Palace](https://ceps.unh.edu/person/michael-palace), Ph.D., both of the University of New Hampshire, indicates that a long growing season was something Michiganders looked for as far back as 800 years ago. The paper, published in PNAS in December, is titled <cite><a href="https://www.pnas.org/doi/10.1073/pnas.2528379123">Satellite thermal data applied to landscape archaeology: Mounds in Michigan (1200–1600 CE)</a></cite>.
 
 ## Who lived in Michigan at the time?
 
