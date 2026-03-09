@@ -26,3 +26,5 @@ A recent study by [Meghan Howey](https://cola.unh.edu/person/meghan-howey), Ph.D
 Early According to the [Milwaukee Public Museum](https://www.mpm.edu/educators/wirp/history), the Indigenous peoples of the Lower Peninsula around 1600 included the Potawatomi, Sauk, Mascouten, Fox, Miami and Kickapoo.
 
 Native Americans living in Michigan between 1200 and 1600 made a living by "targeted fishing of seasonal spawns, intensified use of storable wild plant foodstuffs such as acorns, berries, maple syrup, and wild rice, and some level of expansion of maize cultivation," Howey and Palace explained. 
+
+The practice of constructing burial mounds had a deep history in the region by the time of the Late Contact Period. Indigenous mound building cultures existed for millennia in the American Midwest and South. Mound building in southern Ohio stretches back at least to 500 BC with the Adena culture, tipified by sites like the 65-foot-tall [Miamisburg Mound](https://en.wikipedia.org/wiki/Miamisburg_Mound) just outside of Dayton, Ohio. 
