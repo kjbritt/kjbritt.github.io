@@ -5,6 +5,7 @@ author: "Keenan J. Britt"
 description: "Triassic bipedal croc discovered in Petrified Forest National Park"
 image: /docs/assets/images/SEO_meta.jpg
 date:   2026-03-11 01:06:33 +0000
+category: seo
 published: true
 ---
 {% include breadcrumbs.html %}
