@@ -22,9 +22,9 @@ Corn infamously requires a longer growing season which can pose a challenge for 
 
 A recent study by [Meghan Howey](https://cola.unh.edu/person/meghan-howey), Ph.D. and [Michael Palace](https://ceps.unh.edu/person/michael-palace), Ph.D., both of the University of New Hampshire, indicates that a long growing season was something Michiganders looked for as far back as 800 years ago. The paper, published in PNAS in December, is titled <cite><a href="https://www.pnas.org/doi/10.1073/pnas.2528379123">Satellite thermal data applied to landscape archaeology: Mounds in Michigan (1200–1600 CE)</a></cite>.
 
-Howey and Palace used data from Landsat 8 Thermal Infrared Sensor available in [Google Earth Engine](https://earthengine.google.com/) to analyze temperatures at thousands of inland lakes in Michigan's Lower Peninsula. They then compared taht data to a "legacy mound database" that records known archaeological burial mounds from the Late Precontact Period (1200-1600). Unlike the Landsat data, the mound database is _not_ available to the public to prevent looting. 
+Howey and Palace used data from Landsat 8 Thermal Infrared Sensor available in [Google Earth Engine](https://earthengine.google.com/) to analyze temperatures at thousands of inland lakes in Michigan's Lower Peninsula. They then compared that data to a "legacy mound database" that records known archaeological burial mounds from the Late Precontact Period (1200-1600). Unlike the Landsat data, the mound database is _not_ available to the public to prevent looting. 
 
-Howey and Palace found an interesting correlation in which lakes mounds located near them were more likely to have longer growing seasons for maize:
+Howey and Palace found an interesting correlation in which lakes with burial mounds located near them were more likely to have longer growing seasons for maize:
 
 >Results show lakes with mounds warmed later in the spring, cooled later in the fall, and were more regularly shaped, suggesting Late Precontact communities placed mounds on lakes with specific resource benefits, including extended growing seasons.
 
