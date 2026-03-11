@@ -16,7 +16,11 @@ published: true
 
 The discovery of a new species of bipedal crocodile-relative from the Triassic Period was recently published. The find came from a fossil bone bed within Arizona's Petrified Forest National Park. The new species is named _Sonselasuchus cedrus_ and is believed to be a close relative to another Triassic bipedal pseudosuchian from West Texas known as [Shuvosaurus](https://en.wikipedia.org/wiki/Shuvosaurus).
 
-The full manuscript description of _Sonselasuchus_ is [currently available online](https://www.tandfonline.com/doi/full/10.1080/02724634.2025.2604859#abstract) from the Journal of Vertebrate Paleontology. 
+Paleo-artist Gabriel Ugueto, who was commmissioned to produce an illustration of what _Sonselasuchus_ would have looked like, described the creature in a social media post today: 
+
+>Sonselasuchus was a small animal and it is known from more than 30 individuals, many of which are juveniles. It seems that in its early years Sonselasuchus was primarily quadrupedal changing to a bipedal stance as it grew up. 
+
+The full manuscript description of _Sonselasuchus_ is [currently available online](https://www.tandfonline.com/doi/full/10.1080/02724634.2025.2604859#abstract) from the Journal of Vertebrate Paleontology. The manuscript was authored by [Elliot Smith](https://biology.washington.edu/people/elliott-armour-smith), a graduate student at the University of Washington, and [Christian Sidor](https://biology.washington.edu/people/christian-sidor), Ph.D., Smith's advisor. 
 
 ## Related news
 
