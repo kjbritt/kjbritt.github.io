@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Triassic bipedal croc discovered in Petrified Forest National Park"
+title:  "Check for broken links with the W3C Link Checker"
 author: "Keenan J. Britt"
 description: "Triassic bipedal croc discovered in Petrified Forest National Park"
 image: /docs/assets/images/SEO_meta.jpg
