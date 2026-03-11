@@ -33,3 +33,8 @@ The discovery also provides additional context for a hotly-debated issue within 
 
 >The process of ivory tool manufacture and ivory rod composite tools found at the Holzman site are among the earliest known in the Americas further demonstrating technological similarities with Clovis tradition further south. The Tanana Valley served as a focus for highly mobile megafauna hunters as they explored and settled into new areas of the mammoth steppe. It was their ancestors that eventually dispersed south of the continental ice sheets in the broader context of the peopling of the Americas. 
 
+## Related news
+
+- [Late Precontact burial mounds in Michigan located near lakes with long maize growing season](https://kjbritt.github.io/archaeology/2026/03/02/michigan-mound-maize.html)
+- [Paleo-Inuit seafarers reached remote Greenlandic islands 4,500 years ago, archaeologists reveal](https://kjbritt.github.io/archaeology/2026/02/13/greenland-kitsissut.html)
+
