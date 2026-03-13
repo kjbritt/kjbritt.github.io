@@ -6,7 +6,7 @@ description: "Mosasaurs, long imagined as terrifying ocean predators, may have a
 image: /docs/assets/images/Knight_Tylosaurus.jpg
 date:   2026-02-10 01:06:33 +0000
 category: paleontology
-tag: paleontology
+tags: paleontology cretaceous
 published: true
 ---
 {% include breadcrumbs.html %}

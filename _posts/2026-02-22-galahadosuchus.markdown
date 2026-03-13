@@ -6,7 +6,7 @@ description: "Ewan Bondeham named the new, cat-sized croc Galahadosuchus jonesi 
 image: /docs/assets/images/Paleontology_meta.jpg
 date:   2026-02-22 01:06:33 +0000
 category: paleontology
-tag: paleontology
+tags: paleontology triassic
 published: true
 ---
 {% include breadcrumbs.html %}

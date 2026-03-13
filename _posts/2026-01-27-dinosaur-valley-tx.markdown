@@ -6,7 +6,7 @@ description: "Have you always dreamed about working in a dinosaur museum? What a
 image: https://upload.wikimedia.org/wikipedia/commons/6/6d/Dinosaur_Valley_State_Park_-_Track2.jpg
 date:   2026-01-27 01:06:33 +0000
 category: paleontology
-tags: travel paleontology
+tags: travel texas cretaceous
 published: true
 ---
 {% include breadcrumbs.html %}

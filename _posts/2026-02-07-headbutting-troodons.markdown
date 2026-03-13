@@ -6,7 +6,7 @@ description: "Move over Pachycephalosaurus, there's a new headbutting dinosaur f
 image: /docs/assets/images/Xenovenator.png
 date:   2026-02-07 01:06:33 +0000
 category: paleontology
-tag: paleontology
+tags: paleontology cretaceous
 published: true
 ---
 {% include breadcrumbs.html %}

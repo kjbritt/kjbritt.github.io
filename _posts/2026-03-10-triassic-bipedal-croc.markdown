@@ -6,7 +6,7 @@ description: "Triassic bipedal croc discovered in Petrified Forest National Park
 image: /docs/assets/images/Paleontology_meta.jpg
 date:   2026-03-10 01:06:33 +0000
 category: paleontology
-tags: paleontology arizona
+tags: paleontology arizona triassic
 published: true
 ---
 {% include breadcrumbs.html %}
