@@ -29,10 +29,6 @@ Welcome to my new paleontology blog! I'm a lifelong paleo-fan. If you would like
   {% endfor %}
 </ul>
 
-## Browse by geologic time period
-
-{% include geologicperiods.html %}
-
 ## Older posts
 
 <details>
@@ -63,3 +59,7 @@ Welcome to my new paleontology blog! I'm a lifelong paleo-fan. If you would like
   {% endfor %}
 </ul>
 </details>
+
+## Browse by geologic time period
+
+{% include geologicperiods.html %}
