@@ -4,7 +4,7 @@ title:  "The musk ox trawled up from the North Sea"
 author: "Keenan J. Britt"
 description: "Back in the 1990s, three fossil musk ox vertebrae were trawled up from the North Sea."
 image: /docs/assets/images/Paleontology_meta.jpg
-date:   2026-03-02 01:06:33 +0000
+date:   2026-03-13 01:06:33 +0000
 category: paleontology
 tag: paleontology
 published: true
@@ -25,7 +25,13 @@ Many species of animals lived in the land that connected Britain to the Continen
 
 Given that the fossil vertebrae were not found _in situ_ in a specific geologic context (they were trawled up, after all), it isn't possible to date them to a precise time period. However, in examining the fossils, Mol noted that the "bone is strongly mineralised and some iron concretions are adhering to it." Mol explained that "these features characterise fossil land mammals from the late Early and Middle Pleistocene."
 
+By making detailed measurements on the centrum and neural canal of each vertebrae, Mol identified the fossils as belonging to the extinct musk ox species _Praeovibos priscus_. Bones of the extinct _Praeovibos priscus_ are often quite similar to those of living musk oxen from the species _Ovibos moschatus_, but distinguished on the basis of their larger size. Mol measured the fossils and compared them to those of modern musk ox bones from Alaska in his museum's collection, and determined that "all three North Sea fossils are larger than this recent muskox." His measurements are included in the paper. 
 
+Considering that _Praeovibos_ fossils are also known from England, Germany and France's Arago Cave, it is not surprising that _Praeovibos_ would have also lived in the land that is today the North Sea. However, these fossil finds help "fill in the gaps" of where _Praeovibos priscus_ roamed during the Pleistocene.
+
+Examining evidence from the known fossil sites in Western Europe, Mol concluded that:
+
+>Praeovibos did not live in the cold tundras in which we find the present-day muskoxen...All evidence therefore suggests that Praeovibos must be seen as a representative of a fauna from more temperate climatic stages in the Early and Middle Pleistocene. 
 
 ## Related news
 
