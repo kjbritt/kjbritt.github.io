@@ -19,35 +19,35 @@ This site is built in [Jekyll](https://jekyllrb.com/), a static-site generator w
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
         <div style="flex: 1; min-width: 250px; max-width: 300px; text-align: center; border: 1px solid #eee; border-radius: 12px; padding: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-            <a href="/archaeology"><img src="/docs/assets/images/Archaeology_meta.jpg" alt="visit Archaeology news" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 8px;"></a>
+            <a href="/archaeology/"><img src="/docs/assets/images/Archaeology_meta.jpg" alt="visit Archaeology news" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 8px;"></a>
         </div>
 
         <div style="flex: 1; min-width: 250px; max-width: 300px; text-align: center; border: 1px solid #eee; border-radius: 12px; padding: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-            <a href="/oceans"><img src="/docs/assets/images/Oceans_meta.jpg" alt="visit Oceans news" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 8px;"></a>
+            <a href="/oceans/"><img src="/docs/assets/images/Oceans_meta.jpg" alt="visit Oceans news" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 8px;"></a>
         </div>
 
         <div style="flex: 1; min-width: 250px; max-width: 300px; text-align: center; border: 1px solid #eee; border-radius: 12px; padding: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-            <a href="/paleontology"><img src="/docs/assets/images/Paleontology_meta.jpg" alt="visit Paleontology news" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 8px;"></a>
+            <a href="/paleontology/"><img src="/docs/assets/images/Paleontology_meta.jpg" alt="visit Paleontology news" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 8px;"></a>
         </div>
 
         <div style="flex: 1; min-width: 250px; max-width: 300px; text-align: center; border: 1px solid #eee; border-radius: 12px; padding: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-            <a href="/seo"><img src="/docs/assets/images/SEO_meta.jpg" alt="visit Search Engine Optimization news" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 8px;"></a>
+            <a href="/seo/"><img src="/docs/assets/images/SEO_meta.jpg" alt="visit Search Engine Optimization news" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 8px;"></a>
         </div>
 
         <div style="flex: 1; min-width: 250px; max-width: 300px; text-align: center; border: 1px solid #eee; border-radius: 12px; padding: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-            <a href="/space"><img src="/docs/assets/images/Space_meta.jpg" alt="visit Space news" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 8px;"></a>
+            <a href="/space/"><img src="/docs/assets/images/Space_meta.jpg" alt="visit Space news" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 8px;"></a>
         </div>
 
         <div style="flex: 1; min-width: 250px; max-width: 300px; text-align: center; border: 1px solid #eee; border-radius: 12px; padding: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-            <a href="/technology"><img src="/docs/assets/images/Technology_meta.jpg" alt="visit Technology news" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 8px; margin-bottom: 15px;"></a>
+            <a href="/technology/"><img src="/docs/assets/images/Technology_meta.jpg" alt="visit Technology news" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 8px; margin-bottom: 15px;"></a>
         </div>
 
         <div style="flex: 1; min-width: 250px; max-width: 300px; text-align: center; border: 1px solid #eee; border-radius: 12px; padding: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-            <a href="/travel"><img src="/docs/assets/images/Travel_meta.jpg" alt="visit Travel news" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 8px;"></a>
+            <a href="/travel/"><img src="/docs/assets/images/Travel_meta.jpg" alt="visit Travel news" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 8px;"></a>
         </div>
 
         <div style="flex: 1; min-width: 250px; max-width: 300px; text-align: center; border: 1px solid #eee; border-radius: 12px; padding: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-            <a href="/wildlife"><img src="/docs/assets/images/Wildlife_meta.jpg" alt="visit Wildlife news" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 8px; margin-bottom: 15px;"></a>
+            <a href="/wildlife/"><img src="/docs/assets/images/Wildlife_meta.jpg" alt="visit Wildlife news" style="width: 100%; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 8px; margin-bottom: 15px;"></a>
         </div>
 
     </div>
