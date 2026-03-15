@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Are LCD screens harming dolphins?"
+author: "Keenan J. Britt"
+description: "Back in the 1990s, three fossil musk ox vertebrae were trawled up from the North Sea."
+image: /docs/assets/images/Wildlife_meta.jpg
+date:   2026-03-14 01:06:33 +0000
+category: wildlife
+published: true
+---
+{% include breadcrumbs.html %}
+
+Are LCD screens harming dolphins and other marine mammals?
+
+## Related news
+
+- [Can AI save Florida's coral reef? These scientists think so](https://kjbritt.github.io/technology/2026/02/17/ai-coral-reefs.html)
+- [KPC students gain ‘hands-on’ experience during whale necropsy](https://kjbritt.github.io/wildlife/2025/07/10/whale-necropsy.html)
+- [Ice seals of the Bering Sea](https://kjbritt.github.io/wildlife/2025/01/21/ice-seals-bering-sea.html)
