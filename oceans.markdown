@@ -13,7 +13,7 @@ Welcome to my new marine biology blog!
 
 ## Recent news
 
-
+{% include recentposts.html %}
 
 ## Older news
 
