@@ -12,9 +12,7 @@ tags: oceans wildlife
 {% include breadcrumbs.html %}
 
 <figure>
-<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:jpxscn2y2q4iy5agzxy4bry7/app.bsky.feed.post/3mh5ubswg6k2p" data-bluesky-cid="bafyreieaanwrd4dys6iocspmbppmxyftgka7l276wzhilnhldjbrqubari" data-bluesky-embed-color-mode="system"><p lang="en">Indo-Pacific humpback dolphin (Sousa chinensis) swimming off the coast of Lantau Island, Hong Kong. 
-
-Photo by Leonard Reback, CC BY-SA 4.0, via Wikimedia Commons<br><br><a href="https://bsky.app/profile/did:plc:jpxscn2y2q4iy5agzxy4bry7/post/3mh5ubswg6k2p?ref_src=embed">[image or embed]</a></p>&mdash; Digging Deeper with K.J. Britt (<a href="https://bsky.app/profile/did:plc:jpxscn2y2q4iy5agzxy4bry7?ref_src=embed">@kjbritt.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:jpxscn2y2q4iy5agzxy4bry7/post/3mh5ubswg6k2p?ref_src=embed">March 15, 2026 at 10:45 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:jpxscn2y2q4iy5agzxy4bry7/app.bsky.feed.post/3mh5ubswg6k2p" data-bluesky-cid="bafyreieaanwrd4dys6iocspmbppmxyftgka7l276wzhilnhldjbrqubari" data-bluesky-embed-color-mode="system"><p lang="en"><a href="https://bsky.app/profile/did:plc:jpxscn2y2q4iy5agzxy4bry7/post/3mh5ubswg6k2p?ref_src=embed">[image or embed]</a></p>&mdash; Digging Deeper with K.J. Britt (<a href="https://bsky.app/profile/did:plc:jpxscn2y2q4iy5agzxy4bry7?ref_src=embed">@kjbritt.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:jpxscn2y2q4iy5agzxy4bry7/post/3mh5ubswg6k2p?ref_src=embed">March 15, 2026 at 10:45 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
 <figcaption>Indo-Pacific humpback dolphin (Sousa chinensis) swimming off the coast of Lantau Island, Hong Kong. Photo by Leonard Reback, CC BY-SA 4.0, <a href="https://en.wikipedia.org/wiki/Indo-Pacific_humpback_dolphin#/media/File:Chinese_white_dolphin.jpg">via Wikimedia Commons</a></figcaption>
 </figure>
 
