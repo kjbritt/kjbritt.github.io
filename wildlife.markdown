@@ -4,6 +4,7 @@ title: Wildlife
 permalink: /wildlife/
 description: "Welcome to my wildlife blog! From wolves to whales, moose to musk oxen, I've been honored to have had encounters with many of Alaska's iconic wildlife species."
 image: /docs/assets/images/eider_web.jpg
+tag: wildlife
 ---
 <figure>
   <img src="/docs/assets/images/eider_web.jpg" alt="An adult female musk ox named Eider" />
