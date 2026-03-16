@@ -6,6 +6,7 @@ description: "No natural sources of obsidian are found within Alberta. But Canad
 image: /docs/assets/images/carpenter_site_views.jpg
 date:   2025-04-25 01:06:33 +0000
 category: archaeology
+tags: archaeology alberta
 ---
 {% include breadcrumbs.html %}
 
