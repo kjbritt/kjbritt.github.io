@@ -3,9 +3,9 @@ layout: post
 title:  "Are LCD screens harming dolphins?"
 author: "Keenan J. Britt"
 description: "Back in the 1990s, three fossil musk ox vertebrae were trawled up from the North Sea."
-image: /docs/assets/images/Wildlife_meta.jpg
+image: /docs/assets/images/Oceans_meta.jpg
 date:   2026-03-14 01:06:33 +0000
-category: wildlife
+category: oceans
 published: true
 ---
 {% include breadcrumbs.html %}
