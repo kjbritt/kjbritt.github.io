@@ -6,6 +6,7 @@ description: "In April, a deceased snake was discovered in a hay bale that had b
 image: /docs/assets/images/carpenter_site_views.jpg
 date:   2025-06-24 01:06:33 +0000
 category: wildlife
+tag: wildlife
 ---
 {% include breadcrumbs.html %}
 

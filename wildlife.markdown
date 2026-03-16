@@ -13,14 +13,14 @@ tag: wildlife
 
 Welcome to my wildlife blog! From wolves to whales, moose to musk oxen, I've been honored to have had encounters with many of Alaska's iconic wildlife species. 
 
-## Recent posts
+## Recent news
 
 {% include recentposts.html %}
 
-## Older posts
+## Older news
 
 <details>
-  <summary onclick="this.innerText = this.parentElement.open ? 'Display older posts' : 'Hide older posts'"
+  <summary onclick="this.innerText = this.parentElement.open ? 'Display older news' : 'Hide older news'"
   style="
     display: inline-block;
     padding: 10px 20px;
@@ -32,9 +32,9 @@ Welcome to my wildlife blog! From wolves to whales, moose to musk oxen, I've bee
     font-weight: bold;
     list-style: none;
     user-select: none;
-    transition: background 0.3s ease;">Display older posts</summary>
+    transition: background 0.3s ease;">Display older news</summary>
 <ul class="post-list">
-  {% assign stories = site.data.wildlife | slice: 5, 10 %}
+  {% assign stories = site.tags[page.tag] | slice: 5, 10 %}
   {% for story in stories %}
     <li style="margin-bottom: 20px;">
       <span class="post-meta">{{ story.date | date: "%B %e, %Y" }}</span>

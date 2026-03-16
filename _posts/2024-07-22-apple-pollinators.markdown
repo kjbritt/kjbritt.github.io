@@ -6,6 +6,7 @@ description: "Alaska may not come to mind when you think of places to grow apple
 image: /docs/assets/images/carpenter_site_views.jpg
 date:   2024-07-22 01:06:33 +0000
 category: wildlife
+tag: wildlife
 ---
 {% include breadcrumbs.html %}
 

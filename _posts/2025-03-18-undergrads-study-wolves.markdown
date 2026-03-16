@@ -6,6 +6,7 @@ description: "UAA students are used to ‘howling’ for the Seawolves, but last
 image: /docs/assets/images/carpenter_site_views.jpg
 date:   2025-03-18 01:06:33 +0000
 category: wildlife
+tag: wildlife
 ---
 {% include breadcrumbs.html %}
 
