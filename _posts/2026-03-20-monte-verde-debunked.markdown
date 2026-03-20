@@ -18,6 +18,14 @@ The question of when humans first arrived in the New World in once of most signi
 
 Yet, a new analysis of Monte Verde, published yesterday, March 19, in the journal _Science_ suggests the original dating of the site is incorrect. The article, titled <cite><a href="https://www.science.org/doi/10.1126/science.adw9217">A mid-Holocene age for Monte Verde challenges the timeline of human colonization of South America</a></cite>, argues that local geologic factors account for the mistaken date and that the site is no older than 8,200 years. [Todd Surovell](https://www.uwyo.edu/anthropology/personnel/faculty/t-surovell.html), Ph.D., an anthropologist at the University of Wyoming, was the paper's lead author. 
 
+## The importance of reproducible results
+
+Having results that can reproduced by others is a key component of the scientific method. You probably learned this in middle school science class. You mix together vinegar and baking soda and get a reaction. You lab partner can do the same thing to reproduce your experiment and see the same results. 
+
+For decades, Monte Verde seemed like something of an anomaly - not just because of the pre-Clovis dates for the site, but because it was in Chile, thousands of miles away from other pre-Clovis sites known from the United States. 
+
+Sacha Vignieri, editor for the article in _Science_, explained that Monte Verde "was mostly only studied by a single group, meaning that replication of the dating has been lacking." Surovell and his co-authors claim that their study is "the first investigation of Monte Verde, independent of the original investigators, in the nearly 50 years since its discovery." 
+
 ## Related news
 
 - [Paleo-Inuit seafarers reached remote Greenlandic islands 4,500 years ago, archaeologists reveal](https://kjbritt.github.io/archaeology/2026/02/13/greenland-kitsissut.html)
