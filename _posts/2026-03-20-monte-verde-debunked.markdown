@@ -35,6 +35,10 @@ The team's reassessment of Monte Verde is based in re-examining the local geolog
 
 The team is correct in identifying the Lepué Tephra laying "stratigraphically underlying the archaeological component", then Monte Verde II cannot be older than 11,000 years, making the pre-Clovis dates impossible. In fact, the team things the site is even younger. 
 
+While the radio-carbon dated wood and megafauna fossils found at Monte Verde may indeed date back to the Pleistocene, it appears that those items weren't brought to the site by pre-Clovis hunters. Instead, the team believes these materials were washed in and deposited at the site as the result of erosion and glacial outwash. The authors explained in the paper that:
+
+>When alluvial deposition resumed after ~8600 years B.P., Pleistocene wood, megafaunal remains, and other organic matter present in [the Salto Chico Formation] in the immediate site area were reworked by Chinchihuapi Creek into Middle Holocene alluvium [...] Although the organic-rich deposits of the [Monte Verde II] component can produce Late Pleistocene radiocarbon ages, this material was redeposited after 8600 years B.P.
+
 ## Related news
 
 - [Paleo-Inuit seafarers reached remote Greenlandic islands 4,500 years ago, archaeologists reveal](https://kjbritt.github.io/archaeology/2026/02/13/greenland-kitsissut.html)
