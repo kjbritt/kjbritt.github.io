@@ -43,4 +43,5 @@ While the radio-carbon dated wood and megafauna fossils found at Monte Verde may
 
 - [Paleo-Inuit seafarers reached remote Greenlandic islands 4,500 years ago, archaeologists reveal](https://kjbritt.github.io/archaeology/2026/02/13/greenland-kitsissut.html)
 - [Archaeologists unearth Alaska's 14,000-year-old mammoth ivory workshop](https://kjbritt.github.io/archaeology/2026/02/08/holzman-site.html)
+- [Late Precontact burial mounds in Michigan located near lakes with long maize growing season](https://kjbritt.github.io/archaeology/2026/03/02/michigan-mound-maize.html)
 
