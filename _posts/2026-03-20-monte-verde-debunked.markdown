@@ -2,10 +2,11 @@
 layout: post
 title:  "Monte Verde debunked? New analysis suggests famed 'pre-Clovis' site is actually thousands of years younger"
 author: "Keenan J. Britt"
-description: "A recent study using Landsat 8 data and known arcaheological sites in Michigan suggests that maize may have had a bigger role in the Late Precontact Period than previously thought."
-image: /docs/assets/images/lake_huron_web.jpg
+description: "Monte Verde debunked? New analysis suggests famed 'pre-Clovis' site is actually thousands of years younger."
+image: /docs/assets/images/carpenter_site_views.jpg
 date:   2026-03-20 01:06:33 +0000
 category: archaeology
+tags: archaeology chile
 published: true
 ---
 {% include breadcrumbs.html %}
@@ -24,7 +25,7 @@ Having results that can reproduced by others is a key component of the scientifi
 
 For decades, Monte Verde seemed like something of an anomaly - not just because of the pre-Clovis dates for the site, but because it was in Chile, thousands of miles away from other pre-Clovis sites known from the United States. 
 
-Sacha Vignieri, editor for the article in _Science_, explained that Monte Verde "was mostly only studied by a single group, meaning that replication of the dating has been lacking." Surovell and his co-authors claim that their study is "the first investigation of Monte Verde, independent of the original investigators, in the nearly 50 years since its discovery." 
+Sacha Vignieri, editor for the article in _Science_, explained that Monte Verde "was mostly only studied by a single group, meaning that replication of the dating has been lacking." Surovell and his co-authors claim that their study is "the first investigation of Monte Verde, independent of the original investigators, in the nearly 50 years since its discovery." Their sampling took place along Chinchihuapi Creek where the site is located. 
 
 ## Related news
 
