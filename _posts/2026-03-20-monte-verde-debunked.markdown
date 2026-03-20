@@ -6,7 +6,7 @@ description: "Monte Verde debunked? New analysis suggests famed 'pre-Clovis' sit
 image: /docs/assets/images/carpenter_site_views.jpg
 date:   2026-03-20 01:06:33 +0000
 category: archaeology
-tags: archaeology chile
+tags: archaeology geology chile
 published: true
 ---
 {% include breadcrumbs.html %}

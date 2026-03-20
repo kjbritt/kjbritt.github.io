@@ -6,6 +6,7 @@ description: "Residents of Southcentral Alaska have been preparing for the possi
 image: /docs/assets/images/carpenter_site_views.jpg
 date:   2025-05-22 01:06:33 +0000
 category: wildlife
+tags: wildlife geology
 ---
 {% include breadcrumbs.html %}
 
