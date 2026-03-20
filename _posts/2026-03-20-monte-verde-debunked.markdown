@@ -25,7 +25,15 @@ Having results that can reproduced by others is a key component of the scientifi
 
 For decades, Monte Verde seemed like something of an anomaly - not just because of the pre-Clovis dates for the site, but because it was in Chile, thousands of miles away from other pre-Clovis sites known from the United States. 
 
-Sacha Vignieri, editor for the article in _Science_, explained that Monte Verde "was mostly only studied by a single group, meaning that replication of the dating has been lacking." Surovell and his co-authors claim that their study is "the first investigation of Monte Verde, independent of the original investigators, in the nearly 50 years since its discovery." Their sampling took place along Chinchihuapi Creek where the site is located. 
+Sacha Vignieri, editor for the article in _Science_, explained that Monte Verde "was mostly only studied by a single group, meaning that replication of the dating has been lacking." Surovell and his co-authors claim that their study is "the first investigation of Monte Verde, independent of the original investigators, in the nearly 50 years since its discovery." 
+
+Their sampling took place along Chinchihuapi Creek where the site is located and their results "fail to support the hypothesis" that Monte Verde dates back to the Late Pleistocene. 
+
+## The importance of understanding local geology
+
+The team's reassessment of Monte Verde is based in re-examining the local geology. Surovell and his co-authors found that the cultural layer of Monte Verde said to be pre-Clovis - known as Monte Verde II - is above a layer of tephra (volcanic material). They identified the layer as belonging to the Lepué Tephra, which is [dated by geologists as being 11,000 years old](https://onlinelibrary.wiley.com/doi/abs/10.1002/jqs.2976). 
+
+The team is correct in identifying the Lepué Tephra laying "stratigraphically underlying the archaeological component", then Monte Verde II cannot be older than 11,000 years, making the pre-Clovis dates impossible. In fact, the team things the site is even younger. 
 
 ## Related news
 
