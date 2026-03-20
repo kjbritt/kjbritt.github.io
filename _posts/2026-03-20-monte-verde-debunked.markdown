@@ -14,8 +14,12 @@ The question of when humans first arrived in the New World in once of most signi
 
  However, a number of archaeological sites in the New World have been proposed to be "pre-Clovis", older than the 13,000 years, which would suggest humans entered the Americas earlier. Proposed pre-Clovis sites include the Gault Site in Texas and White Sands in New Mexico.
  
- For decades, one of the most famous pre-Clovis sites was Monte Verde along Chinchihuapi Creek in Chile. The site contains the remain of a campsite dated back 14,500 years ago. In addition to artifacts like stone tools and rope - preserved in a peat bog - the site also held the remains of extinct Pleistocene animals like gompotheres (elephant relatives) and _Paleolama_ (a relative of modern llamas). 
+ For decades, one of the most famous pre-Clovis sites was Monte Verde along Chinchihuapi Creek in Chile. The site contains the remain of a campsite dated back 14,800 years ago. In addition to artifacts like stone tools and rope - preserved in a peat bog - the site also held the remains of extinct Pleistocene animals like gompotheres (elephant relatives) and _Paleolama_ (a relative of modern llamas). The site was considered to be so significant that it even [became a UNESCO World Heritage site](https://whc.unesco.org/en/tentativelists/1873/).
 
 Yet, a new analysis of Monte Verde, published yesterday, March 19, in the journal _Science_ suggests the original dating of the site is incorrect. The article, titled <cite><a href="https://www.science.org/doi/10.1126/science.adw9217">A mid-Holocene age for Monte Verde challenges the timeline of human colonization of South America</a></cite>, argues that local geologic factors account for the mistaken date and that the site is no older than 8,200 years. [Todd Surovell](https://www.uwyo.edu/anthropology/personnel/faculty/t-surovell.html), Ph.D., an anthropologist at the University of Wyoming, was the paper's lead author. 
 
+## Related news
+
+- [Paleo-Inuit seafarers reached remote Greenlandic islands 4,500 years ago, archaeologists reveal](https://kjbritt.github.io/archaeology/2026/02/13/greenland-kitsissut.html)
+- [Archaeologists unearth Alaska's 14,000-year-old mammoth ivory workshop](https://kjbritt.github.io/archaeology/2026/02/08/holzman-site.html)
 
