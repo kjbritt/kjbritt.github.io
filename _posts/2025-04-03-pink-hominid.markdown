@@ -3,9 +3,10 @@ layout: post
 title:  "Oldest-Known Human Fossil Discovered In Western Europe Is Changing History"
 author: "Keenan J. Britt"
 description: "What did our ancestors look like 1.4 million years ago? A hidden face from a cave in Spain might hold the answer."
-image: /docs/assets/images/carpenter_site_views.jpg
+image: /docs/assets/images/Paleontology_meta.jpg
 date:   2025-04-03 01:06:33 +0000
 category: paleontology
+tags: paleontology quarternary
 ---
 {% include breadcrumbs.html %}
 
