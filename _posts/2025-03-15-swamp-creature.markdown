@@ -6,7 +6,7 @@ description: "A team from the University of Colorado Boulder published their dis
 image: /docs/assets/images/carpenter_site_views.jpg
 date:   2025-03-15 01:06:33 +0000
 category: paleontology
-tag: cretaceous
+tags: paleontology cretaceous colorado
 ---
 {% include breadcrumbs.html %}
 

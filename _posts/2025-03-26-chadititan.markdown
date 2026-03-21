@@ -6,7 +6,7 @@ description: "In March 2025, a new sauropod dinosaur from Argentina was announce
 image: /docs/assets/images/carpenter_site_views.jpg
 date:   2025-03-26 01:06:33 +0000
 category: paleontology
-tag: cretaceous
+tags: paleontology cretaceous argentina
 ---
 {% include breadcrumbs.html %}
 

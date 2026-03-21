@@ -6,6 +6,7 @@ description: "Five million years ago, strange and amazing creatures lived in Eas
 image: /docs/assets/images/carpenter_site_views.jpg
 date:   2025-03-28 01:06:33 +0000
 category: paleontology
+tags: paleontology tertiary tennessee
 ---
 {% include breadcrumbs.html %}
 
