@@ -41,20 +41,9 @@ You don't have to write out HTML code to create a proper bulleted list. Most lik
 
 ## Avoid using emoji lists
 
-A popular trend inspired by social media is to use emojis to create lists using emojis as bullets. It's even possible to create proper HTML bulleted lists with emojis as the bullets. The Mozilla Developers Network [even provides this example](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/list-style-type) by styling the CSS list-style-type property:
+A popular trend inspired by social media is to use emojis to create lists using emojis as bullets. It's even possible to create proper HTML bulleted lists with emojis as the bullets. The Mozilla Developers Network [provides this example](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/list-style-type) by styling the CSS list-style-type property.
 
-<ul style="list-style-type: space-counter;">
-  <li>Apollo</li>
-  <li>Hubble</li>
-  <li>Chandra</li>
-  <li>Cassini-Huygens</li>
-</ul> 
-
-Accessibility blogger Life of a Blind Girl [explained in a post](https://lifeofablindgirl.com/2023/04/02/your-a-z-guide-for-social-media-accessibility/):
-
->It’s ok to use emojis, just don’t overuse them. Screen readers read out a description for every single one. Having multiple emojis read out loud is a frustrating, tedious experience for screen reader users. In some cases, it doubles the time it takes to read a post when having to listen to a mass of emojis being read out loud.
-
-
+I can use the list-style-type property to style my list with the sauropod emoji and it does come across _looking_ professional.
 
 <ul style="list-style-type: '\1F995';">
   <li>Diplodocus</li>
@@ -62,6 +51,12 @@ Accessibility blogger Life of a Blind Girl [explained in a post](https://lifeofa
   <li>Camarasaurus</li>
   <li>Brachiosaurus</li>
 </ul> 
+
+However, this can be really annoying to listen to on a screen reader, since assistive technology often reads emojis out loud to users. Narrator read this list to me as "sauropod Diplodocus, sauropod Barosaurus, sauropod Camarasaurus, sauropod Brachiosaurs."
+
+Emojis can be used in designs, but they should be used sparingly. Accessibility blogger Life of a Blind Girl [explained in a post](https://lifeofablindgirl.com/2023/04/02/your-a-z-guide-for-social-media-accessibility/):
+
+>It’s ok to use emojis, just don’t overuse them. Screen readers read out a description for every single one. Having multiple emojis read out loud is a frustrating, tedious experience for screen reader users. In some cases, it doubles the time it takes to read a post when having to listen to a mass of emojis being read out loud.
 
 
 ## What if you want fancy bullets?
