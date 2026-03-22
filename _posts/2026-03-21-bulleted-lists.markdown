@@ -37,6 +37,8 @@ See the difference? Your sighted users will likely notice that the second list l
 
 You can even try this out for yourself. Your computer likely has a screen reader available, pre-installed. I use Narrator, which comes with Windows 11. 
 
+You don't have to write out HTML code to create a proper bulleted list. Most likely, if you're using a CMS, they'll be a button to do this through your WYSIWYG editor.
+
 ## Avoid using emoji lists
 
 A popular trend inspired by social media is to use emojis to create lists using emojis as bullets. It's even possible to create proper HTML bulleted lists with emojis as the bullets. The Mozilla Developers Network [even provides this example](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/list-style-type) by styling the CSS list-style-type property:
