@@ -28,19 +28,20 @@ Here's a simple list of sauropod ("long neck") dinosaurs known from the Jurassic
 
 And here's a list I made just using some asterisks:
 
-*Diplodocus
-*Barosaurus
-*Camarasaurus
-*Brachiosaurus
+*Diplodocus<br>
+*Barosaurus<br>
+*Camarasaurus<br>
+*Brachiosaurus<br>
 
 See the difference?
 
 ## What if you want fancy bullets?
 
-<ul style="list-style-type:circle;">
-  <li>Diplodocus</li>
-  <li>Barosaurus</li>
-  <li>Camarasaurus</li>
-  <li>Brachiosaurus</li>
-</ul>
+Accessible web design doesn't mean _boring_ web design. It's possible to design features that are interesting _and_ accessible for all users. While you may need to work with a developer, it is possible to created bulleted lists that display emojis for sighted users but remove the emojis for 
+
+<ul style="list-style-type: '\1F995';">
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul> 
 
