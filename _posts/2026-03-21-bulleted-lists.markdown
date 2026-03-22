@@ -65,3 +65,22 @@ Accessible web design doesn't mean _boring_ web design. It's possible to design 
 
 For those interested in accessible bulleted lists, web designer Chris Coyier provides some helpful CSS code in his blog post [Emoji Lists, The Good Way?](https://chriscoyier.net/2023/04/07/emoji-lists-the-good-way/).
 
+## What about social media posts?
+
+Someone asked me once about how to create accessible bulleted lists on social media posts, and I honestly don't have an answer. Most major social media platforms like Facebook, Instagram, X and Bluesky do not have WYSIWYG editors with buttons for bulleted lists or options to add HTML. Google's AI overview suggested the simplest way was to do this is to "use standard bullet characters (like •) followed by a space, rather than emojis or dashes, to ensure screen readers interpret them correctly."
+
+I tried this out on my Bluesky and found that Narrator read the names of the dinosaurs without reading the name of the bullet character. 
+
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:jpxscn2y2q4iy5agzxy4bry7/app.bsky.feed.post/3mhn5sczft223" data-bluesky-cid="bafyreigmnwk4ben2ksfa6cuhhsr3dhyd3k4klzqihxcebn4xfpzuroduh4" data-bluesky-embed-color-mode="system"><p lang="en">Just some of my favorite sauropods:
+
+•Diplodocus
+•Barosaurus
+•Camarasaurus
+•Brachiosaurus</p>&mdash; Digging Deeper with K.J. Britt (<a href="https://bsky.app/profile/did:plc:jpxscn2y2q4iy5agzxy4bry7?ref_src=embed">@kjbritt.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:jpxscn2y2q4iy5agzxy4bry7/post/3mhn5sczft223?ref_src=embed">March 22, 2026 at 12:45 AM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+
+If anyone else knows a better way to make accessible bulleted lists on social media, please [Contact me](https://kjbritt.github.io/contact/). 
+
+## Digging deeper
+
+If you'd like to start digging deeper into this topic, Princeton University's Digital Accessibility Program has [a helpful article with more details](https://digital.accessibility.princeton.edu/how/content/lists).
+
