@@ -11,3 +11,7 @@ Welcome to the Cretaceous Period!
 ## Recent news
 
 {% include recentposts.html %}
+
+## Older news
+
+{% include olderposts.html %}
