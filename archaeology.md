@@ -7,7 +7,7 @@ tag: archaeology
 ---
 <figure>
   <img src="/docs/assets/images/petra_pfp.jpg" alt="A college student on a donkey at Petra, Jordan" />
-  <figcaption><em>A naive, young student of archaeology at Petra, Jordan, June 2013</em></figcaption>
+  <figcaption><em>A naive, young student of archaeology and a donkey named Shakira. Petra, Jordan, June 2013</em></figcaption>
 </figure>
 
 Welcome to my Archaeology blog!
