@@ -37,6 +37,8 @@ See the difference? Your sighted users will likely notice that the second list l
 
 You can even try this out for yourself. Your computer likely has a screen reader available, pre-installed. I use Narrator, which comes with Windows 11. 
 
+Some sample HTML code for creating unordered lists is available through [W3 Schoools](https://www.w3schools.com/html/html_lists_unordered.asp).
+
 You don't have to write out HTML code to create a proper bulleted list. Most likely, if you're using a CMS, they'll be a button to do this through your WYSIWYG editor.
 
 ## Avoid using emoji lists
