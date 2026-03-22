@@ -35,3 +35,12 @@ And here's a list I made just using some asterisks:
 
 See the difference?
 
+## What if you want fancy bullets?
+
+<ul style="list-style-type:circle;">
+  <li>Diplodocus</li>
+  <li>Barosaurus</li>
+  <li>Camarasaurus</li>
+  <li>Brachiosaurus</li>
+</ul>
+
