@@ -39,7 +39,7 @@ While the radio-carbon dated wood and megafauna fossils found at Monte Verde may
 
 >When alluvial deposition resumed after ~8600 years B.P., Pleistocene wood, megafaunal remains, and other organic matter present in [the Salto Chico Formation] in the immediate site area were reworked by Chinchihuapi Creek into Middle Holocene alluvium [...] Although the organic-rich deposits of the [Monte Verde II] component can produce Late Pleistocene radiocarbon ages, this material was redeposited after 8600 years B.P.
 
-## Digging Deeper
+## Digging deeper
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dnrx7TUVUDE?si=Ct7cMe5QKRL2PogI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
