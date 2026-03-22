@@ -15,7 +15,7 @@ A common web accessibility mistake is to use improper bulleted lists on a web pa
 
 However, these improper bulleted lists can cause serious accessibility issues for some of your web visitors, including those who are blind or visually impaired and using a screen reader. 
 
-## Creating an ordered list
+## Creating an unordered list
 
 Here's a simple list of sauropod ("long neck") dinosaurs known from the Jurassic Period of the Western United States. This list is in a proper HTML bulleted list.
 
