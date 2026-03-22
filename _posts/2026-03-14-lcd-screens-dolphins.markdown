@@ -16,7 +16,7 @@ tags: oceans wildlife
 <figcaption>Indo-Pacific humpback dolphin (Sousa chinensis) swimming off the coast of Lantau Island, Hong Kong. Photo by Leonard Reback, CC BY-SA 4.0, <a href="https://en.wikipedia.org/wiki/Indo-Pacific_humpback_dolphin#/media/File:Chinese_white_dolphin.jpg">via Wikimedia Commons</a></figcaption>
 </figure>
 
-Are the LCD screens in the smartphones, computers and TVs we use everyday be harming dolphins and other marine mammals? New research from the City University of Hong Kong has found that liquid crystal monomers (LCMs), a type of chemical used in the production of liquid-crystal display (LCD) screens, can accumulate in the bodies of cetacean marine mammals like dolphins and porpoises. 
+Are the LCD screens in the smartphones, computers and TVs we use everyday harming dolphins and other marine mammals? New research from the City University of Hong Kong has found that liquid crystal monomers (LCMs), a type of chemical used in the production of liquid-crystal display (LCD) screens, can accumulate in the bodies of cetacean marine mammals like dolphins and porpoises. 
 
 In a study published on Feb. 25 in the academic journal _Environmental Science & Technology_, a team of 19 authors (mostly associated with the City University of Hong Kong in China), presented alarming evidence that LCMs are accumulating in body tissues of Indo-Pacific humpback dolphins (_Sousa chinensis_) and Indo-Pacific finless porpoises (_Neophocaena phocaenoides_). The study, titled _Liquid Crystal Monomers Released from LCD Displays Accumulate in Endangered Marine Cetaceans Triggering Health Concerns_ is [currently available online](https://pubs.acs.org/doi/10.1021/acs.est.5c17767) with open access.
 
