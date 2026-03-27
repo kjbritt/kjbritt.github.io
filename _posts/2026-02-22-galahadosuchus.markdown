@@ -37,7 +37,14 @@ Bondeham's description of _Galahadosuchus_ is based off of two fossil slabs foun
 
 In many ways, the fossil remains of _Galahadosuchus_ are quite similar to those of <i><a href="https://en.wikipedia.org/wiki/Terrestrisuchus">Terrestrisuchus</a></i>, another crocodylomorph from the Late Triassic of England and Wales. Bondeham and his co-authors conceded that the fossil specimen "exhibits a high degree of morphological similarity to _Terrestrisuchus_." However, they were able to distinguish the two crocs on the basis of several minute anatomical features, including a "shorter and stouter" radius and ulna (forearm bones). Another feature that distinguished the two species was the relative lengths of their metacarpals (handbones). In the known fossils of _Terrestrisuchus_, metacarpal V (the fifth hand bone, connecting to the "pinky" finger in humans) is longer than metacarpal II (the second hand bone, connecting to the index finger in humans). However, the fossil forelimb of _Galahadosuchus_ preserves a metacarpal V that is "approximately half the length of metacarpal II". 
 
+## Digging deeper
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/98wra_4AhCg?si=QZQUKGL77QPcffIU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+If you're interested in digging deeper into this topic, paleontologist Steve Wroe has an [excellent YouTube video](https://www.youtube.com/watch?v=98wra_4AhCg) discussing the anatomy of _Galahadosuchus_ and its place in the clade Pseudosuchia. 
+
+
+_Page last updated on March 27, 2026_
 
 
 

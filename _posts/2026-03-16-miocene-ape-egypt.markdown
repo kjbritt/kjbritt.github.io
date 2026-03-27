@@ -24,4 +24,5 @@ Al-Ashqar concluded that the evidence from _Masripithecus_ suggests that ape fam
 ## Related news
 
 -[Monte Verde debunked? New analysis suggests famed 'pre-Clovis' site is actually thousands of years younger](https://kjbritt.github.io/archaeology/2026/03/20/monte-verde-debunked.html)
+
 -[Triassic bipedal croc discovered in Petrified Forest National Park](https://kjbritt.github.io/paleontology/2026/03/10/triassic-bipedal-croc.html)
