@@ -7,23 +7,15 @@ image: /docs/assets/images/Space_meta.jpg
 ---
 <figure>
   <img src="/docs/assets/images/oregon_spacex.jpg" alt="SpaceX Falcon 9 rocket burning up over Hillsboro, Oregon." />
-  <figcaption><i>SpaceX Falcon 9 rocket burning up over Hillsboro, Oregon. March 2021.</i></figcaption>
+  <figcaption><i>SpaceX Falcon 9 rocket burning up during re-entry. Hillsboro, Oregon. March 2021.</i></figcaption>
 </figure>
 
-Welcome to my new space blog!
+Welcome to my new space blog! I'll cover stories here related to astronomy, space exploration and engineering, and the question of "are we alone in the Universe?"
 
 ## Recent news
 
-<ul class="post-list">
-  {% assign stories = site.tags[page.tag] | slice: 0, 5 %}
-  {% for story in stories %}
-    <li style="margin-bottom: 20px;">
-      <span class="post-meta">{{ story.date | date: "%B %e, %Y" }}</span>
-      <h3>
-        <a class="post-link" href="{{ story.url }}">
-          {{ story.title }}
-        </a>
-      </h3>
-    </li>
-  {% endfor %}
-</ul>
+{% include recentposts.html %}
+
+## Older news
+
+{% include olderposts.html %}
