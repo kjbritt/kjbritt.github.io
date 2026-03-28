@@ -3,7 +3,7 @@ layout: post
 title:  "Monte Verde debunked? New analysis suggests famed 'pre-Clovis' site is actually thousands of years younger"
 author: "Keenan J. Britt"
 description: "Monte Verde debunked? New analysis suggests famed 'pre-Clovis' site is actually thousands of years younger."
-image: /docs/assets/images/carpenter_site_views.jpg
+image: /docs/assets/images/Archaeology_meta2.jpg
 date:   2026-03-20 01:06:33 +0000
 category: archaeology
 tags: archaeology geology chile
