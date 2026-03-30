@@ -2,7 +2,7 @@
 layout: post
 title:  "Ancient DNA preserved in volcanic ash reveals life in the Yukon Territory"
 author: "Keenan J. Britt"
-description: "Ntitle:  "Ancient DNA preserved in volcanic ash reveals life in the Yukon Territory""
+description: "Ancient DNA preserved in volcanic ash reveals life in the Yukon Territory"
 image: /docs/assets/images/Geology_meta.jpg
 date:   2026-03-26 01:06:33 +0000
 category: geology
