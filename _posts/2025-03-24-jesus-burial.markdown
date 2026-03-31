@@ -2,7 +2,7 @@
 layout: post
 title:  "One Of The Biggest Bible Mysteries Is Where Jesus Is Buried (And Experts Still Argue About It)"
 author: "Keenan J. Britt"
-description: "For two thousand years, Christians have venerated a specific location as the site of Jesus&#039; tomb - but have they been looking in the wrong spot?"
+description: "For two thousand years, Christians have venerated a specific location as the site of Jesus' tomb - but have they been looking in the wrong spot?"
 image: /docs/assets/images/Classics_meta.jpg
 date:   2025-03-24 01:06:33 +0000
 category: classics
