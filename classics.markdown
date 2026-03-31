@@ -3,7 +3,8 @@ layout: page
 title: Classics
 permalink: classics/
 description: "Welcome to my Classics blog. I'll cover stories here related to classical texts."
-tag: oceans
+image: /docs/assets/images/Classics_meta.jpg
+tag: classics
 ---
 <figure>
   <img src="/docs/assets/images/jerash.jpg" alt="The Temple of Artemis at Jerash, Jordan" />
