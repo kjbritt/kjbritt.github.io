@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "The Tomb Of One Of History's Most Powerful Conquerors Is Still Missing"
+author: "Keenan J. Britt"
+description: "The final resting place of one of Genghis Khan has baffled historians and archaeologists for centuries."
+image: /docs/assets/images/History_meta.jpg
+date:   2025-04-03 01:06:33 +0000
+category: history
+tags: history mongolia
+---
+{% include breadcrumbs.html %}
+
+The final resting place of one of Genghis Khan has baffled historians and archaeologists for centuries.
+
+Full story available online via TheTravel. 
+
+<button onclick="newTab()" style="background-color: #7f7053; color: white; padding: 15px 32px; border: none; border-radius: 8px; cursor: pointer; font-size: 16px;">Full story</button>
+<script>
+function newTab() {
+  window.open("https://www.thetravel.com/tomb-missing-of-genghis-khan-one-of-historys-greatest-conquerors/");
+}
+</script>
