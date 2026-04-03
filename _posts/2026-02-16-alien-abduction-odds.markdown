@@ -6,7 +6,7 @@ description: "A recent study by Canada Sports Betting suggests that Alaskans hav
 image: /docs/assets/images/alaska_abduction_web.jpg
 date:   2026-02-16 01:06:33 +0000
 category: space
-tag: space
+tags: space spooky
 published: true
 ---
 {% include breadcrumbs.html %}
