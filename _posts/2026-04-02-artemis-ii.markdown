@@ -23,7 +23,7 @@ While the launch of the mission was a momentous occassion for space enthusiasts,
 
 Most folks on the flight were not paying attention. I saw those around me react slightly confused. "What is this?", "There's a Moon mission?", and so on. 
 
-I checked the website home-pages of major mainstream news sources yesterday and today and found that Artemis is generally a side-story (literally on the website side-bar for some sites) if mentioned in the headlines at all. On some sites, I had to use the search-function to find coverage of Artemis. Most of the headlines this week are on global affairs on the economy, which, admittedly, are more important to folks' everyday lives.
+I checked the website home-pages of major mainstream news sources yesterday and today and found that Artemis is generally a side-story (literally on the website side-bar for some sites) if mentioned in the headlines at all. On some sites, I had to use the search-function to find coverage of Artemis. Most of the headlines this week are on global affairs or the economy, which, admittedly, are more important to folks' everyday lives.
 
 There's a thread on Reddit's r/ArtemisProgram titled [Why does it seem like nobody cares about this?](https://www.reddit.com/r/ArtemisProgram/comments/1s9x6es/why_does_it_seem_like_nobody_cares_about_this/).
 
