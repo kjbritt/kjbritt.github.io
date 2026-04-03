@@ -37,7 +37,11 @@ Is a crewed lunar _landing_ specifically needed to captivate the public interest
 
 Another Redditor, DuncanGilbert stated "I told my coworker about it and he thought it was a phenomenal waste of resources." At a time when cost-of-living seems to be rising ever higher amidst an affordability crisis and the headlines this week are covering surging oil prices, maybe, for everyday folks trying to make ends meet, the space program really does sound like lunacy. 
 
+## Related news
 
+- [Astronomers discover 'super-Earth' exoplanet with 'magma ocean' in the constellation Volans](https://kjbritt.github.io/space/2026/03/17/super-earth-magma-ocean.html)
+- [Scientists detect lithium pollution from space junk over Europe](https://kjbritt.github.io/space/2026/02/28/space-pollution.html)
+- [Alaska 14th in nation for alien abductions, study finds](https://kjbritt.github.io/space/2026/02/16/alien-abduction-odds.html)
 
 
 
