@@ -6,7 +6,7 @@ description: "In 1953 a police officer found evidence of a 'Monkey from Mars' al
 image: /docs/assets/images/Travel_meta.jpg
 date:   2025-03-20 01:06:33 +0000
 category: travel
-tags: travel spooky georgia
+tags: travel spooky history georgia
 ---
 {% include breadcrumbs.html %}
 
