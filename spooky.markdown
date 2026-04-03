@@ -3,14 +3,14 @@ layout: page
 title: Spooky
 permalink: spooky/
 tag: spooky
-image: /docs/assets/images/Space_meta.jpg
+image: /docs/assets/images/ghost_trestle.jpg
 ---
 <figure>
-  <img src="/docs/assets/images/oregon_spacex.jpg" alt="SpaceX Falcon 9 rocket burning up over Hillsboro, Oregon." />
-  <figcaption><i>SpaceX Falcon 9 rocket burning up during re-entry. Hillsboro, Oregon. March 2021.</i></figcaption>
+  <img src="/docs/assets/images/ghost_trestle.jpg" alt="A train trestle covered in graffiti." />
+  <figcaption><i>Ghost Trestle, with Satanic graffiti and a decaying white-tailed deer. Lenawee County, Michigan. April 2026</i></figcaption>
 </figure>
 
-Welcome to my new spooky blog! I like watching X-Files with no lights on and hoping the Smoking Man's in this one.
+Welcome to my new spooky blog!
 
 ## Recent news
 
