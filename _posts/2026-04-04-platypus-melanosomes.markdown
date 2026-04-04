@@ -27,7 +27,7 @@ The study examined the melanosomes from hairs of 126 different species of mammal
 
 The monotremes are a group of egg-laying mammals that include the platypus and four species of echidna. Yet, even the platypus' close relatives lacked the unique melanosome. "We found no evidence of hollow melanosomes in the other two monotreme genera or in any other mammal so far examined," Dobson wrote.
 
-## Digging deeper
+## The origins of mammalian coloration
 
 Dobson was also a co-author on a paper published last year, <cite><a href="https://www.science.org/doi/10.1126/science.ads9734">Mesozoic mammaliaforms illuminate the origins of pelage coloration</a></cite>.
 
