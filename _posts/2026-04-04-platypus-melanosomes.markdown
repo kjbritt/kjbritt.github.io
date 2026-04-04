@@ -17,10 +17,13 @@ Credit: Charles J. Sharp. Creative Commons Attribution-Share Alike 4.0 via Wikim
 
 It's no understatement to say that the platypus (_Ornithorhynchus anatinus_) is a weird animal. It's a mammal. But it lays eggs and has a bill like a duck. And uses electrolocation like a shark. And it's also venomous. Weird.
 
-A new study shows that the platypus is even weirder than that. 
+A new study in the Royal Society Publishing's _Biology Letters_ shows that the platypus is even weirder than that. 
 
-The study published on March 18, <cite><a href="https://royalsocietypublishing.org/rsbl/article/22/3/2025.0721/480922/A-unique-hollow-melanosome-morphology-in-the-hairs">A unique hollow melanosome morphology in the hairs of the platypus Ornithorhynchus anatinus</a></cite>, describes a new organelle never seen before in vertebrates. The paper's lead author, [Jessica L. Dobson](https://research.ugent.be/web/person/jessica-leigh-dobson-0/en) is a research explorer with Ghent University in Belgium. 
+The study, published on March 18, <cite><a href="https://royalsocietypublishing.org/rsbl/article/22/3/2025.0721/480922/A-unique-hollow-melanosome-morphology-in-the-hairs">A unique hollow melanosome morphology in the hairs of the platypus Ornithorhynchus anatinus</a></cite>, describes a new organelle never seen before in vertebrates. The paper's lead author, [Jessica L. Dobson](https://research.ugent.be/web/person/jessica-leigh-dobson-0/en) is a research explorer with Ghent University in Belgium. 
 
+## Digging deeper
+
+Dobson was also a co-author on a paper published last year, <cite><a href="https://www.science.org/doi/10.1126/science.ads9734">Mesozoic mammaliaforms illuminate the origins of pelage coloration</cite>.
 
 ## Related news
 
