@@ -13,7 +13,7 @@ published: true
 
 <blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:jpxscn2y2q4iy5agzxy4bry7/app.bsky.feed.post/3mioeux2zc22o" data-bluesky-cid="bafyreidlkv3gh6lbhqopj5syoy5qjpif4e4yba64yrltk5uy2w2m23exoq" data-bluesky-embed-color-mode="system"><p lang="en">Duck-billed platypus (Ornithorhynchus anatinus), Scottsdale, TAS, Australia. 
 
-Credit: Charles J. Sharp. Creative Commons Attribution-Share Alike 4.0 via Wikimedia Commons<br><br><a href="https://bsky.app/profile/did:plc:jpxscn2y2q4iy5agzxy4bry7/post/3mioeux2zc22o?ref_src=embed">[image or embed]</a></p>&mdash; Digging Deeper with K.J. Britt (<a href="https://bsky.app/profile/did:plc:jpxscn2y2q4iy5agzxy4bry7?ref_src=embed">@kjbritt.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:jpxscn2y2q4iy5agzxy4bry7/post/3mioeux2zc22o?ref_src=embed">April 4, 2026 at 5:50 AM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+Credit: Charles J. Sharp. Creative Commons Attribution-Share Alike 4.0 via Wikimedia Commons<br><br><a href="https://bsky.app/profile/did:plc:jpxscn2y2q4iy5agzxy4bry7/post/3mioeux2zc22o?ref_src=embed">[image or embed]</a></p>&mdash; Digging Deeper with K.J. Britt (<a href="https://bsky.app/profile/did:plc:jpxscn2y2q4iy5agzxy4bry7?ref_src=embed">@kjbritt.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:jpxscn2y2q4iy5agzxy4bry7/post/3mioeux2zc22o?ref_src=embed">April 4, 2026 at 5:50 AM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script><br>
 
 It's no understatement to say that the platypus (_Ornithorhynchus anatinus_) is a weird animal. It's a mammal. But it lays eggs and has a bill like a duck. And uses electrolocation like a shark. And it's also venomous. Weird.
 
@@ -29,7 +29,7 @@ The monotremes are a group of egg-laying mammals that include the platypus and f
 
 ## Digging deeper
 
-Dobson was also a co-author on a paper published last year, <cite><a href="https://www.science.org/doi/10.1126/science.ads9734">Mesozoic mammaliaforms illuminate the origins of pelage coloration</cite>.
+Dobson was also a co-author on a paper published last year, <cite><a href="https://www.science.org/doi/10.1126/science.ads9734">Mesozoic mammaliaforms illuminate the origins of pelage coloration</a></cite>.
 
 The study examined melanosomes from 116 species of living mammals to "reliably reconstruct the coloration of six Mesozoic mammaliaforms". Mammaliaforms are a clade of related animals that include all living mammals and some close, extinct, relatives. 
 
