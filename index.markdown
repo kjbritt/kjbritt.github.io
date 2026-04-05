@@ -32,7 +32,7 @@ Welcome! This is an science/technology news site and blog. I'm an Alaska-based s
 
 <p>The image links for the blog categories above were developed following guidance from the W3C Web Accessibility Initiative <a href="https://www.w3.org/WAI/tutorials/images/functional/">Function Images tutorial</a>.</p>
 
-<p>The skip links above were created following the <a href="https://webaim.org/techniques/skipnav/">WebAIM guidelines on skip navigation links</a></p>
+<p>The skip links above were created following the <a href="https://webaim.org/techniques/skipnav/">WebAIM guidelines on skip navigation links.</a></p>
 
 <h3 id="accessiblemenu">Accessible content menu</h3>
 
@@ -47,8 +47,21 @@ Welcome! This is an science/technology news site and blog. I'm an Alaska-based s
 			<li><a href="/wildlife/">Wildlife</a></li>
 		</ul>
 </li>
-<li><a href="#technologycontent">Technology</a></li>
-<li><a href="#humanitiescontent">Humanities</a></li>
+<li><a href="#technologycontent">Technology</a>
+        <ul>
+			<li><a href="/seo/">Search engine optimization</a></li>
+			<li><a href="/technology/">Technology</a></li>
+			<li><a href="/webdesign/">Web design</a></li>
+		</ul>
+ </li>       
+<li><a href="#humanitiescontent">Humanities</a>
+        <ul>
+			<li><a href="/classics/">Classics</a></li>
+			<li><a href="/history/">History</a></li>
+			<li><a href="/philosophy/">Philosophy</a></li>
+			<li><a href="/travel/">Travel</a></li>
+		</ul>
+</li>
 </ul>
 
 
