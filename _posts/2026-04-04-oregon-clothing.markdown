@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Monte Verde debunked? New analysis suggests famed 'pre-Clovis' site is actually thousands of years younger"
+title:  "12,000-year-old clothing found in Oregon"
 author: "Keenan J. Britt"
 description: "Monte Verde debunked? New analysis suggests famed 'pre-Clovis' site is actually thousands of years younger."
 image: /docs/assets/images/Archaeology_meta2.jpg
@@ -10,6 +10,10 @@ tags: archaeology oregon
 published: false
 ---
 {% include breadcrumbs.html %}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P8JNpGRZFS8?si=8j6Cb45Ze7URXiLX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 
 ## Related news
 
