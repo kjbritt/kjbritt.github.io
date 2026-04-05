@@ -6,17 +6,13 @@ layout: page
 list_title: "Latest posts"
 image: /docs/assets/images/petra_pfp.jpg
 ---
-Welcome! This is an active science/technology news blog as well as my personal portfolio site. I'm an Alaska-based science journalist, web developer and destination marketing professional. 
+Welcome! This is an science/technology news site and blog. I'm an Alaska-based science journalist, web developer and destination marketing professional. I'll be _digging deeper_ into the stories I cover. 
+<ul>
+<li><a href="#accessiblemenu">Skip to accessible content menu</a></li>
+</ul>
 
-This site is built in [Jekyll](https://jekyllrb.com/), a static-site generator written in the Ruby programming language. 
 
 ## Blog categories
-
-<ul>
-<li><a href="#sciencecontent">Science</a></li>
-<li><a href="#technologycontent">Technology</a></li>
-<li><a href="#humanitiescontent">Humanities</a></li>
-</ul>
 
 <h3 id="sciencecontent">Science</h3>
 
@@ -38,6 +34,21 @@ This site is built in [Jekyll](https://jekyllrb.com/), a static-site generator w
 
 <p>The skip links above were created following the <a href="https://webaim.org/techniques/skipnav/">WebAIM guidelines on skip navigation links</a></p>
 
+<h3 id="accessiblemenu">Accessible content menu</h3>
 
+<ul>
+<li><a href="#sciencecontent">Science</a>
+        <ul>
+			<li><a href="/archaeology/">Archaeology</a></li>
+			<li><a href="/geology/">Geology</a></li>
+			<li><a href="/oceans/">Oceans</a></li>
+			<li><a href="/paleontology/">Paleontology</a></li>
+            <li><a href="/space/">Space</a></li>
+			<li><a href="/wildlife/">Wildlife</a></li>
+		</ul>
+</li>
+<li><a href="#technologycontent">Technology</a></li>
+<li><a href="#humanitiescontent">Humanities</a></li>
+</ul>
 
 
