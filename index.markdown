@@ -13,9 +13,9 @@ This site is built in [Jekyll](https://jekyllrb.com/), a static-site generator w
 ## Blog categories
 
 <ul>
-<li><a href="#sciencecontent">Overview</a></li>
-<li><a href="#technologycontent">Overview</a></li>
-<li><a href="#humanitiescontent">Overview</a></li>
+<li><a href="#sciencecontent">Science</a></li>
+<li><a href="#technologycontent">Technology</a></li>
+<li><a href="#humanitiescontent">Humanities</a></li>
 </ul>
 
 <h3 id="sciencecontent">Science</h3>
