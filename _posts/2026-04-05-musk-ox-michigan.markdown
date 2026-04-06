@@ -27,7 +27,7 @@ Symbos cavifrons</i>
 
 Manchester is a small city in Washtenaw County, Michigan, the same county that is home to the University of Michigan's Ann Arbor campus (Go Blue!). _Symbos_ is a genus of extinct muskox, though today paleontologists generally consier _Symbos_ to be a synonym for the genus _Bootherium_, another extinct muskox genus (in layman's terms, the two are really the same species). Modern, living muskox are members of the species _Ovibos moschatus_. 
 
-The fossilized skull was first described over a century ago in a 1915 paper by Michigan paleontologist Ermine Cowles Case. The paper, titled <cite>On a Nearly Complete Skull of Symbos cavifrons Leidy from Michigan</cite> is [currently available online via Wikisource](https://en.wikisource.org/wiki/On_a_Nearly_Complete_Skull_of_Symbos_cavifrons_Leidy_from_Michigan).
+The fossilized skull was first described over a century ago in a 1915 paper by Michigan paleontologist Ermine Cowles Case. The paper, titled <cite>On a Nearly Complete Skull of Symbos cavifrons Leidy from Michigan</cite>, is [currently available online via Wikisource](https://en.wikisource.org/wiki/On_a_Nearly_Complete_Skull_of_Symbos_cavifrons_Leidy_from_Michigan).
 
 Case explained that the skull had been discovered at a local farm:
 
@@ -43,7 +43,7 @@ While Case follows the convention in considering the two as different species, h
 
 Paleontological debates aside, the fossil muskox skull is a fascinating reminder that muskox, though confined to Arctic and sub-Arctic regions today, once tromped all across North America, including Michigan. 
 
-Case remarked on the impressive range muskox had during the Ice Age, stating that "_Symbos_ ranged well over the United States in Pleistocene times, one specimen having been found as far south and west as Oklahoma." More recently, _Bootherium_ fossils have [been found as far south as Texas](https://kjbritt.github.io/paleontology/2026/03/02/musk-ox-texas.html). Another genus of extinct muskox, <i><a href="https://en.wikipedia.org/wiki/Speleotherium">Speleotherium</a></i> ranged into Mexico and Central America. 
+Case remarked on the impressive range muskox had during the Ice Age, stating that "_Symbos_ ranged well over the United States in Pleistocene times, one specimen having been found as far south and west as Oklahoma." More recently, _Bootherium_ fossils have [been found as far south as Texas](https://kjbritt.github.io/paleontology/2026/03/02/musk-ox-texas.html). Another genus of extinct muskox, <i><a href="https://en.wikipedia.org/wiki/Speleotherium">Speleotherium</a></i>, ranged into Mexico and Central America. 
 
 ## Related news
 
