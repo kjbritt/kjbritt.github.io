@@ -25,7 +25,7 @@ The label next to the skull reads:
 Manchester, Michigan<br>
 Symbos cavifrons</i>
 
-Manchester is a small city in Washtenaw County, Michigan, the same county that is home of the University of Michigan's Ann Arbor campus. _Symbos_ is a genus of extinct muskox, though today paleontologists generally consier _Symbos_ to be a synonym for the genus _Bootherium_, another extinct muskox genus (in layman's terms, the two are really the same species). Modern, living muskox are members of the species _Ovibos moschatus_. 
+Manchester is a small city in Washtenaw County, Michigan, the same county that is home to the University of Michigan's Ann Arbor campus (Go Blue!). _Symbos_ is a genus of extinct muskox, though today paleontologists generally consier _Symbos_ to be a synonym for the genus _Bootherium_, another extinct muskox genus (in layman's terms, the two are really the same species). Modern, living muskox are members of the species _Ovibos moschatus_. 
 
 The fossilized skull was first described over a century ago in a 1915 paper by Michigan paleontologist Ermine Cowles Case. The paper, titled <cite>On a Nearly Complete Skull of Symbos cavifrons Leidy from Michigan</cite> is [currently available online via Wikisource](https://en.wikisource.org/wiki/On_a_Nearly_Complete_Skull_of_Symbos_cavifrons_Leidy_from_Michigan).
 
