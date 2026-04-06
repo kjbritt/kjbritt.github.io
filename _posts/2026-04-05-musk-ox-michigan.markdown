@@ -18,6 +18,15 @@ published: true
 
 There's a fossilized muskox skull at the [University of Michigan Museum of Natural History](https://lsa.umich.edu/ummnh/). The skull is currently on display on the museum's first floor in the 'Exploring Michigan' gallery. 
 
+The label next to the skull reads:
+
+<i>Musk ox<br>
+15,000 years ago<br>
+Manchester, Michigan<br>
+Symbos cavifrons</i>
+
+
+
 ## Related news
 
 - [The muskox trawled up from the North Sea](https://kjbritt.github.io/paleontology/2026/03/13/musk-ox-north-sea.html)
