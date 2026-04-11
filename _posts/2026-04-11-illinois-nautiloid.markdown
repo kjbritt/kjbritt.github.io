@@ -21,11 +21,15 @@ The [Mazon Creek fossil beds](https://en.wikipedia.org/wiki/Mazon_Creek_fossil_b
 One enigmatic creature from the Mazon Creek fossil beds is known as <i><a href="https://en.wikipedia.org/wiki/Pohlsepia">Pohlsepia mazonensis</a></i>, known from a single fossil and traditionally interpreted as an early octopus. If indeed an octopus, <i>Pohlsepia</i> would be the oldest octopus in the world, predating other fossil octopus specimens known from the Jurassic Period by about 150 million years. 
 
 However, a number of paleontologists have long been skeptical of <i>Pohlsepia</i>. Now, a study published this month by the Royal Publishing Society has shown that <i>Pohlsepia</i> is not an octopus at all, but rather a nautiloid. The study, titled, <cite>Synchrotron data reveal nautiloid
-characters in Pohlsepia mazonensis, refuting a Palaeozoic origin for octobrachians</cite>, is [available online](https://royalsocietypublishing.org/rspb/article/293/2068/20252369/481251/Synchrotron-data-reveal-nautiloid-characters-in) with current open access. [Thomas Clemens](https://tgclements.com/), Ph.D., Lecturer in Invertebrate Zoology at the U.K.'s University of Reading, is the paper's lead author. 
+characters in Pohlsepia mazonensis, refuting a Palaeozoic origin for octobrachians</cite>, is [available online](https://royalsocietypublishing.org/rspb/article/293/2068/20252369/481251/Synchrotron-data-reveal-nautiloid-characters-in) with current open access. [Thomas Clements](https://tgclements.com/), Ph.D., Lecturer in Invertebrate Zoology at the U.K.'s University of Reading, is the paper's lead author. 
+
+Clements and his co-authors re-examined the <i>Pohlsepia</i> fossil using a scanning electron microscope, micro-CT scanning and synchrotron micro-X-ray fluorescence to determine as much as they could from the ambiguous fossil. 
+
+Ultimately, the synchrotron mapping revealed a preserved radula in the fossil. In cephalopods, radulae are specialized "teeth" used for feeding. Clements determined that the shape and fine details of the radula in <i>Pohlsepia</i> indicates the fossil creature is a nautiloid, and not a close relative of modern octopi. 
 
 ## Related news
 
 - [The muskox trawled up from the North Sea](https://kjbritt.github.io/paleontology/2026/03/13/musk-ox-north-sea.html)
-- [When muskox roamed Texas](https://kjbritt.github.io/paleontology/2026/03/02/musk-ox-texas.html)
+- [Miocene fossil ape 'Masripithecus' discovered in Egypt](https://kjbritt.github.io/paleontology/2026/03/26/miocene-ape-egypt.html)
 - [Archaeologists unearth Alaska's 14,000-year-old mammoth ivory workshop](https://kjbritt.github.io/archaeology/2026/02/08/holzman-site.html)
 
