@@ -25,11 +25,23 @@ characters in Pohlsepia mazonensis, refuting a Palaeozoic origin for octobrachia
 
 Clements and his co-authors re-examined the <i>Pohlsepia</i> fossil using a scanning electron microscope, micro-CT scanning and synchrotron micro-X-ray fluorescence to determine as much as they could from the ambiguous fossil. 
 
-Ultimately, the synchrotron mapping revealed a preserved radula in the fossil. In cephalopods, radulae are specialized "teeth" used for feeding. Clements determined that the shape and fine details of the radula in <i>Pohlsepia</i> indicates the fossil creature is a nautiloid, and not a close relative of modern octopi. 
+Ultimately, the synchrotron mapping revealed a preserved radula in the fossil. In cephalopods, radulae are specialized "teeth" used for feeding. Clements determined that the shape and fine details of the radula in <i>Pohlsepia</i> indicates the fossil creature is a nautiloid, and not a close relative of modern octopi. It seems that at some point in the decay process, the <i>Pohlsepia</i> fossil lost its shell, leading to paleontologists mistaking it for an octopus a few hundred million years later.
+
+## Other creatures from the Mazon Creek fossil beds
+
+### Paleocadmus
+
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:jpxscn2y2q4iy5agzxy4bry7/app.bsky.feed.post/3mjbbb46smk2e" data-bluesky-cid="bafyreihq25dwv66gfc2xibyffxzxy3y4rnefvvuvajiyek4y7apphihf3e" data-bluesky-embed-color-mode="system"><p lang="en">Nautilus in Berlin Zoo Aquarium, 2007. 
+J. Baecker, public domain, via Wikimedia Commons<br><br><a href="https://bsky.app/profile/did:plc:jpxscn2y2q4iy5agzxy4bry7/post/3mjbbb46smk2e?ref_src=embed">[image or embed]</a></p>&mdash; Digging Deeper with K.J. Britt (<a href="https://bsky.app/profile/did:plc:jpxscn2y2q4iy5agzxy4bry7?ref_src=embed">@kjbritt.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:jpxscn2y2q4iy5agzxy4bry7/post/3mjbbb46smk2e?ref_src=embed">April 11, 2026 at 6:06 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+
+Fossilized radulae have been found in the Mazon Creek fossil beds and are assigned to the genus <i><a href="https://en.wikipedia.org/wiki/Paleocadmus">Paleocadmus</a></i>. Analysis of these radulae suggest that <i>Paleocadmus</i> was a nautiloid and a relative of the modern <a href="https://en.wikipedia.org/wiki/Chambered_nautilus">chambered nautilus</a>.
+
+After determining <i>Pohlsepia</i> to be a nautiloid, Clements suggested that the species is a junior synonym of <i>Paleocadmus pohli</i>. In scientific naming, if two differnet species turn out to be really the same species, scientists will refer to the species by which ever name is older. Although only from radulae, <i>Paleocadmus</i> was described by scientists in 1979, whereas <i>Pohlsepia</i> was only named in 2000. 
+
 
 ## Related news
 
-- [The muskox trawled up from the North Sea](https://kjbritt.github.io/paleontology/2026/03/13/musk-ox-north-sea.html)
+- [When muskox tromped through Michigan](https://kjbritt.github.io/paleontology/2026/04/05/musk-ox-michigan.html)
 - [Miocene fossil ape 'Masripithecus' discovered in Egypt](https://kjbritt.github.io/paleontology/2026/03/26/miocene-ape-egypt.html)
-- [Archaeologists unearth Alaska's 14,000-year-old mammoth ivory workshop](https://kjbritt.github.io/archaeology/2026/02/08/holzman-site.html)
+- [Fossil tooth found in North Dakota suggests mosasaurs hunted in freshwater rivers](https://kjbritt.github.io/paleontology/2026/02/10/mosasaur-tooth.html)
 
