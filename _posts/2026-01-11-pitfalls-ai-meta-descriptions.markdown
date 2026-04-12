@@ -3,10 +3,10 @@ layout: post
 title:  "The pitfalls of using AI to write SEO meta descriptions"
 author: "Keenan J. Britt"
 description: "Are you using AI to automate your SEO efforts? Beware these three common pitfalls if you're using LLMs to write meta descriptions for your web pages."
-image: https://upload.wikimedia.org/wikipedia/commons/c/ce/Cartucho_de_Atari_2600_del_juego_Pitfall.jpg
+image: /docs/assets/images/SEO_meta.jpg
 date:   2026-01-11 08:06:33 +0000
 category: seo
-tag: seo
+tags: seo ai
 published: true
 ---
 {% include breadcrumbs.html %}
@@ -53,5 +53,3 @@ No matter how well-written your meta descriptions are, there's no guarantee that
 You'll still want to optimize your meta descriptions for the important pages on your website, but it may not be worth your time to write something special for each page on a large website, especially if many of those pages don't contain content you're trying to rank for as part of your SEO strategy. 
 
 Having an LLM analyze those less important pages to produce meta descriptions that you have to then fact-check, edit and shorten would become a significant time burden. If a particular web page isn't part of your SEO strategy, feel free to let the search engines write their own snippets and focus your time on more productive SEO efforts. 
-
-_The meta image used on this webpage is courtesy of JoRgE-1987, under a Creative Commons ASA 4.0 International license, [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cartucho_de_Atari_2600_del_juego_Pitfall.jpg)._
