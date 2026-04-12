@@ -46,7 +46,14 @@ The Mazon Creek fossil beds are also the exclusive home of Illinois' state fossi
 
 The Tully monster is a bizarre creature that has left paleontologists confounded for decades. It appears to be have certain features similar to cephalopods, worms and jawless vertebrates, yet, at the same time, be none of those things.
 
-Clements was the lead author on a 2016 study, <cite><a href="https://pubmed.ncbi.nlm.nih.gov/27074512/">The eyes of Tullimonstrum reveal a vertebrate affinity</a></cite> that argued that Tully monster was a vertebrate. Other scientists, however, have disputed this. 
+Clements was the lead author on a 2016 study, <cite><a href="https://pubmed.ncbi.nlm.nih.gov/27074512/">The eyes of Tullimonstrum reveal a vertebrate affinity</a></cite> that argued that Tully monster was a vertebrate. Other scientists, however, have disputed this.
+
+### Bandringa shark
+
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:jpxscn2y2q4iy5agzxy4bry7/app.bsky.feed.post/3mjbibcubvk2e" data-bluesky-cid="bafyreidrjn6nyr23f6bsa6e6vhhov2eetp5l43hxoeistlgpj6ar5paq7e" data-bluesky-embed-color-mode="system"><p lang="en">Bandringa rayi fossil, Mazon Creek, Illinois
+James St. John, CC BY 2.0, via Wikimedia Commons<br><br><a href="https://bsky.app/profile/did:plc:jpxscn2y2q4iy5agzxy4bry7/post/3mjbibcubvk2e?ref_src=embed">[image or embed]</a></p>&mdash; Digging Deeper with K.J. Britt (<a href="https://bsky.app/profile/did:plc:jpxscn2y2q4iy5agzxy4bry7?ref_src=embed">@kjbritt.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:jpxscn2y2q4iy5agzxy4bry7/post/3mjbibcubvk2e?ref_src=embed">April 11, 2026 at 8:11 PM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+
+Another species found only in the Mazon Creek fossil beds is <i><a href="https://en.wikipedia.org/wiki/Bandringa">Bandringa rayi</a></i>, a fossil shark with an unusually long rostrum (nose).
 
 ## Related news
 
