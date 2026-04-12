@@ -38,6 +38,15 @@ Fossilized radulae have been found in the Mazon Creek fossil beds and are assign
 
 After determining <i>Pohlsepia</i> to be a nautiloid, Clements suggested that the species is a junior synonym of <i>Paleocadmus pohli</i>. In scientific naming, if two differnet species turn out to be really the same species, scientists will refer to the species by which ever name is older. Although only from radulae, <i>Paleocadmus</i> was described by scientists in 1979, whereas <i>Pohlsepia</i> was only named in 2000. 
 
+### Tully monster
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/riQPxKG5M1s?si=mngGEW1wDuBJVYhu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+The Mazon Creek fossil beds are also the exclusive home of Illinois' state fossil, the Tully monster (<i><a href="https://en.wikipedia.org/wiki/Tullimonstrum">Tullimonstrum gregarium</a></i>).
+
+The Tully monster is a bizarre creature that has left paleontologists confounded for decades. It appears to be have certain features similar to cephalopods, worms and jawless vertebrates, yet, at the same time, be none of those things.
+
+Clements was the lead author on a 2016 study, <cite><a href="https://pubmed.ncbi.nlm.nih.gov/27074512/">The eyes of Tullimonstrum reveal a vertebrate affinity</a></cite> that argued that Tully monster was a vertebrate. Other scientists, however, have disputed this. 
 
 ## Related news
 
