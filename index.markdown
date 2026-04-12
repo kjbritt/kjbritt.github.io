@@ -49,6 +49,7 @@ Welcome! This is an science/technology news site and blog. I'm an Alaska-based s
 </li>
 <li><a href="#technologycontent">Technology</a>
         <ul>
+			<li><a href="/ai/">Artificial intelligence</a></li>
 			<li><a href="/seo/">Search engine optimization</a></li>
 			<li><a href="/technology/">Technology</a></li>
 			<li><a href="/webdesign/">Web design</a></li>
