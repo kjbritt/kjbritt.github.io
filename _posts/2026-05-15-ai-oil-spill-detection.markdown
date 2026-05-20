@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Finding new ways to treat wastewater"
+title:  "Can AI help detect marine oil spills?"
 author: "Keenan J. Britt"
 description: "Can AI help protect Alaska’s coastal waters from marine oil spills? Postdoctoral researcher Mohamed Elsheref is the lead author on a scientific paper published last month looking at this question."
 image: /docs/assets/images/AI_meta.jpg
