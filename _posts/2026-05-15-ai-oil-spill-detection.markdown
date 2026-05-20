@@ -2,11 +2,11 @@
 layout: post
 title:  "Finding new ways to treat wastewater"
 author: "Keenan J. Britt"
-description: "M. S. I. Masum, a master’s student in civil engineering, is exploring new ways to treat wastewater — research that may hold the potential to benefit rural communities across Alaska, which often lack water and sewer service."
-image: /docs/assets/images/Technology_meta.jpg
-date:   2026-04-13 01:06:33 +0000
-category: technology
-tag: technology
+description: "Can AI help protect Alaska’s coastal waters from marine oil spills? Postdoctoral researcher Mohamed Elsheref is the lead author on a scientific paper published last month looking at this question."
+image: /docs/assets/images/AI_meta.jpg
+date:   2026-05-15 01:06:33 +0000
+category: ai
+tag: ai
 ---
 
 Can AI help protect Alaska’s coastal waters from marine oil spills? Postdoctoral researcher Mohamed Elsheref is the lead author on a scientific paper published last month looking at this question.
