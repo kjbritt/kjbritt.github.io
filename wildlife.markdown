@@ -11,7 +11,7 @@ tag: wildlife
   <figcaption><em>Eider, the world's prettiest musk ox, Palmer, Alaska, March 2025</em></figcaption>
 </figure>
 
-Welcome to my wildlife blog! From wolves to whales, moose to musk oxen, I've been honored to have had encounters with many of Alaska's iconic wildlife species. 
+Welcome to my wildlife blog! 
 
 ## Recent news
 
