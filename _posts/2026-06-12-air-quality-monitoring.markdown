@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Introducing the next generation to philosophy"
+title:  "Involving Alaska’s rural communities in air quality monitoring"
 author: "Keenan J. Britt"
 description: "Micah Hahn is the principal investigator and a co-author on a recently published study about involving Alaska's rural communities in low-cost air quality monitoring."
 image: /docs/assets/images/Technology_meta.jpg
