@@ -6,7 +6,7 @@ description: "This August, Raymond Anthony, Ph.D., professor of philosophy, was 
 image: /docs/assets/images/carpenter_site_views.jpg
 date:   2024-11-25 01:06:33 +0000
 category: philosophy
-tag: philosophy
+tags: philosophy health
 ---
 {% include breadcrumbs.html %}
 
