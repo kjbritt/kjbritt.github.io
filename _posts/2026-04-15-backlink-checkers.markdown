@@ -11,7 +11,7 @@ published: false
 ---
 {% include breadcrumbs.html %}
 
-Earning backlinks to your website is a critical element in search engine optimization (SEO) efforts.
+Earning backlinks to your website is a critical element in search engine optimization (SEO) efforts. Backlinks - when another website links to a page on your website - help establish that ever critical SEO "authority" that search engines use when ranking pages. 
 
 ## Free ways to check for backlinks
 
