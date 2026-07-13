@@ -4,7 +4,7 @@ title:  "Check for backlinks easily with Bing Webmaster Tools"
 author: "Keenan J. Britt"
 description: "Don't pay to see your SEO backlinks! Bing Webmaster Tools can give you free insights."
 image: /docs/assets/images/SEO_meta.jpg
-date:   2026-04-15 01:06:33 +0000
+date:   2026-07-13 01:06:33 +0000
 category: seo
 tag: seo
 published: false
@@ -13,9 +13,13 @@ published: false
 
 Earning backlinks to your website is a critical element in search engine optimization (SEO) efforts. Backlinks - when another website links to a page on your website - help establish that ever critical SEO "authority" that search engines use when ranking pages. 
 
-Google Search console. 
+But how do you see when another site links back to your website? Unfortunately, there are a lot of paid SEO tools out there that will charge you to see which other sites linked to yours. However, there's no need to pay for these, as common SEO tools provide this information for free.
 
-Microsoft Bing's [Webmaster Tools](https://www.bing.com/webmasters/about) provide free resources for web managers, including SEO tools. Microsoft Bing is a search engine, similar to Google. Once you create an account and verify ownership of your site, you can start receiving valuable information from Bing Webmaster Tools.
+One tool in every SEO professional's toolset is [Google Search Console](https://search.google.com/search-console/links). Here, you can see backlinks under a section called [Links](https://search.google.com/search-console/links), which can be found by scrolling down on the left-hand side navigation menu. 
+
+Another free tool is with Microsoft's Bing Webmaster Tools. 
+
+[Bing Webmaster Tools](https://www.bing.com/webmasters/about) provide free resources for web managers, including SEO tools. Microsoft Bing is a search engine, similar to Google. Once you create an account and verify ownership of your site, you can start receiving valuable information from Bing Webmaster Tools.
 
 Information on backlinks is easy to find on Webmaster Tools - just check the tab on the left-hand menu labeled "Backlinks". Bing lets you see which web pages on your website have earned a backlink and which external websites and web pages those backlinks came from. Bing also shows which anchor text was used in those links, which can be another helpful feature. 
 
