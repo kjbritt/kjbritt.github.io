@@ -6,7 +6,7 @@ description: "Welcome to my Health blog."
 tag: health
 ---
 
-Welcome to my Health blog. 
+Welcome to my health blog. I generally don't cover stories related to public health, but I'll occasionally add new content here. 
 
 ## Recent news
 
