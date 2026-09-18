@@ -14,6 +14,7 @@ With public concerns about artificial intelligence, data centers and mass data c
 
 Over the years, I've seen a number of online courses about ethical uses of data. These courses tend to focus on similar examples and issues, like bias in AI models or concerns about data privacy, and discuss why concerns exist. While these online courses offer a practical introduction to and awareness of ethical issues, they never delve deep into _ethics_ proper. 
 
+I recently completed new course released last month LinkedIn Learning, _Data Ethics Fundamentals_, which offers a more comprehensive approach.
 
 
 Full course available online. 
