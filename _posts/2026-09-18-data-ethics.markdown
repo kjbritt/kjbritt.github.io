@@ -16,11 +16,11 @@ Over the years, I've seen a number of online courses about ethical uses of data.
 
 
 
-Full story available online via UAA Green & Gold News. 
+Full course available online. 
 
-<button onclick="newTab()" style="background-color: #7f7053; color: white; padding: 15px 32px; border: none; border-radius: 8px; cursor: pointer; font-size: 16px;">Full story</button>
+<button onclick="newTab()" style="background-color: #7f7053; color: white; padding: 15px 32px; border: none; border-radius: 8px; cursor: pointer; font-size: 16px;">Full course</button>
 <script>
 function newTab() {
-  window.open("https://www.uaa.alaska.edu/news/archive/2026/08/practical-guide-bird-bones.cshtml");
+  window.open("https://www.linkedin.com/learning/data-ethics-fundamentals/");
 }
 </script>
