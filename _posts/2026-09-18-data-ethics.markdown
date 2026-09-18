@@ -7,7 +7,7 @@ image: /docs/assets/images/Philosophy_meta.jpg
 date:   2026-09-18 01:06:33 +0000
 category: philosophy
 tags: philosophy ai
-pubished: false
+published: false
 ---
 
 With public concerns about artificial intelligence, data centers and mass data collection growing, it's no surprise that the need for data ethics training is also growing.
