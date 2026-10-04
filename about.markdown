@@ -16,15 +16,21 @@ I'm an Alaska-based science journalist, web developer and destination marketing 
 
 ### Programming
 
-- [Django for Everybody](https://coursera.org/share/126e43727b6f885edf58071265c8f812), Coursera.org/University of Michigan, 2023
-- [PostgreSQL for Everybody](https://www.coursera.org/account/accomplishments/specialization/FZG7GFBU45CT), Coursera.org/University of Michigan, 2021
-- [Web Design for Everybody](https://coursera.org/share/5bc24eb277e8bc855ff4ec8036adb282), Coursera.org/University of Michigan, 2021
-- [Python for Everybody](https://coursera.org/share/66132b2c4a8cf769654cdaf8466d4e12), Coursera.org/University of Michigan, 2021
-- [Introduction to Computer Science and Programming Using Python](https://courses.edx.org/certificates/7d34324c4a1e4178a47ee3a11b02a7ea), edX.org/MITx, 2019
+- [Become a JavaScript Developer](https://www.linkedin.com/learning/certificates/1fddc98f317b2546b89ccf5f6a850bd2f502198d004ecc70ba2e1fd167ba8cf8?trk=share_certificate), LinkedIn Learning, 2026
+- [Django for Everybody](https://coursera.org/share/126e43727b6f885edf58071265c8f812), University of Michigan, 2023
+- [PostgreSQL for Everybody](https://www.coursera.org/account/accomplishments/specialization/FZG7GFBU45CT), University of Michigan, 2021
+- [Web Design for Everybody](https://coursera.org/share/5bc24eb277e8bc855ff4ec8036adb282), University of Michigan, 2021
+- [Python for Everybody](https://coursera.org/share/66132b2c4a8cf769654cdaf8466d4e12), University of Michigan, 2021
+- [Introduction to Computer Science and Programming Using Python](https://courses.edx.org/certificates/7d34324c4a1e4178a47ee3a11b02a7ea), MITx, 2019
 
 ### Mathematics
 
-- [Statistics with Python](https://coursera.org/share/f9fb6b62e0f93a208e0aa13e4562a8fe), Coursera.org/University of Michigan, 2020
-- [Introduction to Discrete Mathematics for Computer Science](https://www.coursera.org/account/accomplishments/specialization/NJAUQJR9JCVZ), Coursera.org/UC San Diego, 2020
-- [Linear Algebra - Foundations to Frontiers](https://courses.edx.org/certificates/a8685b89efc54406b68cb963655fe216), edX.org/UT Austin, 2020
+- [Statistics with Python](https://coursera.org/share/f9fb6b62e0f93a208e0aa13e4562a8fe), University of Michigan, 2020
+- [Introduction to Discrete Mathematics for Computer Science](https://www.coursera.org/account/accomplishments/specialization/NJAUQJR9JCVZ), UC San Diego, 2020
+- [Linear Algebra - Foundations to Frontiers](https://courses.edx.org/certificates/a8685b89efc54406b68cb963655fe216), UT Austin, 2020
 
+### Information Technology
+
+- [Internet History, Technology, and Security](https://www.coursera.org/account/accomplishments/verify/YB9KGF74ZHGH), University of Michigan, 2019 
+- [IT Fundamentals for Cybersecurity](https://www.coursera.org/account/accomplishments/specialization/79YHSCN3SCFN), IBM, 2019
+- [Google IT Support](https://www.coursera.org/account/accomplishments/specialization/66N3PDYHRK5M), Google, 2019
