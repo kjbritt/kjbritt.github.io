@@ -14,7 +14,8 @@ published: false
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0VPKko6s3pFtVw7F9pfXpuYGJFEGNvS7pYU58A7ZfSEE3QeXZTfTxMwa8RZeM95Jql%26id%3D100091816783249&show_text=false&width=500" width="500" height="333" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 <i>A steppe bison bone found at Shég’ Xdaltth’í’; hearth oven feature in background.</i>
 
-Much of the American Midwest, including parts of Illinois, were covered in shallow seas 300 million years ago during the Carboniferous Period. During that time, the ancient waters were home creatures that would seem exotic and bizarre in the Midwest today, though many of these creatures have living relatives today.
+Last week, the journal _Science Advances_ published a report on a Late Pleistocene era archaeological site from Interior Alaska. The paper, titled "Highlights from an early base camp in Beringia 13,800 years ago: Shég’ Xdaltth’í’ and the Late Pleistocene peopling of Alaska".
+
 
 The [Mazon Creek fossil beds](https://en.wikipedia.org/wiki/Mazon_Creek_fossil_beds) in northern Illinois preserve many of strange creatures from this time. The Mazon Creek fossil beds are what paleontologists call a <i>lagerstätte</i> - an area that has excellent fossil preservation, including for soft-bodied organisms. Other famous lagerstätte locations include the [Burgess Shale](https://en.wikipedia.org/wiki/Burgess_Shale) in British Columbia and the [Solnhofen Limestone](https://en.wikipedia.org/wiki/Solnhofen_Limestone) in Bavaria. 
 
@@ -57,6 +58,6 @@ Another species found only in the Mazon Creek fossil beds is <i><a href="https:/
 
 ## Related news
 
-- [When muskox tromped through Michigan](https://kjbritt.github.io/paleontology/2026/04/05/musk-ox-michigan.html)
-- [Miocene fossil ape 'Masripithecus' discovered in Egypt](https://kjbritt.github.io/paleontology/2026/03/26/miocene-ape-egypt.html)
-- [Fossil tooth found in North Dakota suggests mosasaurs hunted in freshwater rivers](https://kjbritt.github.io/paleontology/2026/02/10/mosasaur-tooth.html)
+- [Archaeologists unearth Alaska's 14,000-year-old mammoth ivory workshop](https://kjbritt.github.io/archaeology/2026/02/08/holzman-site.html)
+- [Monte Verde debunked? New analysis suggests famed 'pre-Clovis' site is actually thousands of years younger](https://kjbritt.github.io/archaeology/2026/03/20/monte-verde-debunked.html)
+- [Paleo-Inuit seafarers reached remote Greenlandic islands 4,500 years ago, archaeologists reveal](https://kjbritt.github.io/archaeology/2026/02/13/greenland-kitsissut.html)
