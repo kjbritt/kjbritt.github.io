@@ -18,6 +18,11 @@ Last week, the journal _Science Advances_ published a report on a Late Pleistoce
 
 The site, Shég’ Xdaltth’í’, is located a few dozen miles south of Fairbanks, Alaska, putting it in the same general region as other ancient Interior Alaska sites, like Upward Sun, Swan Creek and the cluster of sites along the Shaw Creek that includes Broken Mammoth, Mead, Carpenter and Holzman. 
 
+Shég’ Xdaltth’í’ yielded intriguing artifacts left behind by the site's Pleistocene residents, including an impressive assemblage of lithic ("stone tool") artifacts, and a layer of "charcoal-stained sediment encompassing a hearth, small pit feature, and post mold" which Graf interpreted as "an artificial shelter, most likely a partially covered lean-to structure that opened to the south." LiveScience hailed the ancient shelter as "<a href="https://www.livescience.com/archaeology/americas/archaeologists-discover-the-oldest-dwelling-in-the-western-hemisphere-at-a-13-800-year-old-site-in-alaska">the oldest dwelling in the Western Hemisphere</a>."
+
+However, some
+
+
 ## Related news
 
 - [Archaeologists unearth Alaska's 14,000-year-old mammoth ivory workshop](https://kjbritt.github.io/archaeology/2026/02/08/holzman-site.html)
