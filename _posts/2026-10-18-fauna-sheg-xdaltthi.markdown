@@ -16,6 +16,8 @@ published: true
 
 Last week, the journal _Science Advances_ published a report on a Late Pleistocene era archaeological site from Interior Alaska. The paper, titled "<a href="https://www.science.org/doi/10.1126/sciadv.aeh0802">Highlights from an early base camp in Beringia 13,800 years ago: Shég’ Xdaltth’í’ and the Late Pleistocene peopling of Alaska</a>", was authored by <a href="https://anthropology.ku.edu/people/kelly-e-graf">Kelly Graf</a>, Ph.D., from the University of Kansas and a team of 15 co-authors.
 
+The site, Shég’ Xdaltth’í’, is located a few dozen miles south of Fairbanks, Alaska, putting it in the same general region as other ancient Interior Alaska sites, like Upward Sun, Swan Creek and the cluster of sites along the Shaw Creek that includes Broken Mammoth, Mead, Carpenter and Holzman. 
+
 ## Related news
 
 - [Archaeologists unearth Alaska's 14,000-year-old mammoth ivory workshop](https://kjbritt.github.io/archaeology/2026/02/08/holzman-site.html)
