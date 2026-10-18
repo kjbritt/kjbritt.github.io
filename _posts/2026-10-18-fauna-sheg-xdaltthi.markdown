@@ -25,6 +25,7 @@ However, some of the most surprising finds are among the animal bone artifacts r
 ## Fantastic fossil finds
 
 <table>
+  <caption>Identified faunal remains from Shég’ Xdaltth’í’.</caption>
   <thead>
     <tr>
       <th>Identification</th>
