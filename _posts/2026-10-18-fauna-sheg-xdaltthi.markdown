@@ -25,7 +25,7 @@ However, some of the most surprising finds are among the animal bone artifacts r
 ## Fantastic fossil finds
 
 <table>
-  <caption>Identified faunal remains from Shég’ Xdaltth’í’.</caption>
+  <caption><b>Identified faunal remains from Shég’ Xdaltth’í’.</b></caption>
   <thead>
     <tr>
       <th>Identification</th>
@@ -34,11 +34,11 @@ However, some of the most surprising finds are among the animal bone artifacts r
   </thead>
   <tbody>
     <tr>
-      <td>Bison priscus</td>
+      <td><i>Bison priscus</i></td>
       <td>164</td>
     </tr>
     <tr>
-      <td>Ovibos moschatus</td>
+      <td><i>Ovibos moschatus</i></td>
       <td>1</td>
     </tr>
     <tr>
@@ -46,14 +46,14 @@ However, some of the most surprising finds are among the animal bone artifacts r
       <td>7</td>
     </tr>
     <tr>
-      <td>Rangifer tarandus</td>
+      <td><i>Rangifer tarandus</i></td>
       <td>16</td>
     </tr>
     <tr>
-      <td>Mammuthus primigenius</td>
+      <td><i>Mammuthus primigenius</i></td>
       <td>12</td>
       <tr>
-      <td>Equus sp.</td>
+      <td><i>Equus</i> sp.</td>
       <td>2</td>
     </tr>
     </tr>
