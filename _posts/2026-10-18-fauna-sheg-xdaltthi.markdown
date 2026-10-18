@@ -22,6 +22,45 @@ Shég’ Xdaltth’í’ yielded intriguing artifacts left behind by the site's 
 
 However, some of the most surprising finds are among the animal bone artifacts recovered at Shég’ Xdaltth’í’. 
 
+## Fantastic fossil finds
+
+<table>
+  <thead>
+    <tr>
+      <th>Identification</th>
+      <th>NISP</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Bison priscus</td>
+      <td>164</td>
+    </tr>
+    <tr>
+      <td>Ovibos moschatus</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Bovidae</td>
+      <td>7</td>
+    </tr>
+    <tr>
+      <td>Rangifer tarandus</td>
+      <td>16</td>
+    </tr>
+    <tr>
+      <td>Mammuthus primigenius</td>
+      <td>12</td>
+      <tr>
+      <td>Equus sp.</td>
+      <td>2</td>
+    </tr>
+    </tr>
+  </tbody>
+</table>
+
+## A dog-gone discovery
+
 ## Related news
 
 - [Archaeologists unearth Alaska's 14,000-year-old mammoth ivory workshop](https://kjbritt.github.io/archaeology/2026/02/08/holzman-site.html)
