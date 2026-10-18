@@ -60,6 +60,8 @@ However, some of the most surprising finds are among the animal bone artifacts r
   </tbody>
 </table>
 
+A complete table of the identified faunal remains (animal bones) from the site is available in the report, though the first few rows are given here. The table includes taxonomic identification (to species, genus or family, as best as the team was able) as well as the <a href="https://en.wikipedia.org/wiki/Number_of_Identified_Specimens">number of identified specimens</a> (NISP). 
+
 ## A dog-gone discovery
 
 ## Related news
