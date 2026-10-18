@@ -20,8 +20,7 @@ The site, Shég’ Xdaltth’í’, is located a few dozen miles south of Fairba
 
 Shég’ Xdaltth’í’ yielded intriguing artifacts left behind by the site's Pleistocene residents, including an impressive assemblage of lithic ("stone tool") artifacts, and a layer of "charcoal-stained sediment encompassing a hearth, small pit feature, and post mold" which Graf interpreted as "an artificial shelter, most likely a partially covered lean-to structure that opened to the south." LiveScience hailed the ancient shelter as "<a href="https://www.livescience.com/archaeology/americas/archaeologists-discover-the-oldest-dwelling-in-the-western-hemisphere-at-a-13-800-year-old-site-in-alaska">the oldest dwelling in the Western Hemisphere</a>."
 
-However, some
-
+However, some of the most surprising finds are among the animal bone artifacts recovered at Shég’ Xdaltth’í’. 
 
 ## Related news
 
