@@ -5,8 +5,8 @@ author: "Keenan J. Britt"
 description: "A Pleistocene site in Interior Alaska may hold the bones of the first domesticated dogs in the New World."
 image: /docs/assets/images/Archaeology_meta2.jpg
 date:   2026-10-18 01:06:33 +0000
-category: archaeology paleontology
-tags: archaeology alaska
+category: archaeology
+tags: archaeology paleontology alaska
 published: true
 ---
 {% include breadcrumbs.html %}
