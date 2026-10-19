@@ -3,7 +3,7 @@ layout: post
 title:  "The surprising animal bones from Alaska's 13,800-year-old Shég’ Xdaltth’í’ site"
 author: "Keenan J. Britt"
 description: "A Pleistocene site in Interior Alaska may hold the bones of the first domesticated dogs in the New World."
-image: /docs/assets/images/Archaeology_meta.jpg
+image: /docs/assets/images/Archaeology_meta2.jpg
 date:   2026-10-18 01:06:33 +0000
 category: archaeology paleontology
 tags: archaeology alaska
