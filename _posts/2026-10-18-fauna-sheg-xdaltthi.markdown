@@ -68,7 +68,15 @@ However, Shég’ Xdaltth’í’ also yielded numerous specimens from long exti
 
 The authors note that the "mammal fraction is diverse" in the assemblage. 
 
-The presence of musk ox (<i>Ovibos moschatus</i>) is worth note, as musk ox bones appear to be rare, generally speaking, in faunal assemblages from the time and region. Musk ox survived the Pleistocene only to go extinct in Alaska in the 19th century and re-introduced in the 20th. 
+The presence of musk ox (<i>Ovibos moschatus</i>) is worth note, as musk ox bones appear to be rare, generally speaking, in faunal assemblages from the time and region. Musk ox survived the Pleistocene only to go extinct in Alaska in the 19th century and re-introduced in the 20th.
+
+## A dog-gone discovery
+
+Another suprise in the fauna assemblage came from the presence of canids. The team identified 15 specimens of wolf (<i>Canis lups</i>), and another 9 specimens that the team could only identify to the genus level (<i>Canis</i> sp.). 
+
+It's possible that some of these canid remains represent not wolves, but the first domesticated dogs (<i>Canis familiaris</i>) in the New World, though the authors expressed caution. They note:
+
+<blockquote>the site’s human inhabitants may have been dog owners. However, defining precisely when and where the domestication process unfolded is difficult because wolves and earliest dogs are potentially indistinguishable in the archaeological record</blockquote>
 
 ## Related news
 
