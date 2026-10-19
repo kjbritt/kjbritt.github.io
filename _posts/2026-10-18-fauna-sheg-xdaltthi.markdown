@@ -62,7 +62,13 @@ However, some of the most surprising finds are among the animal bone artifacts r
 
 A complete table of the identified faunal remains (animal bones) from the site is available in the report, though the first few rows are given here. The table includes taxonomic identification (to species, genus or family, as best as the team was able) as well as the <a href="https://en.wikipedia.org/wiki/Number_of_Identified_Specimens">number of identified specimens</a> (NISP). 
 
-## A dog-gone discovery
+The faunal remains included many species that would be familiar to Alaskans today, including various birds, hare, lynx and caribou (<i>Rangifer tarandus</i>). 
+
+However, Shég’ Xdaltth’í’ also yielded numerous specimens from long extinct animals, presenting a picture of what how different Alaska was in the Pleistocene. The Pleistocene fauna included the woolly mammoth (<i>Mammuthus primigenius</i>), steppe bison (<i>Bison priscus</i>) and horse (<i>Equus</i>). 
+
+The authors note that the "mammal fraction is diverse" in the assemblage. 
+
+The presence of musk ox (<i>Ovibos moschatus</i>) is worth note, as musk ox bones appear to be rare, generally speaking, in faunal assemblages from the time and region. Musk ox survived the Pleistocene only to go extinct in Alaska in the 19th century and re-introduced in the 20th. 
 
 ## Related news
 
