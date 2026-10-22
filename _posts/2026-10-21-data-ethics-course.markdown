@@ -39,3 +39,10 @@ A deontologist, according to Mesa, would not share patient data without the pati
 On the contrary, a utilitarian, Mesa explained, would be willing to share the data without patient approval if the potential benefits to society were greater than the issues concerning data privacy.
 
 These different approaches can help those handling data in fields ranging from tech to business to medicine to education better evaluate their own actions. 
+
+## Related news
+
+- [Stoicism for computer programmers: Epictetus on measuring progress](https://kjbritt.github.io/philosophy/2026/03/21/epictetus-progress.html)
+- [Introducing the next generation to philosophy](https://kjbritt.github.io/philosophy/2026/06/04/introducing-philosophy.html)
+- [Making sense of ‘place’](https://kjbritt.github.io/philosophy/2026/05/21/making-sense-of-place.html)
+
