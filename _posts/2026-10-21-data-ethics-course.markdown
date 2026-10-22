@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New LinkedIn Learning course on data ethics dives into philisophy"
+title:  "New LinkedIn Learning course on data ethics dives into philosophy"
 author: "Keenan J. Britt"
 description: "A Pleistocene site in Interior Alaska may hold the bones of the first domesticated dogs in the New World."
 image: /docs/assets/images/Philosophy_meta.jpg
