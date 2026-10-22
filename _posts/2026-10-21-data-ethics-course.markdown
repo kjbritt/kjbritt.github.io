@@ -32,7 +32,10 @@ Mesa proceeded to introduce four ethical theories that allow those working in bi
 
 ## How to evaluate a dilemma
 
-Mesa demonstrated how the four ethical theories could be used to evaluate ethical dilemmas. In one example, Mesa proposed a hypothetical situation about a medical organization considering sharing its patients' health information without consent for a study that could benefit public health.
+Mesa demonstrated how these ethical theories could be used to evaluate ethical dilemmas. In one example, Mesa proposed a hypothetical situation about a medical organization considering sharing its patients' health information without consent for a study that could benefit public health. He then compared how a deontologist would respond differently from a utilitarian.
 
-A deontologist, according to Mesa, would not share patient data without the patients' consent as it would violate the rules. "Deontology focuses on the adherence of rules and duties," he explained. "Actions are considered ethical if they follow the rules, regardless of consequences." To a deontologist, the potential for the data to help public health studies is irrelevant.
+A deontologist, according to Mesa, would not share patient data without the patients' consent as it would violate the rules. "Deontology focuses on the adherence of rules and duties," he said. "Actions are considered ethical if they follow the rules, regardless of consequences." To a deontologist, the potential for the data to help public health studies is irrelevant.
 
+On the contrary, a utilitarian, Mesa explained, would be willing to share the data without patient approval if the potential benefits to society were greater than the issues concerning data privacy.
+
+These different approaches can help those handling data in fields ranging from tech to business to medicine to education better evaluate their own actions. 
