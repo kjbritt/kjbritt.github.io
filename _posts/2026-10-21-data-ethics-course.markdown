@@ -2,7 +2,7 @@
 layout: post
 title:  "New LinkedIn Learning course on data ethics dives into philosophy"
 author: "Keenan J. Britt"
-description: "A Pleistocene site in Interior Alaska may hold the bones of the first domesticated dogs in the New World."
+description: "Deontology, utilitarianism and more - make sense of ethical frameworks with this new course."
 image: /docs/assets/images/Philosophy_meta.jpg
 date:   2026-10-21 01:06:33 +0000
 category: philosophy
@@ -15,7 +15,7 @@ Back in August, [LinkedIn Learning](https://www.linkedin.com/learning) released 
 
 I've taken online courses in data ethics before. They tend to focus on providing awareness to developers and engineers about ethics issues in tech and big data. As in, awareness that such issues exist. They tend to provide examples or case studies on topics like securing customer data from hackers or bias in AI models. 
 
-I expected this course to be much the same, but I decided to check it out anyways. What I found was a course that was more than topical, but rather provided methodologies for approaching ethical problems as you encounter them.
+I expected this course to be much the same, but I decided to check it out anyway. What I found was a course that was more than topical, but rather provided methodologies for approaching ethical problems as you encounter them.
 
 ## Definitions and paradigms
 
