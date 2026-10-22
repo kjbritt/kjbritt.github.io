@@ -7,7 +7,7 @@ image: /docs/assets/images/Philosophy_meta.jpg
 date:   2026-10-21 01:06:33 +0000
 category: philosophy
 tags: philosophy ai
-published: false
+published: true
 ---
 {% include breadcrumbs.html %}
 
@@ -22,3 +22,11 @@ I expected this course to be much the same, but I decided to check it out anyway
 Philosophers are infamous for arguing semantics, with some debates over definitions spanning millennia. Mesa started the course with a straight-forward, working definition of ethics. This is a pragmatic move that makes the course approachable to non-philosophers (the intended audience).
 
 Mesa introduced "ethics" as referring to the moral principles that govern a individual or organization's behavior or how they conduct an activity. 
+
+Mesa proceeded to introduce four ethical theories that allow those working in big data to evaluate their own actions:
+
+- Deontology: "duty-based ethics"
+- Utilitarianism: "outcome based ethics"
+- Virtue ethics: "character based ethics"
+- Ethics of belief: "justification based ethics"
+
