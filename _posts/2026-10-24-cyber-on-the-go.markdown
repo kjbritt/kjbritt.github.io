@@ -11,11 +11,8 @@ published: false
 ---
 {% include breadcrumbs.html %}
 
-Back in August, [LinkedIn Learning](https://www.linkedin.com/learning) released a new course titled "[Data Ethics Fundamentals](https://www.linkedin.com/learning/data-ethics-fundamentals/)". Produced by Texas-based software company Anaconda, Inc., the course is taught by software engineer Jose Mesa, Ph.D., a [University of Michigan Engineering alumnus](https://name.engin.umich.edu/2025/08/26/alumni-highlight/) (Go Blue!).
+This summer, [LinkedIn Learning](https://www.linkedin.com/learning) released a new course titled "[Cybersecurity Awareness: Mobile and Remote Work Security](https://www.linkedin.com/learning/cybersecurity-awareness-mobile-and-remote-work-security/intro-to-mobile-and-remote-work-security/)". The course is taught by Caroline Wong, chief strategy officer at cybersecurity company Axari. 
 
-I've taken online courses in data ethics before. They tend to focus on providing awareness to developers and engineers about ethics issues in tech and big data. As in, awareness that such issues exist. They tend to provide examples or case studies on topics like securing customer data from hackers or bias in AI models. 
-
-I expected this course to be much the same, but I decided to check it out anyway. What I found was a course that was more than topical, but rather provided methodologies for approaching ethical problems as you encounter them.
 
 ## Definitions and paradigms
 
@@ -42,7 +39,5 @@ These different approaches can help those handling data in fields ranging from t
 
 ## Related news
 
-- [Stoicism for computer programmers: Epictetus on measuring progress](https://kjbritt.github.io/philosophy/2026/03/21/epictetus-progress.html)
-- [Introducing the next generation to philosophy](https://kjbritt.github.io/philosophy/2026/06/04/introducing-philosophy.html)
-- [Making sense of ‘place’](https://kjbritt.github.io/philosophy/2026/05/21/making-sense-of-place.html)
+- [New LinkedIn Learning course on data ethics dives into philosophy](https://kjbritt.github.io/philosophy/2026/10/21/data-ethics-course.html)
 
