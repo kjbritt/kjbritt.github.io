@@ -44,7 +44,7 @@ Here's an example for a ghost busting service:
 <p>Are you troubled by strange noises in the middle of the night? Do you experience feelings of dread in your basement or attic? Have you or any of your family ever seen a spooky, specter or ghost? If the answer is yes, pick up your phone and call the professionals!</p>
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<button style="font-size:24px" onclick="location.href='tel:+12125552368';"><i class="fa fa-phone"></i> Who ya gonna call?</button>
+<button style="font-size:24px" onclick="location.href='tel:+12125552368';"><i class="fa fa-phone"></i> Call now!</button>
 
 </div>
 
