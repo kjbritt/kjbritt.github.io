@@ -34,7 +34,7 @@ Here's an example of how you might implement this along with an email address on
 
 ## Getting more creative
 
-You can also get more creative by adding a button your web visitors can click on. The buton text can serve as a nice place to add a call to action like "Call Now!" or something similar. You can add the telephone link into the JavaScript onclick attribute as <code>"location.href='tel:+15551234567'</code>. For fun, you could try adding a graphic like the [Font Awesome telephone receiver icon](https://www.w3schools.com/icons/tryit.asp?filename=tryicons_fa-phone). 
+You can also get more creative by adding a button your web visitors can click on. The buton text can serve as a nice place to add a call to action like "Call Now!" or something similar. You can add the telephone link into the JavaScript onclick attribute as <code>location.href='tel:+15551234567'</code>. For fun, you could try adding a graphic like the [Font Awesome telephone receiver icon](https://www.w3schools.com/icons/tryit.asp?filename=tryicons_fa-phone). 
 
 Here's an example for a ghost busting service:
 
