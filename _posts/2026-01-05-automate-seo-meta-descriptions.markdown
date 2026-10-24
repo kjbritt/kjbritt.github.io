@@ -6,7 +6,7 @@ description: "Writing quality meta descriptions for your web pages is a key feat
 image: /docs/assets/images/Paleontology_meta.jpg
 date:   2026-01-04 01:06:33 +0000
 category: seo
-tag: seo
+tags: seo python
 published: true
 ---
 {% include breadcrumbs.html %}

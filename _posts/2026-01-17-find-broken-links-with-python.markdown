@@ -5,8 +5,8 @@ author: "Keenan J. Britt"
 description: "Are you using AI to automate your SEO efforts? Beware these three common pitfalls if you're using LLMs to write meta descriptions for your web pages."
 image: https://upload.wikimedia.org/wikipedia/commons/a/a3/404_Not_Found.jpg
 date:   2026-01-17 08:06:33 +0000
-category: seo
-tag: seo
+category: seo python
+tags: seo python
 published: true
 ---
 {% include breadcrumbs.html %}
