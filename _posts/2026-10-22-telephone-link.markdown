@@ -15,6 +15,8 @@ Adding a telephone link can be a simple addition to your website's contact page.
 
 It's super convienent for mobile users visiting your website if they can simply click the telephone link and have their phone dial that number automatically. But how do you properly hyperlink this?
 
+## A simple example
+
 In order to hyperlink a phone number in HTML, you'll need to use a telephone link inside your anchor tag's href attribute. The format will need to be <code>"tel:+15551234567"</code> if your number is something like "(555) 123-4567". That being said, you can still style the link text to which ever format you prefer. 
 
 You can try this out and look at sample code in the W3Schools' [online HTML editor](https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_link_phoneto). 
@@ -36,8 +38,13 @@ You can also get more creative by adding a button your web visitors can click on
 
 Here's an example for a ghost busting service:
 
+<div style="background-color: #D3D3D3; padding: 10px; color:black;">
+<h3>Contact</h3>
+
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <button style="font-size:24px" onclick="location.href='tel:+12125552368';"><i class="fa fa-phone"></i> Who ya gonna call?</button>
+
+</div>
 
 ## Related news
 
