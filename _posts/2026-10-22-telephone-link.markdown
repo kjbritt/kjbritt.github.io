@@ -48,6 +48,10 @@ Here's an example for a ghost busting service:
 
 </div>
 
+## Sample code
+
+Sample HTML code for the two examples available above is [available here](https://github.com/kjbritt/telephone-link-samples/blob/main/html_sample.html). 
+
 ## Related news
 
 - [Web accessibility: are you using proper bulleted lists?](https://kjbritt.github.io/webdesign/2026/03/21/bulleted-lists.html)
