@@ -7,7 +7,7 @@ image: /docs/assets/images/nettle_lake.jpg
 date:   2026-10-26 01:06:33 +0000
 category: archaeology
 tags: archaeology travel
-published: false
+published: true
 ---
 {% include breadcrumbs.html %}
 
