@@ -12,7 +12,7 @@ published: true
 {% include breadcrumbs.html %}
 
 <figure>
-  <img src="/docs/assets/images/lake_huron_web.jpg" alt="A modern female musk ox." />
+  <img src="/docs/assets/images/lake_huron_web.jpg" alt="Lake Huron." />
   <figcaption><i>Lake Huron in the autumn.</i></figcaption>
 </figure>
 
