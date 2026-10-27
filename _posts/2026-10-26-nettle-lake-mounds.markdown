@@ -20,6 +20,8 @@ If you're an archaeology fan or history buff, and you happen to be driving throu
 
 ## Getting there and open hours
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2323.877321582942!2d-84.731563!3d41.6875177!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x883d9b002b9c7b77%3A0x2edf64d6c8d7eba4!2sNettle%20Lake%20Indian%20Mounds!5e1!3m2!1sen!2sus!4v1793068239338!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
 If you're traveling through northwestern Ohio to visit this mound group, don't expect a visitors center, museumm, restrooms or anything of the like. There is a large sign along the road to mark the entrance:
 
 <blockquote>
@@ -47,6 +49,8 @@ The sign continues:
 <blockquote>
 These mounds have been partially excavated in the past by pot hunters in search of relics. Although the records of these excavations are vague and incomplete, pottery fragments, burials, and flint artifacts found in the mounds indicate that they were constructed by the Hopewell Indians.
 </blockquote>
+
+The sign refers to the pot hunters conducting "excavations", but what it truly records is another sad instance in the widespread looting of Ohio's archaeological heritage during the 19th and 20th centuries. 
 
 ## Related news
 
