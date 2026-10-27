@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Visiting Ohio's Nettle Lake mound group"
+title:  "Visiting Ohio's Nettle Lake Mound Group"
 author: "Keenan J. Britt"
 description: "Want to stay safe online while traveling? This course is for you."
 image: /docs/assets/images/nettle_lake.jpg
@@ -12,15 +12,15 @@ published: false
 {% include breadcrumbs.html %}
 
 <figure>
-  <img src="/docs/assets/images/nettle_lake.jpg" alt="A modern female musk ox." />
-  <figcaption><i>Lake Huron in the autumn.</i></figcaption>
+  <img src="/docs/assets/images/nettle_lake.jpg" alt="A sign for the Nettle Lake Mound Group in rural Ohio" />
+  <figcaption><i>Nettle Lake Mound Group, Ohio. April 2026.</i></figcaption>
 </figure>
 
-Are you a digital nomad, an on-the-go professional or someone who just can't help checking those work emails while on vacation? This online course is for you. 
+If you're an archaeology fan or history buff, and you happen to be driving through rural northwestern Ohio, consider a stop at the Nettle Lake Mound Group.  
 
 ## Getting there and open hours
 
-If you're traveling through northwestern Ohio to visit this mound group, don't expect a visitors center, museum or anything of the like. There is a large sign along the road to mark the entrance:
+If you're traveling through northwestern Ohio to visit this mound group, don't expect a visitors center, museumm, restrooms or anything of the like. There is a large sign along the road to mark the entrance:
 
 <blockquote>
 Hopewell Indian Mounds <br>
@@ -30,17 +30,27 @@ Hours: May thru mid November 8 am to dusk <br>
 Sign donated by Broken Arrow M.C. 2004
 </blockquote>
 
-This summer, [LinkedIn Learning](https://www.linkedin.com/learning) released "[Cybersecurity Awareness: Mobile and Remote Work Security](https://www.linkedin.com/learning/cybersecurity-awareness-mobile-and-remote-work-security/intro-to-mobile-and-remote-work-security/)". The course is taught by Caroline Wong, chief strategy officer at cybersecurity company Axari. 
+While the sign said the mounds are only open from May to November, we visited in early April and found that the gate was unlocked and open.
 
-The course doesn't require a technical background; anyone who is tech-savvy enough to connect to Wi-Fi to check their emails can benefit. It aims to provide "simple, practical actions" that you can take to secure devices and stay safe while on unfamiliar networks during your travels.
+## Details on the mounds 
 
-“Imagine you’re answering emails from a coffee shop, jumping onto Wi-Fi from the airport or finishing work from your phone at home,” said Wong in the course introduction. “It feels normal. But each of those moments can introduce real security risks.”
+An Ohio historical marker at the site provides a few details on the mounds:
 
-Throughout the course, Wong emphasizes the need to slow down and pay attention to the details. While you may be smart enough to notice the warning signs in a phishing email while in at work or in your home office, you may be far more distracted while checking your inbox from your phone while waiting to board your flight. 
+<blockquote>
+The Nettle Lake Mound group consists of 4 low mounds overlooking a stream that runs into Nettle Lake. The mounds vary in height from 1 to 3 feet and in diameter from 18 to 30 feet. The mounds are composed primarily of reddish-brown sand (secondary mound) covering a layer of darker sand and loam (primary mound).
+</blockquote>
 
-“Security doesn’t come from a single tool. It comes from combining protections and making better decisions about how you use them," said Wong. 
+While the marker indicates that four mounds are present, I was only able to locate three while visiting the site. The fourth mound may be hidden in the nearby forest that surrounds the clearing at the site.
+
+The sign continues:
+
+<blockquote>
+These mounds have been partially excavated in the past by pot hunters in search of relics. Although the records of these excavations are vague and incomplete, pottery fragments, burials, and flint artifacts found in the mounds indicate that they were constructed by the Hopewell Indians.
+</blockquote>
 
 ## Related news
 
-- [New LinkedIn Learning course on data ethics dives into philosophy](https://kjbritt.github.io/philosophy/2026/10/21/data-ethics-course.html)
+- [Late Precontact burial mounds in Michigan located near lakes with long maize growing season](https://kjbritt.github.io/archaeology/2026/03/02/michigan-mound-maize.html)
+- [The surprising animal bones from Alaska's 13,800-year-old Shég’ Xdaltth’í’ site](https://kjbritt.github.io/archaeology/2026/10/18/fauna-sheg-xdaltthi.html)
+- [Archaeologists unearth Alaska's 14,000-year-old mammoth ivory workshop](https://kjbritt.github.io/archaeology/2026/02/08/holzman-site.html)
 
