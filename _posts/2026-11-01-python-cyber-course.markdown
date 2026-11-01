@@ -36,6 +36,5 @@ Whether this course is worth your time (and money) depends on what your goals ar
 ## Related news
 
 - [New LinkedIn Learning course on data ethics dives into philosophy](https://kjbritt.github.io/philosophy/2026/10/21/data-ethics-course.html)
-
 - [This online course offers cybersecurity tips for travelers working on the go](https://kjbritt.github.io/cybersecurity/2026/10/24/cyber-on-the-go.html)
 
