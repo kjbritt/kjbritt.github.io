@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "What Google's Python cybersecurity automation course teaches - and what it doesn't"
+title:  "Is Google's Python cybersecurity automation course worth it? What it teaches and what it doesn't."
 author: "Keenan J. Britt"
-description: "Want to stay safe online while traveling? This course is for you."
+description: "Is the course worth it?"
 image: /docs/assets/images/Python_meta.jpg
 date:   2026-10-24 01:06:33 +0000
 category: python
@@ -11,7 +11,7 @@ published: false
 ---
 {% include breadcrumbs.html %}
 
-Are you a digital nomad, an on-the-go professional or someone who just can't help checking those work emails while on vacation? This online course is for you. 
+I recently completed Google's course "[Automate Cybersecurity Tasks with Python](https://www.coursera.org/organizations/umich/learn/automate-cybersecurity-tasks-with-python)" on Coursera. The course is the seventh in the in the nine course series composing the [Google Cybersecurity Professional Certificate](https://www.coursera.org/specializations/google-cybersecurity). With an estimated time of 25 hours to complete, this course is the longest of the nine in the specialization. 
 
 This summer, [LinkedIn Learning](https://www.linkedin.com/learning) released "[Cybersecurity Awareness: Mobile and Remote Work Security](https://www.linkedin.com/learning/cybersecurity-awareness-mobile-and-remote-work-security/intro-to-mobile-and-remote-work-security/)". The course is taught by Caroline Wong, chief strategy officer at cybersecurity company Axari. 
 
