@@ -13,15 +13,11 @@ published: false
 
 I recently completed Google's course "[Automate Cybersecurity Tasks with Python](https://www.coursera.org/organizations/umich/learn/automate-cybersecurity-tasks-with-python)" on Coursera. The course is the seventh in the in the nine course series composing the [Google Cybersecurity Professional Certificate](https://www.coursera.org/specializations/google-cybersecurity). With an estimated time of 25 hours to complete, this course is the longest of the nine in the specialization. 
 
-This summer, [LinkedIn Learning](https://www.linkedin.com/learning) released "[Cybersecurity Awareness: Mobile and Remote Work Security](https://www.linkedin.com/learning/cybersecurity-awareness-mobile-and-remote-work-security/intro-to-mobile-and-remote-work-security/)". The course is taught by Caroline Wong, chief strategy officer at cybersecurity company Axari. 
+## What does this course cover?
 
-The course doesn't require a technical background; anyone who is tech-savvy enough to connect to Wi-Fi to check their emails can benefit. It aims to provide "simple, practical actions" that you can take to secure devices and stay safe while on unfamiliar networks during your travels.
+The course description explains that learners will be introduced to "the Python programming language and learn how to apply it to a security setting to automate tasks."
 
-“Imagine you’re answering emails from a coffee shop, jumping onto Wi-Fi from the airport or finishing work from your phone at home,” said Wong in the course introduction. “It feels normal. But each of those moments can introduce real security risks.”
-
-Throughout the course, Wong emphasizes the need to slow down and pay attention to the details. While you may be smart enough to notice the warning signs in a phishing email while in at work or in your home office, you may be far more distracted while checking your inbox from your phone while waiting to board your flight. 
-
-“Security doesn’t come from a single tool. It comes from combining protections and making better decisions about how you use them," said Wong. 
+Make no mistake - this is an intro to Python course. While it's part of a larger cybersecurity specialization course, the security aspect of this course feels more like decoration. Like, instead of learning <code>print("Hello world!")</code>, you'll be learning <code>print("Security alert!")</code>.
 
 ## Related news
 
