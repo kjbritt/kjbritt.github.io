@@ -21,6 +21,14 @@ Make no mistake - this is an intro to Python course. While it's part of a larger
 
 The first three modules focus on introductory programming concepts, including variables, data types, functions and loops. The fourth module, titled "Python in practice", is more interesting, guiding learners to build a Python program to open and iterate information in a TXT log file. 
 
+## Is this course difficult?
+
+If you're an experienced Python programmer, you'll breeze through this course in much less time than the estimated 25 hours. If you're new to programming, you'll want to slow down and take your time to understand all of the new concepts.
+
+The programming labs in this course are ungraded with answers provided. There are no challenging programming assignments in this course that you'll need to submit and re-submit to an auto-grader. Step-by-step instructions are provided for the final portfolio project. 
+
+The only graded assignments are multiple choice quizzes at the end of each section. 
+
 ## Related news
 
 - [New LinkedIn Learning course on data ethics dives into philosophy](https://kjbritt.github.io/philosophy/2026/10/21/data-ethics-course.html)
