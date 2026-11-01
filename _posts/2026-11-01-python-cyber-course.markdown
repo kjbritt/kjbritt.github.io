@@ -4,10 +4,10 @@ title:  "Is Google's Python cybersecurity automation course worth it? What it te
 author: "Keenan J. Britt"
 description: "Is the course worth it?"
 image: /docs/assets/images/Python_meta.jpg
-date:   2026-10-24 01:06:33 +0000
+date:   2026-11-01 01:06:33 +0000
 category: python
 tags: python cybersecurity
-published: false
+published: true
 ---
 {% include breadcrumbs.html %}
 
@@ -18,6 +18,8 @@ I recently completed Google's course "[Automate Cybersecurity Tasks with Python]
 The course description explains that learners will be introduced to "the Python programming language and learn how to apply it to a security setting to automate tasks."
 
 Make no mistake - this is an intro to Python course. While it's part of a larger cybersecurity specialization course, the security aspect of this course feels more like decoration. Like, instead of learning <code>print("Hello world!")</code>, you'll be learning <code>print("Security alert!")</code>.
+
+The first three modules focus on introductory programming concepts, including variables, data types, functions and loops. The fourth module, titled "Python in practice", is more interesting, guiding learners to build a Python program to open and iterate information in a TXT log file. 
 
 ## Related news
 
