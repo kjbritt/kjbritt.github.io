@@ -29,6 +29,10 @@ The programming labs in this course are ungraded with answers provided. There ar
 
 The only graded assignments are multiple choice quizzes at the end of each section. 
 
+## Is this course worth it?
+
+Whether this course is worth your time (and money) depends on what your goals are. If you're aiming to complete Google's cybersecurity certificate, this course is required. Likewise, if you're getting into the cybersecurity field and want to add Python as a skill in your skillset, this course will be a fun and familiar introduction for you. But if you're already a Python programmer and you're hoping to learn advanced security automation scripts, you'll likely find this course underwhelming. 
+
 ## Related news
 
 - [New LinkedIn Learning course on data ethics dives into philosophy](https://kjbritt.github.io/philosophy/2026/10/21/data-ethics-course.html)
