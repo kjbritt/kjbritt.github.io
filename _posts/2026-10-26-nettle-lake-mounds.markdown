@@ -2,7 +2,7 @@
 layout: post
 title:  "Visiting Ohio's Nettle Lake Mound Group"
 author: "Keenan J. Britt"
-description: "Want to stay safe online while traveling? This course is for you."
+description: "These Hopewell period mounds are often overlooked, but worth a stop for the archaeo-tourist."
 image: /docs/assets/images/nettle_lake.jpg
 date:   2026-10-26 01:06:33 +0000
 category: archaeology
