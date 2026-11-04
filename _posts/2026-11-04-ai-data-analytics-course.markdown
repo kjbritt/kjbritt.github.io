@@ -13,7 +13,7 @@ published: false
 
 I recently completed the online course "[AI-Powered Data Analysis: A Practical Introduction](https://www.coursera.org/learn/ai-powered-data-analysis-a-practical-introduction/)" from the University of Michigan. Available on Coursera, this is the middle course of the three-part specializiation "[AI Strategy, Governance, and Data Analysis for Managers](https://www.coursera.org/organizations/umich/specializations/ai-strategy-governance-and-data-analysis-for-managers)".
 
-The stated goal of this course is to instruct learners on how to "use generative AI to develop data analysis ideas, generate code, visualize data and avoid common mistakes." But does the course deliver on this?
+Taught by Tina Lasisi, assistant professor of anthropology and ecology & evolutionary biology at Michigan, this course's stated goal is to instruct learners on how to "use generative AI to develop data analysis ideas, generate code, visualize data and avoid common mistakes." But does the course deliver on this?
 
 
 ## What does this course cover?
