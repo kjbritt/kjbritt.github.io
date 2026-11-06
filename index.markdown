@@ -36,34 +36,7 @@ Welcome! This is an science/technology news site and blog. I'm an Alaska-based s
 
 <h3 id="accessiblemenu">Accessible content menu</h3>
 
-<ul>
-<li><a href="#sciencecontent">Science</a>
-        <ul>
-			<li><a href="/archaeology/">Archaeology</a></li>
-			<li><a href="/geology/">Geology</a></li>
-			<li><a href="/oceans/">Oceans</a></li>
-			<li><a href="/paleontology/">Paleontology</a></li>
-            <li><a href="/space/">Space</a></li>
-			<li><a href="/wildlife/">Wildlife</a></li>
-		</ul>
-</li>
-<li><a href="#technologycontent">Technology</a>
-        <ul>
-			<li><a href="/ai/">Artificial intelligence</a></li>
-			<li><a href="/python/">Python</a></li>
-			<li><a href="/seo/">Search engine optimization</a></li>
-			<li><a href="/technology/">Technology</a></li>
-			<li><a href="/webdesign/">Web design</a></li>
-		</ul>
- </li>       
-<li><a href="#humanitiescontent">Humanities</a>
-        <ul>
-			<li><a href="/classics/">Classics</a></li>
-			<li><a href="/history/">History</a></li>
-			<li><a href="/philosophy/">Philosophy</a></li>
-			<li><a href="/travel/">Travel</a></li>
-		</ul>
-</li>
-</ul>
+{% include accessiblemenu.html %}
+
 
 
