@@ -8,6 +8,7 @@ date:   2026-10-09 01:06:33 +0000
 category: geology
 tags: geology
 ---
+{% include breadcrumbs.html %}
 
 Over the summer, Eric Klein, Ph.D., professor in UAA’s Department of Geological Sciences, was selected as a 2026-27 Fulbright U.S. Scholar for Estonia.
 

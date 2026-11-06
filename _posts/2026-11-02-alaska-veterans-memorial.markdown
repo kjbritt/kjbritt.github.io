@@ -8,6 +8,7 @@ date:   2026-11-02 01:06:33 +0000
 category: history
 tags: history
 ---
+{% include breadcrumbs.html %}
 
 Over 8,000 U.S. military veterans are interred at the Fort Richardson National Cemetery in Anchorage, Alaska. A newly launched project is documenting the untold stories of these veterans and their communities.
 
