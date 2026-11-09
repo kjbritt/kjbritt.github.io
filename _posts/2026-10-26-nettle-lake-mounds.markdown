@@ -6,7 +6,7 @@ description: "These Hopewell period mounds are often overlooked, but worth a sto
 image: /docs/assets/images/nettle_lake.jpg
 date:   2026-10-26 01:06:33 +0000
 category: archaeology
-tags: archaeology travel
+tags: archaeology travel history
 published: true
 ---
 {% include breadcrumbs.html %}
@@ -44,7 +44,9 @@ An Ohio historical marker at the site provides a few details on the mounds:
 The Nettle Lake Mound group consists of 4 low mounds overlooking a stream that runs into Nettle Lake. The mounds vary in height from 1 to 3 feet and in diameter from 18 to 30 feet. The mounds are composed primarily of reddish-brown sand (secondary mound) covering a layer of darker sand and loam (primary mound).
 </blockquote>
 
-While the marker indicates that four mounds are present, I was only able to locate three while visiting the site. The fourth mound may be hidden in the nearby forest that surrounds the clearing at the site.
+While the marker indicates that four mounds are present, I was initially only able to locate three while visiting the site. Upon closer examination, I was able to locate two smaller features that appear to be mounds, though they're harder to distinguish from the uneven landscape. 
+
+YouTuber A38s also noted this discrepancy [in a video at the site](https://www.youtube.com/watch?v=OXQvelXgOz8): "It says on the board that there's four, but I'm counting five." I can only guess that the fifth mound may have been created inadvertently from backfill by looting or survey at the site in the 19th or 20th century. 
 
 The sign continues:
 
