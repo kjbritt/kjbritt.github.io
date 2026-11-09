@@ -36,7 +36,7 @@ Sign donated by Broken Arrow M.C. 2004
 
 While the sign said the mounds are only open from May to November, we visited in early April and found that the gate was unlocked and open.
 
-## Details on the mounds 
+## Historical details on the mounds 
 
 An Ohio historical marker at the site provides a few details on the mounds:
 
@@ -53,6 +53,14 @@ These mounds have been partially excavated in the past by pot hunters in search 
 </blockquote>
 
 The sign refers to the pot hunters conducting "excavations", but what it truly records is another sad instance in the widespread looting of Ohio's archaeological heritage during the 19th and 20th centuries. 
+
+Unfortunately, without proper archaeological survey, we're left to the the analysis of looters for the designation of these mounds as "Hopewell". Archaeologists date the [Hopewell tradition](https://en.wikipedia.org/wiki/Hopewell_tradition) from 100 BC to 500 AD. 
+
+## Connections to local lore
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iKdoggluf4E?si=i7TuMxo7VIg7WMu7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+The Williams County Library produced a video about the [Nettle Lake mounds and their connection to local folklore](https://www.youtube.com/watch?v=iKdoggluf4E), including tall tales of a cryptid inhabiting Nettle Lake and a 19th century settler who possessed an old "Indian drum" that guided him to treasure. Make of these stories what you will, they demonstrate the importance the mounds play in shaping the landscape of the region's settler folklore. 
 
 ## Related news
 
