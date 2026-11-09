@@ -16,7 +16,9 @@ published: true
   <figcaption><i>Nettle Lake Mound Group, Ohio. April 2026.</i></figcaption>
 </figure>
 
-If you're an archaeology fan or history buff, and you happen to be driving through rural northwestern Ohio, consider a stop at the Nettle Lake Mound Group.  
+Ohio is home to many celebrated archaeological attractions, like the celebrated Serpent Mound and the Newark Earthworks - now a UNESCO World Heritage Site. While most of well-known sites are in the southern or central regions of the Buckeye State, northern Ohio still holds many, albeit smaller, Native American mounds.
+
+If you're an fan of archaeology, Indigenous history or local lore, and you happen to be driving through Williams County in rural northwestern Ohio, a stop at the Nettle Lake Mound Group is worth the detour. These small mounds don't offer the impressive photo-op that other Ohio mounds might, but they still offer a direct connection to the deep antiquity of the region. 
 
 ## Getting there and open hours
 
